@@ -1,2 +1,2 @@
 # maps
-Playing with git map renderer
+Various geo.json files
