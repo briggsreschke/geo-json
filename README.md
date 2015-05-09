@@ -1,4 +1,8 @@
 <h4> GeoJSON </h4>
 
-Misc .geo.json files created from census tiger .shp files with ogr2ogr
-
+<table>
+  <tr>
+    <td> <h6> states.geo.json</h6></td>
+    <td> from census tiger .shp files with ogr2ogr </td>
+  </tr>
+</table>
