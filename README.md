@@ -10,6 +10,10 @@
   </tr>
   <tr>
     <td> <h6> us-counties.geo.json</h6></td>
-    <td> Creates from census tiger .shp files with ogr2ogr. </td>
+    <td> From census tiger .shp files with ogr. </td>
+  </tr>
+  <tr>
+    <td> <h6> us-camping.geo.json</h6></td>
+    <td>State and National parks and National Forests. From csv file with ogr.</td>
   </tr>
 </table>
