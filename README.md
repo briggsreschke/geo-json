@@ -14,6 +14,6 @@
   </tr>
   <tr>
     <td> <h6>us-camping</h6></td>
-    <td>State and National parks and National Forests. From csv file with ogr.</td>
+    <td>State and National Parks and National Forests. From us-camping.csv file.</td>
   </tr>
 </table>
