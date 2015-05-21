@@ -1,4 +1,4 @@
-longitude,latitude,park_name,type,phone,emenities,state,city
+longitude,latitude,park_name,park_type,phone,ammenities,state,city
 -113.579,34.231,Alamo Lake State Park,SP,928.669.2088,E DP 35ft FT DW SH RS ,AZ,Wenden
 -109.153,33.895,Alpine Divide,NF,928.339.4384/928.333.4301,NH ND 24ft VT DW NS NR L$ ,AZ,Alpine
 -112.561,34.589,Alto Pit,NF,928.443.8000/928.443.8210,NH ND VT NW NS NR ,AZ,Prescott
@@ -4554,3 +4554,826 @@ longitude,latitude,park_name,type,phone,emenities,state,city
 -88.861,45.93,Windsor Dam,NF,715.528.4464/715.762.2461,NH ND NS NR ,WI,Eagle River
 -91.116,42.994,Wyalusing State Park,SP,608.996.2261,E DP DW SH RS PA ,WI,Bagley
 -89.971,42.769,Yellowstone Lake State Park,SP,608.523.4427,E DP DW SH RS PA ,WI,Blanchardville
+-85.56,33.72,Big Oak Gap Hunter Camp,NF,256.463.2272/334.832.4470,NH ND NS NR N$ ,AL,Heflin
+-88.196,31.738,Bladon Springs State Park,SP,251.754.9207,WES DP NS NR ,AL,Bladon Springs
+-87.902,30.714,Blakeley State Park,SP,251.626.5581,40ft NS RS ,AL,Spanish Fort
+-85.507,31.661,Blue Springs State Park,SP,334.397.4875,WES DP RS ,AL,Clio
+-86.948,33.04,Brierfield Ironworks Historical Park,SP,205.665.1856,WE DP DW SH ,AL,Montevallo
+-87.272,34.298,Brushy Lake,NF,205.489.5111/334.832.4470,NH ND VT DW NS NR L$ ,AL,Moulton
+-86.051,34.472,Bucks Pocket State Park,SP,256.659.2000,WES SH RS ,AL,Grove Oak
+-86.23,34.572,Cathedral Caverns State Park,SP,256.728.8193,NH ND NS L$ ,AL,Woodville
+-85.808,33.477,Cheaha State Park,SP,800.610.5801,WES DP DW SH RS ,AL,Delta
+-85.48,32.554,Chewacla State Park,SP,334.887.5621,E DP DW SH RS ,AL,Auburn
+-87.78,32.363,Chickasaw State Park,SP,334.295.8230,WE NS L$ ,AL,Gallion
+-87.274,32.141,Chilatchee Creek,NF,334.573.2562,E DP FT DW SH RS PA ,AL,Alberta
+-87.26,34.02,Clear Creek,NF,205.489.5111/334.832.4470,E DP DW SH RS PA ,AL,Jasper
+-85.558,33.785,Coleman Lake Rec Area,NF,256.463.2272/334.832.4470,E DP DW SH NR ,AL,Jacksonville
+-87.32,34.1,Corinth,NF,205.489.5111/334.832.4470,WES DP DW SH RS PA ,AL,Double Springs
+-85.618,34.501,De Soto State Park,SP,256.845.5075,WES DP 60ft SH RS ,AL,Fort Payne
+-86.318,30.998,Florala State Park,SP,334.858.6425,WES DW SH RS ,AL,Florala
+-86.252,32.508,Fort Toulouse/Jackson Park,NP,334.567.3002,WE SH NR ,AL,Montgomery
+-86.281,31.346,Frank Jackson State Park,SP,334.493.6988,WE DP DW SH RS ,AL,Opp
+-87.65,30.268,Gulf State Park,SP,251.948.6353,WES DP DW SH RS ,AL,Gulf Shores
+-87.297,34.119,Houston,NF,205.489.5111/334.832.4470,NH DP DW SH RS PA ,AL,Houston
+-87.38,34.793,Joe Wheeler State Park,SP,256.247.5466,E DP DW SH RS ,AL,Rogersville
+-85.874,33.461,Lake Chinnabee,NF,256.362.2909/334.832.4470,NH ND NS NR L$ ,AL,Oxford
+-86.203,34.401,Lake Guntersville State Park,SP,256.571.5444,WES DP DW SH RS L$ ,AL,Guntersville
+-87.677,33.296,Lake Lurleen State Park,SP,205.339.1558,WES DP SH RS ,AL,Coker
+-85.114,31.988,LakePoint State Park,SP,334.687.8011,WES DP DW SH RS ,AL,Eufaula
+-87.346,34.338,Mcdougle Hunter Camp,NF,205.489.5111/334.832.4470,NH ND NS NR N$ ,AL,Russellville
+-87.931,30.67,Meaher State Park,SP,251.626.5529,WES DP DW SH ,AL,Spanish Fort
+-86.512,34.744,Monte Sano State Park,SP,256. 534.375,WES DP FT DW SH RS ,AL,Huntsville
+-86.718,33.353,Oak Mountain State Park,SP,205.620.2520,WE DP DW SH RS ,AL,Pelham
+-86.55,31.09,Open Pond Recreation Area,NF,334.222.2555/334.832.4470,E DP DW SH NR L$ ,AL,Lockhart
+-86.991,32.598,Paul M Grist State Park,SP,334.872.5846,WES DP DW SH NR ,AL,Selma
+-87.44,32.884,Payne Lake East Side,NF,205.926.9765/334.832.4470,NR ,AL,Duncanville
+-87.446,32.881,Payne Lake Spillway,NF,205.926.9765/334.832.4470,NR ,AL,Duncanville
+-87.444,32.889,Payne Lake West Side,NF,205.926.9765/334.832.4470,E DP DW SH NR ,AL,Duncanville
+-85.604,33.725,Pine Glen,NF,256.463.2272/334.832.4470,NH ND NS NR ,AL,Heflin
+-86.865,33.876,Rickwood Caverns State Park,SP,205.647.9692,NH DP DW SH RS ,AL,Warrior
+-87.249,32.057,Roland Cooper State Park,SP,334.682.4838,WES DP DW SH ,AL,Camden
+-87.068,33.251,Tannehill Ironworks Historical State Park,SP,205.477.5711,WE DP FT DW SH NR ,AL,McCalla
+-85.842,33.444,Turnipseed Hunter Camp,NF,256.362.2909/334.832.4470,NH ND NS NR ,AL,Oxford
+-85.925,32.854,Wind Creek State Park,SP,256.329.0845,WE DP DW SH RS ,AL,Alexander City
+-93.879,34.373,Albert Pike,NF,870.356.4186/501.321.5202,E DP DW SH NR L$ ,AR,Langley
+-94.013,34.391,Bard Springs,NF,870.356.4186/501.321.5202,NH ND VT NW NS NR L$ ,AR,Athens
+-92.249,36.019,Barkshed,NF,870.269.3228/479.964.7200,NH ND NS NR ,AR,Mountain View
+-92.944,35.524,Bayou Bluff,NF,870.269.3228/479.964.7200,NH ND NS NR ,AR,Jerusalem
+-90.697,34.711,Beech Point,NF,870.295.5278/479.964.7200,NH ND NS NR ,AR,Marianna
+-93.812,34.685,Big Brushy,NF,479.394.5595/501.321.5202,NH ND VT NW NS NR N$ ,AR,Pencil Bluff
+-92.177,35.974,Blanchard Springs,NF,870.269.3228/479.964.7200,NH DP DW SH NR L$ ,AR,Fifty Six
+-92.808,35.49,Brock Creek,NF,870.269.3228/479.964.7200,NH ND NS NR ,AR,Jerusalem
+-92.557,36.073,Buffalo Point - Buffalo National River,NP,870.449.4311,E DP RS PA ,AR,Yellville
+-92.591,36.356,Bull Shoals State Park,SP,870.445.3629,E DP DW SH RS L$ ,AR,Bull Shoals
+-91.833,33.933,Cane Creek State park,SP,870.628.4714,E DP SH RS ,AR,Star City
+-93.042,35.984,Carver - Buffalo National River,NP,870.439.2502,NH ND NS NR L$ ,AR,Hasty
+-93.383,34.517,Charlton,NF,870.356.4186/501.321.5202,E DP DW SH NR L$ ,AR,Crystal Springs
+-94.223,34.318,Cossatot Falls - Cossatot River State Park,SP,870.385.2201,NH N$ ,AR,Wickes
+-93.622,35.223,Cove Lake  Complex,NF,479.963.3076/479.964.7200,NH DP NS RS L$ ,AR,Paris
+-93.676,34.041,Crater of Diamonds State Park,SP,870.285.3113,E DP DW SH RS ,AR,Murfreesboro
+-90.664,36.044,Crowleys Ridge State Park,SP,870. 573.6751,E DP DW SH RS L$ ,AR,Paragould
+-93.639,34.479,Crystal,NF,870.356.4186/501.321.5202,NH ND VT NW NS NR N$ ,AR,Norman
+-93.74,34.233,Daisy State Park,SP,870.398.4487,E DP DW SH RS L$ ,AR,Kirby
+-93.146,34.247,DeGray Lake State Park,SP,501 865.2801,WE DP FT DW SH RS ,AR,Bismarck
+-94.25,35.782,Devils Den State Park,SP,479.761.3325,E DP SH RS ,AR,West Fork
+-93.633,34.644,Dragover,NF,479.394.5595/501.321.5202,NH ND VT NW NS NR N$ ,AR,Pencil Bluff
+-93.189,36.054,Erbie - Buffalo National River,NP,870.439.2502,NH ND NS NR L$ ,AR,Jasper
+-93.094,35.738,Fairview,NF,870.446.5122/479.964.7200,NH ND NS NR ,AR,Jasper
+-93.66,34.627,Fulton Branch,NF,870.356.4186/501.321.5202,NH ND VT NW NS NR N$ ,AR,Mt. Ida
+-93.036,34.525,Gulpha Gorge - Hot Springs National Park,NP,501.620.6715,WES DP FT DW NS NR L$ ,AR,Hot Springs
+-92.212,35.994,Gunner Pool,NF,870.269.3228/479.964.7200,NH ND NS NR ,AR,Fifty Six
+-93.255,35.677,Haw Creek Falls,NF,870.269.3228/479.964.7200,NH ND NS NR ,AR,Pelsor
+-93.641,35.568,Horsehead Lake,NF,479.754.2864/479.964.7200,NH ND DW SH NR L$ ,AR,Clarksville
+-93.073,34.761,Iron Springs,NF,501.984.5313/501.321.5202,NH ND NS NR ,AR,Jessieville
+-93.845,35.035,Jack Creek,NF,479.637.4174/501.321.5202,NH ND VT NW NS NR N$ ,AR,Booneville
+-91.316,35.637,Jacksonport State Park,SP,870.523.2143,E DP DW SH RS ,AR,Newport
+-93.863,35.016,Knoppers Ford,NF,479.637.4174/501.321.5202,NH ND VT NW NS NR L$ ,AR,Booneville
+-92.919,34.437,Lake Catherine State Park,SP,501.844.4176,E DP 60ft DW SH RS ,AR,Hot Springs
+-91.153,36.068,Lake Charles State Park,SP,870.878.6595,E DP DW SH RS ,AR,Powhatan
+-91.197,33.37,Lake Chicot State Park,SP,870.265.5480,E DP DW SH RS ,AR,Lake Village
+-93.213,35.249,Lake Dardanelle State Park,SP,479.967.5516,E DP DW SH RS ,AR,Russellville
+-90.716,35.972,Lake Frierson State Park,SP,501.767.9366,E DW SH RS L$ ,AR,Jonesboro
+-94.159,35.649,Lake Ft. Smith State Park,SP,479.369.2469,E DP DW SH RS ,AR,Mountainburg
+-93.168,34.61,Lake Ouachita State Park,SP,501.767.9366,E DP DW SH RS L$ ,AR,Mountain Pine
+-90.688,35.534,Lake Poinsett State Park,SP,870.578.2064,E DP DW SH RS L$ ,AR,Harrisburg
+-92.82,34.868,Lake Sylvia,NF,501.984.5313/501.321.5202,E DP DW NS NR ,AR,Perryville
+-94.37,36.092,Lake Wedington Rec. Area,NF,479.667.2191/479.964.7200,E DP DW SH RS L$ ,AR,Fayettville
+-94.269,34.87,Little Pines,NF,479.637.4174/501.321.5202,WE DP DW SH NR ,AR,Waldron
+-93.182,33.349,Logoly State Park,SP,870.695.3561,NH DW SH RS L$ ,AR,McNeil
+-90.696,34.715,Lone Pine,NF,870.295.5278/479.964.7200,NH NR ,AR,Marianna
+-93.159,35.549,Long Pool,NF,870.269.3228/479.964.7200,E DP DW SH NR ,AR,Dover
+-93.388,36.002,Lost Valley - Buffalo National River,NP,870.439.2502,NH ND NS RS L$ ,AR,Ponca
+-90.688,34.705,Maple Flat,NF,870.295.5278/479.964.7200,NH ND NS NR ,AR,Jeffersonville
+-94,33.681,Millwood State Park,SP,870.898.2800,E DP 60ft DW SH RS L$ ,AR,Ashdown
+-92.347,33.301,Moro Bay State Park,SP,870.463.8555,E DP DW SH RS ,AR,Jersey
+-93.619,35.174,Mount Magazine State Park,SP,479.963.8502,E DP SH RS ,AR,Havana
+-93.247,35.219,Mount Nebo State Park,SP,479.229.3655,E DW SH RS L$ ,AR,Dardanelle
+-91.057,36.156,Old Davidsonville State Park,SP,870.892.4708,E RS ,AR,Pocahontas
+-93.16,36.063,Ozark - Buffalo National River,NP,870.439.2502,NH ND NS NR L$ ,AR,Jasper
+-93.448,35.671,Ozone,NF,479.754.2864/479.964.7200,NH ND NS NR ,AR,Clarksville
+-92.951,35.115,Petit Jean State Park,SP,501.727.5441,E DP DW SH RS ,AR,Morrilton
+-94.372,34.686,Queen Wilhelmina State Park,SP,479.394.2863,E RS ,AR,Mena
+-93.786,35.682,Redding,NF,479.754.2864/479.964.7200,NH ND DW SH NR L$ ,AR,Ozark
+-92.934,35.797,Richland Creek,NF,870.446.5122/479.964.7200,NH ND NS NR ,AR,Pelsor
+-93.625,34.64,River Bluff,NF,870.356.4186/501.321.5202,NH ND VT NW NS NR N$ ,AR,Mount Ida
+-93.697,34.612,Rocky Shoals,NF,870.356.4186/501.321.5202,NH ND VT NW NS NR N$ ,AR,Mount Ida
+-92.548,36.125,Rush Landing - Buffalo National River,NP,870.439.2502,NH ND NS NR L$ ,AR,Yellville
+-94.236,34.322,Sand Bar Bridge - Cossatot River State Park,SP,870.385.2201,NH ,AR,Umpire
+-94.024,34.37,Shady Lake,NF,479.394.5595/501.321.5202,E DP DW SH NR L$ ,AR,Athens
+-93.831,34.608,Shirley Creek,NF,479.394.5595/501.321.5202,NH ND VT NW NS NR N$ ,AR,Oden
+-93.96,35.641,Shores Lake,NF,479.667.2191/479.964.7200,E ND DW SH NR ,AR,Mulberry
+-93.687,34.874,South Fourche,NF,501.984.5313/501.321.5202,NR ,AR,Bluffton
+-93.425,35.15,Spring Lake,NF,479.963.3076/479.964.7200,NH NR ,AR,Belleville
+-93.336,36.039,Steel Creek - Buffalo National River,NP,870.439.2502,NH ND NS NR L$ ,AR,Ponca
+-90.613,34.6,Storm Creek Lake,NF,870.295.5278/479.964.7200,NH ND NS NR ,AR,West Helena
+-92.761,35.987,Tyler Bend - Buffalo National River,NP,870.439.2502,NH DP 28ft NS RS L$ ,AR,St Joe
+-90.727,35.171,Village Creek State Park,SP,870.238.9406,E DP DW SH RS ,AR,Wynne
+-93.117,33.689,White Oak Lake State Park,SP,870.685.2748,E DP 55ft DW SH RS L$ ,AR,Bluff City
+-93.957,35.691,White Rock,NF,479.667.2191/479.964.7200,NH ND NS NR L$ ,AR,Mulberry
+-93.733,36.155,Withrow Springs State Park,SP,479.559.2593,E DP DW SH RS ,AR,Huntsville
+-93.633,35.674,Wolf Pen,NF,479.754.2864/479.964.7200,NH ND NS NR ,AR,Oark
+-92.285,35.281,Woolly Hollow State Park,SP,501.679.2098,E DP DW SH RS L$ ,AR,Greenbrier
+-82.146,27.781,Alafia River State Park,SP,813.672.5320,E DP 55ft SH RS PA ,FL,Lithia
+-81.578,29.079,Alexander Springs,NF,352.669.3153/850.523.8500,NH DP DW SH RS PA ,FL,Altoona
+-81.286,29.881,Anastasia State Park,SP,904.461.2033,E DP 40ft DW SH RS PA ,FL,Saint Augustin
+-81.274,24.66,Bahia Honda State Park,SP,305.872.2353,E DP DW SH RS PA ,FL,Big Pine Key
+-81.784,28.985,Big Bass,NF,352.669.3153/850.523.8500,NH DP NR L$ ,FL,Umatilla
+-87.404,30.322,Big Lagoon State Park,SP,850.492.1595,E DP 50ft DW SH RS PA ,FL,Pensacola
+-81.756,29.051,Big Scrub,NF,352.669.3153/850.523.8500,NH RS ,FL,Umatilla
+-86.883,30.708,Blackwater River State Park,SP,850.983.5363,WES DP 50ft FT DW SH RS PA ,FL,Milton
+-81.334,28.952,Blue Spring State Park,SP,850.492.1595,E DP 45ft DW SH RS PA ,FL,Orange City
+-81.652,29.098,Buck Lake,NF,352.669.3153/850.523.8500,NR ,FL,Altoona
+-81.23,25.891,Burns Lake - Big Cypress National Preserve,NP,239.695.1201,NH ND VT NW NS NR ,FL,Ochopee
+-84.988,30.277,Camel Lake,NF,850.643.2282/850.523.8500,E DW SH NR L$ ,FL,Bristol
+-81.551,28.979,Clearwater Lake,NF,352.669.3153/850.523.8500,NH DP DW SH RS ,FL,Paisley
+-81.59,25.992,Collier - Seminole State Park,SP,239.394.3397,E 55ft DW SH RS PA ,FL,Naples
+-85.073,30.052,Cotton Landing,NF,850.643.2282,NH ND PT NW NS NR N$ ,FL,Sumatra
+-80.983,24.743,Curry Hammock State Park,SP,305.289.2690,E DP DW SH RS PA ,FL,Marathon
+-85.2,30.142,Dead Lakes State Rec Area,SP,850.639.2702,E DP DW SH NR L$ ,FL,Wewahitchka
+-84.742,29.722,Dr. Julian G. Bruce State Park,SP,850.927.2111,WE DP SH RS ,FL,Appalachicola
+-85.528,30.73,Falling Waters State Park,SP,850.638.6130,E DP 45ft DW SH RS PA ,FL,Chipley
+-81.673,29.103,Farles Prairie,NF,352.669.3153/850.523.8500,NR ,FL,Altoona
+-81.267,29.67,Faver - Dykes State Park,SP,904.794.0997,E DP SH RS PA ,FL,St. Augustine
+-80.943,25.137,Flamingo - Everglades National Park,NP,239.695.0124,NH DP RS ,FL,
+-85.212,30.808,Florida Caverns State Park,SP,850.482.9598,WES DP 40ft DW SH RS PA ,FL,Marianna
+-81.918,29.269,Fore Lake,NF,352.625.2520/850.523.8500,NH DP DW SH NR ,FL,Silver Springs
+-81.434,30.668,Fort Clinch State Park,SP,904.277.7274,E DP 45ft DW SH RS PA ,FL,Fernandina Bea
+-87.274,30.323,Fort Pickens - Gulf Islands National Seashore,NP,850.934.2622,E SH RS PA ,FL,Pensacola Beach
+-86.432,30.497,Fred Gannon Rocky Bayou State Park,SP,850.833.9144,NR ,FL,Niceville
+-81.109,29.438,Gamble Rogers State Park,SP,386.517.2086,E DP DW SH RS PA ,FL,Flagler Beach
+-81.961,29.847,Gold Head Branch State Park,SP,352.473.4701,E RS PA ,FL,Keystone Heights
+-86.157,30.329,Grayton Beach State Park,SP,850.231.4210,WES DP DW SH RS PA ,FL,Santa Rosa Beach
+-86.447,30.385,Henderson Beach State Park,SP,850.837.7550,E DP DW SH RS PA ,FL,Destin
+-85.014,29.989,Hickory  Landing,NF,850.643.2282/850.523.8500,NH ND NS NR L$ ,FL,Sumatra
+-81.515,27.471,Highlands Hammock State Park,SP,863.386.6094,E DP DW SH RS PA ,FL,Sebring
+-82.224,28.145,Hillsborough River State Park,SP,813.987.6771,E DP 60ft DW SH RS PA ,FL,Thonotosassa
+-81.361,28.973,Hontoon Island State Park,SP,386.736.5309,NH RS PA ,FL,DeLand
+-81.692,29.277,Hopkins Prairie,NF,352.625.2520/850.523.8500,NH NR ,FL,Ocala
+-80.41,25.127,John Pennekamp - Coral Reef State Park,SP,305.451.1202,WES 55ft DW SH RS PA ,FL,Key Largo
+-80.101,27.003,Jonathan Dickinson State Park,SP,772.546.2771,E DP DW SH RS PA ,FL,Stuart
+-81.71,29.182,Juniper Springs,NF,352.625.2520/850.523.8500,NH DP DW SH RS PA ,FL,
+-81.023,27.539,Kissimmee Prairie State Park,SP,863.462.5360,E RS PA ,FL,Okeechobee
+-81.815,26.431,Koreshan Historic State Park,SP,239.992.0311,E DP 40ft DW SH RS PA ,FL,Estero
+-81.786,29.431,Lake Delancy,NF,352.625.2520/850.523.8500,NH ND NS NR ,FL,Fort Gates
+-81.637,29.012,Lake Dorr,NF,352.669.3153/850.523.8500,NH DW SH NR ,FL,Altoona
+-81.866,29.252,Lake Eaton,NF,352.625.2520/850.523.8500,NH NR ,FL,Silver Springs
+-81.903,28.858,Lake Griffin State Rec Area,SP,352.360.6760,WES DP 40ft DW SH RS PA ,FL,Fruitland Park
+-81.38,27.969,Lake Kissimmee State Park,SP,863.696.1112,E DP DW SH RS PA ,FL,Lake Wales
+-81.721,28.456,Lake Louisa State Park,SP,352.394.3969,WES DP 70ft DW SH RS PA ,FL,Clermont
+-82.349,27.475,Lake Manatee State Park,SP,941.741.3028,E DP 60ft DW SH RS PA ,FL,Bradenton
+-82.381,27.658,Little Manatee River State Park,SP,813.671.5005,E RS PA ,FL,Wimauma
+-81.416,30.46,Little Talbot Island State Park,SP,904.251.2320,E DP DW SH RS ,FL,
+-80.824,24.817,Long Key State Park,SP,305.664.4815,E DP DW SH RS PA ,FL,Layton
+-80.647,25.417,Long Pine Key - Everglades National Park,NP,800.436.7275,NH DP NR ,FL,
+-84.644,30.096,Mack,NF,850.926.3561/850.523.8500,NR ,FL,Sopchoppy
+-82.966,29.496,Manatee Springs State Park,SP,352.493.6072,E DP DW SH RS PA ,FL,Chiefland
+-81.961,29.847,Mike Roess Gold Head State Park,SP,352.473.4701,E DP NR ,FL,Keystone Heights
+-81.114,25.869,Monument Lake - Big Cypress National Preserve,NP,239.695.1201,NH ND FT DW NS NR ,FL,Ochopee
+-82.315,27.24,Myakka River State Park,SP,941.361.6511,WES DP DW SH RS PA ,FL,Sarasota
+-82.44,30.248,Ocean Pond,NF,386.752.2577/850.523.8500,E DP 65ft FT DW SH NR L$ ,FL,Olustee
+-84.503,30,Ochlockonee River State Park,SP,850.962.2771,E DP DW SH RS PA ,FL,Sopchoppy
+-82.609,29.92,Oleno State Park,SP,386.454.1853,E DP 50ft SH RS PA ,FL,High Springs
+-82.477,27.17,Oscar Scherer State Park,SP,941.483.5956,E DP DW SH RS PA ,FL,Osprey
+-80.668,26.824,Pahokee State Park,SP, ,E DP DW SH NR ,FL,Pahokee
+-82.298,29.519,Paynes Prairie State Park,SP,352.466.3397,E DP 50ft DW SH RS PA ,FL,Micanopy
+-82.422,29.088,Rainbow Springs State Park,SP,352.465.8550,WES DP DW SH RS PA ,FL,Dunnellon
+-86.433,30.496,Rocky Bayou State Park,SP,850.833.9144,E DP 50ft DW SH RS PA ,FL,Niceville
+-81.801,29.521,Rodman Recreation Area,SP,386. 326.2846,E RS PA ,FL,Palatka
+-82.295,29.042,Ross Prairie,SP,352.732.2606,E DP SH RS PA ,FL,
+-81.732,29.357,Salt Springs,NF,352.625.2520/850.523.8500,WES DP DW SH RS ,FL,Ocala
+-82.094,29.106,Santos Rec Area State Park,SP,352.369.2693,WE DP FT DW SH RS PA ,FL,Ocala
+-80.446,27.856,Sebastian Inlet State Park,SP,321.984.4852,E DP 40ft DW SH RS PA ,FL,Vero Beach
+-81.727,29.329,Shanty Pond Recreation Area,NF,352.625.2520/850.523.8500,NH ND NS NR L$ ,FL,Palatka
+-82.051,29.201,Silver River State Park,SP,352.236.7148,WE  DP DW SH RS PA ,FL,Ocala
+-85.743,30.135,St. Andrews State Park,SP,850.233.5140,E DP SH RS PA ,FL,Panama City
+-84.742,29.722,St. George Island State Park,SP,850.927.2111,E DP SH RS PA ,FL,Appalachicola
+-85.395,29.75,St. Joseph Peninsula State Park,SP,850.227.1327,E DP SH RS PA ,FL,Port St Joe
+-82.76,30.33,Stephen Foster State Park,SP,386.397.2733,E DP 100ft DW SH RS PA ,FL,White Springs
+-83.166,30.378,Suwannee River State Park,SP,386.362.2746,WES DP 55ft DW SH RS PA ,FL,Live Oak
+-84.937,30.739,Three Rivers State Park,SP,850.482.9006,E DP 50ft DW SH RS PA ,FL,Sneads
+-81.085,29.342,Tomoka State Park,SP,386.676.4050,E DP DW SH RS PA ,FL,Ormond Beach
+-86.3,30.375,Topsail Hill Preserve State Park,SP,850.267.0299,WES DP DW SH RS PA ,FL,Santa Rosa Beach
+-84.951,30.57,Torreya State Park,SP,850.643.2674,E DP DW SH RS PA ,FL,Bristol
+-81.463,28.709,Wekiwa Springs State Park,SP,407.884 2008,E DP 50ft DW SH RS PA ,FL,Orlando
+-84.675,30.165,Whitehead,NF,850.643.2282/850.523.8500,NH ND NS NR L$ ,FL,Sumatra
+-85.005,30.001,Wright Lake,NF,850.643.2282/850.523.8500,NH DP DW SH NR L$ ,FL,Bristol
+-82.897,33.558,A.H. Stephens State Park,SP,706.456.2602,E DP 60ft SH RS ,GA,Crawfordville
+-84.251,34.554,Amicalola Falls State Park,SP,800.864.7275,DP DW SH RS ,GA,Dawsonville
+-83.737,34.778,Andrews Cove,NF,809.782.3320/770.297.3000,NH NR ,GA,Helen
+-83.402,34.918,Black Rock Mountain State Park,SP,706.746.2141,E DP DW SH RS ,GA,Mountain City
+-82.589,33.979,Bobby Brown State Park,SP,706. 213.2046,DP NR ,GA,Elberton
+-83.892,34.689,Boggs Creek,NF,809.782.3320/770.297.3000,NH ND NS NR ,GA,Cleveland
+-84.972,33.426,Chattahoochee Bend State Park,SP,770.254.7271,WE FT DW RS ,GA,Newnan
+-85.49,34.816,Cloudland Canyon State Park,SP,706.657.4050,E DP 40ft DW SH RS ,GA,Rising Fawn
+-84.068,34.763,Cooper Creek,NF,706.632.3031/770.297.3000,NH ND NS NR ,GA,Suches
+-84.639,34.982,Cottonwood Patch,NF,706.638.1085/770.297.3000,NH ND NS NR ,GA,Epworth
+-81.562,30.841,Crooked River State Park,SP,912.882.5256,E DP 50ft DW SH RS ,GA,St. Marys
+-84.14,34.74,Deep Hole,NF,706.632.3031/770.297.3000,NH ND NS NR ,GA,Suches
+-83.912,34.71,Desoto Falls,NF,706.745.6928/770.297.3000,NH DW SH NR ,GA,Cleveland
+-83.975,34.674,Dockery Lake,NF,706.745.6928/770.297.3000,NH NR ,GA,Suches
+-82.403,33.854,Elijah Clark State Park,SP,706.359.3458,E DP DW SH RS ,GA,Lincolnton
+-84.815,32.839,F.D. Roosevelt State Park,SP,706.663.4858,E DP 40ft SH RS ,GA,Pine Mountain
+-85.043,32.09,Florence Marina State Park,SP,229.838.6870,E DP DW SH RS ,GA,Omaha
+-81.212,31.886,Fort McAllister State Park,SP,912.727.2339,E DP 65ft DW SH RS ,GA,Savannah
+-84.694,34.761,Fort Mountain State Park,SP,706.695.2621,E DW SH RS ,GA,Chatsworth
+-83.734,33.985,Fort Yargo State Park,SP,770.867.3489,E DP 50ft DW SH RS ,GA,Winder
+-84.149,34.703,Frank Gross,NF,706.632.3031/770.297.3000,NH ND NS NR ,GA,Blue Ridge
+-82.756,31.509,General Coffee State Park,SP,912.384.7082,E DP DW SH RS ,GA,Douglas
+-82.125,32.545,George L Smith State Park,SP,478.763.2759,E DP 40ft DW SH RS ,GA,Twin City
+-83.912,31.968,Georgia Veterans State Park,SP,229.276.2371,E DP 50ft DW SH RS ,GA,Cordele
+-82.128,32.085,Gordonia-Alatamaha State Park,SP,912.557.7744,E DP DW SH RS ,GA,Reidsville
+-82.778,33.207,Hamburg State Park,SP,478.552.2393,E DP DW SH NR ,GA,Mitchell
+-83.602,33.66,Hard Labor Creek State Park,SP,706.557.3001,E DP DW SH RS ,GA,Rutledge
+-82.911,34.377,Hart State Park,SP,706.376.8756,E DP DW SH NR ,GA,Hartwell
+-84.672,34.894,Hickory Gap,NF,706.638.1085/770.297.3000,NR ,GA,Crandall
+-85.073,34.516,Hidden Creek,NF, ,NH NR ,GA,Calhoun
+-84.021,33.179,High Falls State Park,SP,478.993.3053,E DP DW SH RS ,GA,Jackson
+-83.92,33.245,Indian Springs State Park,SP,770.504.2277,E DP 50ft DW SH RS ,GA,Jackson
+-84.517,34.863,Jacks River Fields,NF,706.638.1085/770.297.3000,NH ND NS NR L$ ,GA,Epworth
+-85.337,34.44,James H Sloppy Floyd State Park,SP,706.857.0826,E DW SH RS ,GA,Summerville
+-85.167,33.602,John Tanner State Park,SP,770.830.2222,E DP 40ft DW SH RS ,GA,Carrollton
+-84.948,31.468,Kolomoki Mounds State Park,SP,229.724.2150,E DP DW SH RS ,GA,Blakely
+-84.65,34.861,Lake Conasauga,NF,706.638.1085/770.297.3000,NH ND NS NR L$ ,GA,Crandall
+-84.65,34.857,Lake Conasauga Overflow,NF,706.638.1085/770.297.3000,NR ,GA,Chatsworth
+-83.495,34.494,Lake Russell,NF,809.782.3320/770.297.3000,NH DP DW SH NR ,GA,Mount Airy
+-83.395,33.208,Lake Sinclair,NF,706.485.3180/770.297.3000,WES DP DW SH RS PA ,GA,Eatonton
+-83.97,34.739,Lake Winfield Scott,NF,706.745.6928/770.297.3000,WES DW SH RS PA ,GA,Suches
+-82.214,31.144,Laura S. Walker State Park,SP,912.287.4900,E DP DW SH RS ,GA,Waycross
+-82.885,32.092,Little Ocmulgee State Park,SP,229.868.7474,E DP 40ft DW SH RS ,GA,McRae
+-83.783,34.751,Low Gap Creek,NF,809.782.3320/770.297.3000,NH NR ,GA,Helen
+-81.958,32.874,Magnolia Springs State Park,SP,478.982.1660,E DP DW SH RS ,GA,Millen
+-82.385,33.643,Mistletoe State Park,SP,706.541.0321,E DW SH RS ,GA,Appling
+-83.589,34.845,Moccasin Creek State Park,SP,706.947.3194,E DP DW SH RS ,GA,Clayton
+-84.244,34.869,Morganton Point,NF,706.632.3031/770.297.3000,NH DW SH RS PA ,GA,Morganton
+-84.072,34.762,Mulky,NF,706.632.3031/770.297.3000,NH ND NS NR ,GA,Morganton
+-83.291,33.721,Oconee River,NF,706.485.3180/770.297.3000,NH ND NS NR ,GA,Watkinsville
+-85.083,34.586,Pocket,NF,706.638.1085/770.297.3000,NH NR ,GA,Armuchee
+-83.474,34.754,Rabun Beach,NF,706.782.3322/770.297.3000,E DP DW SH NR ,GA,Clarkesville
+-84.713,34.148,Red Top Mountain State Park,SP,770.975.4226,RS ,GA,Cartersville
+-83.54,31.161,Reed Bingham State Park,SP,229.896.3551,E DP 50ft DW SH RS ,GA,Adel
+-82.767,34.181,Richard B. Russell State Park,SP,706.213.2045,E DW SH RS ,GA,Elberton
+-83.558,34.961,Sandy Bottoms Rec. Area,NF,706.782.3322/770.297.3000,NH NR ,GA,Clayton
+-83.264,34.928,Sarahs Creek,NF,706.782.3322/770.297.3000,NH ND NS NR ,GA,Clayton
+-81.549,30.721,Sea Camp - Cumberland Island Natl Seashore,NP,(912) 882-4335,NH ND VT DW SH RS ,GA,St. Mary's
+-84.879,30.805,Seminole State Park,SP,229.861.3137,E DP DW SH RS ,GA,Donalsonville
+-81.053,31.948,Skidaway Island State Park,SP,912.598.2300,RS ,GA,Savannah
+-82.361,30.827,Stephen C. Foster State Park,SP,912.637.5274,E DP DW SH RS ,GA,Fargo
+-83.4,34.74,Tallulah Gorge State Park,SP,706.754.7970,E DW SH RS ,GA,Tallulah Falls
+-83.545,34.928,Tallulah River,NF,706.782.3322/770.297.3000,NH NR ,GA,Clayton
+-83.553,34.954,Tate Branch,NF,706.782.3322/770.297.3000,NH NR ,GA,Clayton
+-83.082,34.502,Tugaloo State Park,SP,706.356.4362,E DP 35ft DW SH RS ,GA,Lavonia
+-83.722,34.724,Unicoi State Park,SP,706.878.2201,RS ,GA,Helen
+-83.784,34.79,Upper Chattahoochee River,NF,809.782.3320/770.297.3000,NH NR ,GA,Helen
+-83.159,34.299,Victoria Bryant State Park,SP,706.245.6270,E DP DW SH RS ,GA,Royston
+-83.918,34.768,Vogel State Park,SP,706.745.2628,E DW SH RS ,GA,Blairsville
+-83.075,34.026,Watson Mill Bridge State Park,SP,706.783.5349,E DP DW SH RS ,GA,Comer
+-83.619,34.828,Wildcat 1,NF,706.782.3322/770.297.3000,NH NR ,GA,Clayton
+-83.626,34.832,Wildcat 2,NF,706.782.3322/770.297.3000,NH NR ,GA,Clayton
+-84.547,36.764,Alum Ford - Big South Fork Area,NP,931.879.4869,NH ND PT NW NS NR ,KY,
+-86.062,36.854,Barren River Lake State Park,SP,800.325.0057,WES DP DW SH RS PA L$ ,KY,Lucas
+-84.317,37.029,Bee Rock Rec Area,NF,606.864.4163/859.745.3100,NH NR ,KY,Somerset
+-84.748,38.889,Big Bone Lick State Park,SP,859.384.3522,E 45ft DW SH RS PA ,KY,Union
+-88.154,36.922,Birmingham Ferry/Smith Bay - LBL,NF,270.924.2000/270.924.2000,NH VT NS NR ,KY,Eddyville
+-84.519,36.677,Blue Heron - Big South Fork Area,NP,423.286.7275,E DP DW SH RS PA ,KY,Stearns
+-83.994,38.43,Blue Licks State Park,SP,800.443.7008,E DP DW SH RS PA ,KY,Carlisle
+-82.298,37.293,Breaks Interstate Park,SP,800.982.5122,RS ,KY,
+-83.003,37.231,Carr Creek State Park,SP,606.642.4050,E RS PA ,KY,Sassafras
+-83.118,38.372,Carter Caves State Park,SP,800.325.0059,WES DP DW SH RS PA ,KY,Olive Hill
+-83.586,38.046,Clear Creek Rec Area,NF,606.784.6428/859.745.3100,NH NR ,KY,Salt Lick
+-89.11,36.766,Columbus - Belmont State Park,SP,270.677.2327,WES DW SH RS PA ,KY,Arlington
+-88.048,36.962,Cravens Bay - LBL Lake Access,NF,270.924.2000/270.924.2000,NH DP FTVT NS NR ,KY,Eddyville
+-84.329,36.845,Cumberland Falls State Park,SP,800.325.0063,E DP DW SH RS PA ,KY,Williamsburg
+-85.284,36.654,Dale Hollow State Park,SP,800.325.2282,WES DP DW SH RS PA ,KY,Burkesville
+-88.017,36.855,Energy Lake - LBL,NF,270.924.2000/270.924.2000,E ND FT DW SH NR ,KY,Cadiz
+-88.106,36.775,Fenton - LBL Lake Access,NF,270.924.2000/270.924.2000,E ND VT NS NR ,KY,Murray
+-84.267,37.9,Fort Boonesborough State Park,SP,859.527.3131,WES DW SH RS PA ,KY,Winchester
+-87.904,36.557,Gatlin Point - LBL,NF,270.924.2000/270.924.2000,NH ND VT DW NS NR ,KY,
+-84.602,36.975,General Burnside State Park,SP,606.561.4104,E DP DW SH RS PA ,KY,Burnside
+-85.144,38.667,General Butler State Park,SP,866.462.8853,WES 45ft DW SH RS PA ,KY,Carrollton
+-83.015,38.212,Grayson Lake State Park,SP,606.474.5107,E DP 60ft DW SH RS PA ,KY,Olive Hill
+-84.727,36.629,Great Meadows,NF,606.376.5323/859.745.3100,NH DW NR N$ ,KY,Stearns
+-85.337,37.272,Green River Lake State Park,SP,270.465.8255,E DP DW SH RS PA ,KY,Campbellsville
+-82.89,38.487,Greenbo Lake State Park,SP,800.325.0083,WES DP DW SH RS PA ,KY,Greenup
+-84.217,36.94,Grove Rec Area,NF,606.864.4163/859.745.3100,E DP 50ft DW SH RS ,KY,Corbin
+-88.182,36.944,Hillman Ferry - LBL,NF,270.924.2000/270.924.2000,E DP DW SH NR ,KY,Grand Rivers
+-84.267,36.982,Holly Bay Rec Area,NF,606.864.4163/859.745.3100,E DP DW SH RS ,KY,London
+-86.237,37.202,Houchins Ferry  - Mammoth Cave National Park,NP,270.758.2180,NH NR ,KY,Brownsville
+-82.729,37.697,Jenny Wiley State Park,SP,800.325.0142,WES DP DW SH RS PA ,KY,Prestonsburg
+-87.552,37.874,John J. Audubon State Park,SP,270.826.2247,E DP DW SH RS PA ,KY,Henderson
+-88.052,36.681,Jones Creek - Lake Access,NF,270.924.2000/270.924.2000,NR ,KY,Murray
+-88.148,36.762,Kenlake State Park,SP,800.325.0143,E DP DW SH RS PA ,KY,Hardin
+-88.282,37.012,Kentucky Dam Village State Park,SP,800.325.0146,E DP 60ft DW SH RS PA ,KY,Gilbertsville
+-84.514,38.141,Kentucky Horse Park Campground,SP,859.259.4257,WE DP 55ft DW SH RS PA ,KY,Lexington
+-84.278,38.721,Kincaid Lake State Park,SP,859.654.3531,E DW SH RS PA ,KY,Falmouth
+-83.633,37.784,Koomer Ridge Rec Area,NF,606.784.6428/859.745.3100,NH DW SH NR ,KY,Pine Ridge
+-87.915,36.848,Lake Barkley State Park,SP,800.325.1708,E DP DW SH RS PA ,KY,Cadiz
+-85.062,36.91,Lake Cumberland State Park,SP,800.325.1709,E DP DW SH RS PA ,KY,Jamestown
+-87.04,37.074,Lake Malone State Park,SP,270.657.2111,E DW SH RS PA ,KY,Belton
+-84.043,37.079,Levi Jackson Wilderness Road State Park,SP,606.878.8000,WES DP DW SH RS PA ,KY,London
+-86.097,37.184,Mammoth Cave - Mammoth Cave National Park,NP,270.758.2424,NH DP DW SH RS PA ,KY,Mammoth Cave
+-85.451,37.805,My Old Kentucky Home State Park,SP,502.348.3502,E DP DW SH RS PA ,KY,Bardstown
+-83.681,37.78,Natural Bridge State Park,SP,800.325.1710,E DP DW SH RS PA ,KY,Slade
+-88.2,36.988,Nickell Branch,NF,270.924.2000/270.924.2000,NH ND NS NR ,KY,Eddyville
+-86.204,37.295,Nolin River State Park,SP,270.286.4240,E DP DW SH RS PA ,KY,Mammoth Cave
+-82.859,37.833,Paintsville Lake State Park,SP,606.297.8486,WES DP DW SH RS PA ,KY,Staffordsville
+-83.395,38.048,Paragon,NF,606.784.6428/859.745.3100,NH ND NS NR ,KY,Clearfield
+-87.668,37.139,Pennyrile Forest State Park,SP,800.325.1711,E DP FT DW SH RS PA ,KY,Dawson Springs
+-83.702,36.742,Pine Mountain State Park,SP,606. 337.3066,NR ,KY,Pineville
+-88.036,36.487,Piney  - LBL,NF, ,E DP DW SH NR ,KY,
+-88.074,36.713,Redd Hollow - LBL,NF,270.924.2000/270.924.2000,NH ND VT NW NS NR ,KY,Canton
+-84.348,36.962,Rockcastle,NF,606.864.4163/859.745.3100,NH NR ,KY,London
+-86.504,37.619,Rough River State Park,SP,800.325.1713,E DP DW SH RS PA ,KY,Falls Of Rough
+-88.049,36.67,Rushing Creek - LBL,NF,270.924.2000,NH DW SH NR ,KY,
+-84.073,37.385,S - Tree Rec Area,NF,606.864.4163/859.745.3100,NH NW NR N$ ,KY,Mckee
+-88.146,36.897,Smith Bay - LBL,NF,270.924.2000/270.924.2000,NH ND VT NW NS NR ,KY,Benton
+-88.126,36.856,Sugar Bay - LBL,NF,270.924.2000/270.924.2000,NH ND VT NW NS NR ,KY,Benton
+-88.023,36.881,Taylor Bay - LBL,NF,270.924.2000/270.924.2000,NH ND VT NW NS NR ,KY,Cadiz
+-85.23,38.034,Taylorsville Lake State Park,SP,502.477.8713,E DP 60ft DW SH RS PA ,KY,Mt. Eden
+-83.917,37.466,Turkey Foot Rec Area,NF,606.864.4163/859.745.3100,NH NW NR N$ ,KY,McKee
+-83.491,38.096,Twin Knobs Rec Area,NF,606.784.6428/859.745.3100,WES DP 70ft DW SH RS ,KY,Clearfield
+-88.198,36.965,Twin Lakes - LBL,NF,270.924.2000/270.924.2000,NH ND VT NW NS NR ,KY,Eddyville
+-82.684,38.089,Yatesville Lake State Park,SP,606.673.1492,E DP DW SH RS PA ,KY,Louisa
+-83.484,38.071,Zilpo Rec Area,NF,606.784.6428/859.745.3100,E DP DW SH RS ,KY,Salt Lick
+-92.513,31.702,Bankston Camp Complex,NF,318.793.9427/318.471.7160,NH ND VT NW NS NR N$ ,LA,Williana
+-90.155,29.9,Bayou Segnette State Park,SP,504.736.7140,E DP 50ft DW SH RS PA ,LA,Westwego
+-93.306,32.676,Beaver Dam,NF,318.927.2061/318.471.7160,WE DP 40ft DW SH NR ,LA,Minden
+-93.007,32.905,Bucktail Camp Complex,NF,318.927.2061/318.471.7160,NH ND NW NS NR ,LA,Summerfield
+-91.85,32.91,Chemin - A - Haut State Park,SP,318.283.0812,E DP DW SH RS PA ,LA,Bastrop
+-92.288,30.79,Chicot State Park,SP,337.363.2403,E DP 60ft DW SH RS PA ,LA,Ville Platte
+-92.907,32.084,Cloud Crossing Complex,NF,318.628.4664/318.471.7160,NH ND VT NW NS NR N$ ,LA,Goldonna
+-92.744,32.905,Corney Lake Complex,NF,318.927.2061/318.471.7160,NH NR N$ ,LA,Bernice
+-93.05,31.519,Coyote Camp Complex,NF,318.472.1840/318.471.7160,NH ND DW NS NR N$ ,LA,Bellwood
+-93.026,31.542,Custis Camp Complex,NF,318.472.1840/318.471.7160,NH ND NS NR N$ ,LA,Montrose
+-91.853,29.734,Cypremort Point State Park,SP,337.867.4510,NH RS PA ,LA,
+-93.193,31.492,Dogwood  Complex,NF,318.472.1840/318.471.7160,NH NR N$ ,LA,Natchitoches
+-93.014,30.999,Enduro Complex,NF,318.793.9427/318.471.7160,NH ND VT NW NS NR N$ ,LA,Leesville
+-92.611,31.233,Evangeline Camp Complex,NF,318.793.9427/318.471.7160,NH ND VT NW NS NR N$ ,LA,Alexandria
+-90.14,30.409,Fairview Riverside State Park,SP,985.845.3318,WES DP DW SH RS PA ,LA,Madisonville
+-90.023,30.345,Fontainebleau State Park,SP,985.624.4443,WES DP 70ft DW SH RS PA ,LA,Mandeville
+-93.108,31.009,Fullerton Complex,NF,318.793.9427/318.471.7160,NR ,LA,Pitkin
+-89.956,29.258,Grand Isle State Park,SP,985.787.2559,E DP DW SH RS PA ,LA,Grand Isle
+-92.779,31.899,Gum Springs Complex,NF,318.628.4664/318.471.7160,NH ND DW NS NR L$ ,LA,Winn
+-92.514,31.738,Highway 472 Camp,NF,318.793.9427/318.471.7160,NH ND VT NS NR N$ ,LA,Packton
+-93.425,31.369,Hodges Gardens State Park,SP,318.586.4020,NH DW SH RS PA L$ ,LA,Florien
+-93.108,31.009,Hunter Camp Complex,NF,318.793.9427/318.471.7160,NH ND VT NS NR N$ ,LA,Leesville
+-92.47,31.114,Indian Creek Recreation Area,SP,318.487.5058,E DP 40ft DW SH NR ,LA,Woodworth
+-92.52,32.25,Jimmie Davis State Park,SP,318.249.2595,E DP DW SH RS PA ,LA,Chatham
+-92.632,31.258,Kincaid Complex,NF,318.793.9427/318.471.7160,E DP 60ft SH NR ,LA,Gardner
+-93.093,31.445,Kisatchie Bayou Complex,NF,318.472.1840/318.471.7160,NH NR ,LA,Provencal
+-93.376,32.443,Lake Bistineau State Park,SP,318.745.3503,E DP DW SH RS PA ,LA,Doyline
+-91.2,31.961,Lake Bruin State Park,SP,318.766.3530,E DP DW SH RS PA ,LA,St. Joseph
+-92.923,32.713,Lake Claiborne State Park,SP,318.927.2976,E DP 40ft DW SH RS PA ,LA,Homer
+-92.491,32.783,Lake DArbonne State Park,SP,318.368.2086,E DP DW SH RS PA ,LA,Farmerville
+-91.608,30.062,Lake Fausse Pointe State Park,SP,337.229.4764,E DP DW SH RS PA ,LA,
+-92.568,31.097,Loran Site Complex,NF,318.793.9427/318.471.7160,NR ,LA,Forest Hill
+-93.132,31.486,Lotus Camp,NF,318.472.1840/318.471.7160,NH ND DW NS NR ,LA,Bellwood
+-93.731,31.592,North Toledo Bend State Park,SP,318.645.4715,E DP DW SH RS PA ,LA,Zwolle
+-93.06,31.516,Oak Camp Complex,NF,318.472.1840/318.471.7160,NR N$ ,LA,Natchitoches
+-92.152,29.869,Palmetto Island State Park,SP,337.893.3930,WE FT DW RS ,LA,Abbeville
+-92.571,31.718,Pearson Camp Complex,NF,318.793.9427/318.471.7160,NH ND VT NS NR ,LA,Alexandria
+-91.494,32.483,Poverty Point Reservoir State Park,SP,318.878.7536,WES DP DW SH RS PA ,LA,Delhi
+-93.144,31.498,Red Bluff Camp Complex,NF,318.472.1840/318.471.7160,NH ND VT NW NS NR ,LA,Bellwood
+-92.602,31.703,Saddle Bayou Camp Complex,NF,318.793.9427/318.471.7160,NH ND VT NS NR ,LA,Alexandria
+-93.244,30.301,Sam Houston Jones State Park,SP,337.855.2665,WES DP 60ft DW SH RS PA ,LA,Lake Charles
+-93.573,31.211,South Toledo Bend State Park,SP,337.286.9075,E DP DW SH RS PA ,LA,Anacoco
+-89.901,29.864,St. Bernard State Park,SP,504.682.2101,E DP DW SH RS PA ,LA,Braithwaite
+-92.445,31.51,Stuart Complex,NF,318.793.9427/318.471.7160,NH ND VT DW NS NR L$ ,LA,Alexandria
+-90.628,30.391,Tickfaw State Park,SP,225.294.5020,E DP 70ft DW SH RS PA ,LA,Springfield
+-92.951,32.893,Turkey Trot Complex,NF,318.927.2061/318.471.7160,NH ND NW NS NR ,LA,Summerfield
+-93.307,32.671,Turtle Slide,NF,318.927.2061/318.471.7160,NH DP DW SH NR L$ ,LA,Minden
+-92.68,31.244,Valentine Lake North Shore,NF,318.793.9427/318.471.7160,NH ND VT DW NS NR L$ ,LA,Gardner
+-92.687,31.24,Valentine Lake South Shore,NF,318.793.9427/318.471.7160,NH DP DW SH NR ,LA,Gardner
+-89.06,30.69,Airey Lake,NF, ,NH DW NR N$ ,MS,Saucier
+-89.13,30.569,Big Biloxi Rec Area,NF,601.928.5291/601.965.1700,E DP DW SH NR ,MS,Saucier
+-90.811,32.821,Blue Lake,NF, ,NH ND VT NS NR ,MS,Holly Bluff
+-89.402,30.266,Buccaneer State Park,SP,228.467.3822,WES DP FT DW SH RS PA ,MS,Waveland
+-89.34,34.731,Chewalla Lake,NF,601.236.6550/601.965.1700,E DP DW SH NR ,MS,Holly Springs
+-89.146,33.275,Choctaw Lake Rec Area,NF,601.285.3264/601.965.1700,E DP DW SH RS PA ,MS,Ackerman
+-88.704,32.104,Clarkco State Park,SP,601.776.6651,WES DP 40ft DW SH RS PA ,MS,Meridian
+-90.985,31.425,Clear Spgs Rec Area,NF,601.384.5876/601.965.1700,WE DP DW SH NR L$ ,MS,Meadville
+-89.004,30.968,Cypress Creek Landing,NF,601.928.5291/601.965.1700,NH ND NS NR ,MS,Wiggins
+-88.94,34.047,Davis Lake Rec Area,NF,601.285.3264/601.965.1700,WE DP FT DW SH RS PA ,MS,
+-88.972,30.92,Fairley Bridge Landing,NF,601.928.5291/601.965.1700,NH ND NS NR ,MS,Wiggins
+-89.888,34.132,George P Cossar State Park,SP,662.623.7356,WES DP DW SH RS PA ,MS,Oakland
+-91.052,33.847,Great River Road State Park,SP,662.759.6762,E DP DW SH RS PA ,MS,Rosedale
+-88.858,30.391,Gulf Marine State Park,SP, ,NR ,MS,Biloxi
+-89.92,33.027,Holmes County State Park,SP,662.653.3351,E DP 40ft DW SH RS PA ,MS,Durant
+-89.729,33.803,Hugh White State Park,SP,662.226.4934,E DP 40ft DW SH RS PA ,MS,Grenada
+-88.167,34.931,J. P. Coleman State Park,SP,662.423.6515,WES DP SH RS PA ,MS,Iuka
+-89.05,30.995,Janice Rec.Area,NF,601.928.5291/601.965.1700,NR ,MS,Brooklyn
+-89.262,33.416,Jeff Busby - Natchez Trace Pkwy,NP,800.305.7417,NH ND DW NS NR N$ ,MS,Ackerman
+-89.811,34.412,John W Kyle State Park,SP,662.487.1345,WES DP 40ft DW SH RS PA ,MS,Sardis
+-88.72,32.803,Kemper County Lake,SP,601.743.5505,WE NR ,MS,DeKalb
+-89.025,31.712,Lake Boque Homa,SP,601.425.2148,WE NR ,MS,Laurel
+-90.957,33.865,Lake Charlie Capps,SP,662.759.6444,E DP NR ,MS,Rosedale
+-89.034,32.1,Lake Claude Bennett,SP,601.727.3561,WE NR ,MS,Rose Hill
+-89.734,31.182,Lake Columbia,SP,601.736.1861,WE NR ,MS,Columbia
+-88.672,34.389,Lake Lamar Bruce,SP,662.869.2009,WE SH NR ,MS,Saltillo
+-90.341,31.673,Lake Lincoln State Park,SP,601.643.9044,WES DP 45ft DW SH RS PA ,MS,Wesson
+-88.303,33.427,Lake Lowndes State Park,SP,662.328.2110,WES DP DW SH RS PA ,MS,Columbus
+-90.16,31.574,Lake Mary Crawford,SP,601.587.7853,WE NR ,MS,Monticello
+-89.649,31.572,Lake Mike Conner,SP,601.765.4024,WE NR ,MS,Collins
+-88.565,33.946,Lake Monroe,SP,662.256.9637,WE NR ,MS,Aberdeen
+-88.905,31.133,Lake Perry,SP,601.784.6119,WE DP NR ,MS,Beaumont
+-89.592,31.832,Lake Ross Barnett,SP,601.733.2611,WE NR ,MS,Mize
+-88.528,32.422,Lake Tom Bailey,SP,601.632.4679,WE DP DW SH NR ,MS,Toomsuba
+-90.15,32.331,Lefleurs Bluff State Park,SP,601.987.3923,E DP SH RS PA ,MS,Jackson
+-89.047,33.154,Legion State Park,SP,662.773.8323,E DW SH RS PA ,MS,Louisville
+-90.936,33.161,Leroy Percy State Park,SP,662.827.5436,WES DP DW SH RS PA ,MS,Hollandale
+-90.817,32.696,Little Sunflower River,NF, ,NH NR ,MS,Onward
+-89.364,32.205,Marathon Lake,NF,601.469.3811/601.965.1700,E DP 45ft DW SH NR ,MS,Forest
+-88.874,33.359,Mississippi State Univ. - John W Starr Memorial Rv park,SP,662.325.4720,E DW SH NR ,MS,Mississippi State
+-89.118,31.055,Moodys Landing,NF,601.928.5291/601.965.1700,NR ,MS,Brooklyn
+-91.202,31.602,Natchez State Park,SP,601.442.2658,WES DP SH RS PA ,MS,Natchez
+-90.76,32.869,North  Rec   Composite,NF,601.873.6256/601.965.1700,NR ,MS,Rolling Fork
+-89.23,31.135,Paul B Johnson State Park,SP,601.582.7721,WES DP 45ft SH RS PA ,MS,Hattiesburg
+-90.497,31.192,Percy Quin State Park,SP,601.684.3938,WES DP 40ft DW SH RS PA ,MS,Mccomb
+-89.348,34.438,Puskus Lake,NF,601.236.6550/601.965.1700,NH NR ,MS,Oxford
+-90.809,32.089,Rocky Springs - Natchez Trace Pkwy,NP,662.680.4025,NH ND DW NS NR N$ ,MS,Port Gibson
+-89.666,32.319,Roosevelt State Park,SP,601.732.6316,WES DP 40ft SH RS PA ,MS,Morton
+-88.626,30.373,Shepard State Park,SP,228.497.2244,WES DP 40ft DW SH RS PA ,MS,Gautier
+-89.562,32.367,Shockaloe Base Camp I,NF,601.469.3811/601.965.1700,NH NR ,MS,Forest
+-90.793,32.713,South Recreation Composite,NF,601.873.6256/601.965.1700,NR ,MS,Rolling Fork
+-88.952,34.796,Tippah County Lake,SP,662.837.9850,WE NR ,MS,Ripley
+-88.193,34.614,Tishomingo State Park,SP,662.438.6914,WE DP FT DW SH RS PA ,MS,Tishomingo
+-88.62,34.229,Tombigbee State Park,SP,662.842.7669,WES DP DW SH RS ,MS,Tupelo
+-88.887,34.26,Trace State Park,SP,662.489.2958,WES DP FT DW SH RS PA ,MS,Belden
+-88.703,31.339,Turkey Fork Rec.Area,NF,601.428.0594/601.965.1700,E DP DW SH NR ,MS,Richton
+-89.462,34.665,Wall Doxey State Park,SP,662.252.4231,E DP SH RS PA ,MS,Holly Springs
+-80.072,35.439,Arrowhead,NF,910.576.6391/828.257.4200,E DP DW SH RS PA L$ ,NC,Uwharrie
+-80.076,35.448,Badin Lake,NF,910.576.6391/828.257.4200,NH SH RS PA L$ ,NC,New London
+-83.175,35.566,Balsam Mountain - Great Smoky Mountains,NP,423.436.1200,NH ND 30ft DW NS NR ,NC,Waynesville
+-83.949,35.42,Bear Creek Hunt Camp,NF,828.479.6431/828.257.4200,NH ND NS NR ,NC,Robbinsville
+-83.11,35.753,Big Creek - Great Smoky Mountains,NP,865.436.1200,NH ND NS NR ,NC,Asheville
+-82.221,35.753,Black Mountain,NF,/828.257.4200,NH DP DW SH NR ,NC,Black Mountain
+-83.23,35.012,Blue Valley Camp,NF,/828.257.4200,NH ND VT NW NS NR N$ ,NC,Highlands
+-81.616,36.007,Boone Fork,NF,828.652.2144/828.257.4200,NH ND NS NR L$ ,NC,Lenoir
+-83.752,35.433,Cable Cove,NF,828.479.6431/828.257.4200,NH ND NS NR L$ ,NC,Fontana Villag
+-77.904,34.045,Carolina Beach State Park,SP,910.458.8206,NH DP 35ft DW SH RS ,NC,Carolina Beach
+-82.205,35.804,Carolina Hemlocks,NF,/828.257.4200,NH ND NS RS PA ,NC,Burnsville
+-83.087,35.632,Cataloochee - Great Smoky Mountains,NP,423.436.1200,NH ND 31ft DW NS NR ,NC,Asheville
+-77.082,34.692,Cedar Point,NF,252.638.5628/828.257.4200,E DP DW SH RS ,NC,Cape Carteret
+-79.353,34.903,Chalk Banks - Lumber River State Park,SP,910.628.4564,NH DW RS ,NC,Wagram
+-83.872,35.369,Cheoah Point,NF,828.479.6431/828.257.4200,E ND DW SH RS L$ ,NC,Robbinsville
+-77.899,35.234,Cliffs of the Neuse State Park,SP,919.778.6234,NH DP 45ft DW SH RS ,NC,Seven Springs
+-82.146,35.815,Crabtree Meadows - Blue Ridge Parkway,NP,828.298.0398,NH DP NR ,NC,Burnsville
+-82.197,35.69,Curtis Creek,NF,828.652.2144/828.257.4200,NH 40ft DW SH NR L$ ,NC,Old Fort
+-82.729,35.283,Davidson River,NF,828.877.3265/828.257.4200,E DP DW SH RS PA ,NC,Pisgah Forest
+-83.436,35.461,Deep Creek - Great Smoky Mountains,NP,865.436.1200,NH ND 26ft DW NS NR ,NC,Bryson City
+-80.086,35.403,Deep Water Trailt Horse Camp,NF,910.576.6391/828.257.4200,NH ND VT NS NR L$ ,NC,Troy
+-81.184,36.422,Doughton Park  - Blue Ridge Parkway,NP,828.298.0398,NH DP NR ,NC,Laurel Springs
+-79.958,35.44,East Morris Mountain,NF, ,NH ND NS NR N$ ,NC,Troy
+-83.868,35.087,Fires Creek Hunt Camp,NF,828.837.5152/828.257.4200,NR ,NC,Hayesville
+-76.977,35,Fisher Landing,NF,252.638.5628/828.257.4200,NH ND VT NW NS NR L$ ,NC,New Bern
+-76.897,35.479,Goose Creek State Park,SP,252.923.2191,NH RS ,NC,Washington
+-77.139,34.672,Hammocks Beach State Park,SP,910.326.4881,NH VT DW NR ,NC,Swansboro
+-84.081,35.107,Hanging Dog,NF,828.837.5152/828.257.4200,NH ND NS RS L$ ,NC,Murphy
+-80.268,36.394,Hanging Rock State Park,SP,336.593.8480,NH DW SH RS ,NC,Walnut Cove
+-83.92,35.365,Horse Cove,NF,828.479.6431/828.257.4200,NH NR L$ ,NC,Robbinsville
+-83.772,35.011,Jackrabbit Mountain,NF,828.837.5152/828.257.4200,NH DP DW SH RS L$ ,NC,Hayesville
+-78.604,34.699,Jones Lake State Park,SP,910.588.4550,NH 45ft DW SH RS ,NC,Elizabethtown
+-81.761,36.132,Julian Price - Blue Ridge Parkway,NP,828.963.5911,NH DP RS PA L$ ,NC,Blowing Rock
+-81.907,35.732,Lake James State Park,SP,828.652.5047,NH ND FT DW SH RS ,NC,Nebo
+-80.944,35.668,Lake Norman State Park,SP,704.528.6350,NH DP FT DW SH RS ,NC,Statesville
+-82.63,35.485,Lake Powhatan,NF,828.877.3265/828.257.4200,WES DP 45ft DW SH RS PA L$ ,NC,Asheville
+-81.933,35.966,Linville Falls - Blue Ridge Parkway,NP,828.765.7818,NH DP RS PA ,NC,Newland
+-77.888,36.256,Medoc Mt. State Park,SP,252.586.6588,E FT DW SH RS ,NC,Hollister
+-76.684,36.43,Merchants Millpond State Park,SP,252.357.1191,NH DW SH RS ,NC,Sunbury
+-80.105,35.371,Morrow Mountain State Park,SP,704.982.4402,NH DP 45ft DW SH RS ,NC,Albemarle
+-81.761,35.991,Mortimer,NF,828.652.2144/828.257.4200,NH ND FT DW SH NR L$ ,NC,Lenoir
+-82.271,35.76,Mount Mitchell State Park,SP,828.675.4611,NH DW SH RS ,NC,Asheville
+-82.756,35.404,Mount Pisgah - Blue Ridge Parkway,NP,828.648.2644,NH 30ft RS PA ,NC,Canton
+-76.949,34.982,Neuse River - Flanner Beach,NF,252.638.5628/828.257.4200,E DP FT DW SH RS ,NC,New Bern
+-81.385,36.415,New River State Park,SP,336.982.2587,RS ,NC,Jefferson
+-82.646,35.407,North Mills River,NF,828.877.3265/828.257.4200,NH DP NS RS ,NC,Mills River
+-76.755,34.766,Oyster Point Camp,NF,252.638.5628/828.257.4200,NH ND NS NR ,NC,Morehead City
+-76.421,35.796,Pettigrew State Park,SP,252.797.4475,NH DW SH RS ,NC,Creswell
+-80.466,36.344,Pilot Mountain State Park,SP,336.325.2355,NH 35ft DW SH RS ,NC,Pinnacle
+-79.003,34.39,Princess Ann - Lumber River State Park,SP,910.628.4564,NH DW RS ,NC,Orrum
+-82.846,35.862,Rocky Bluff,NF,/828.257.4200,NH ND NS NR L$ ,NC,Hot Springs
+-83.309,35.553,Smokemont - Smoky Mountains National Park,NP,828.497.9270,NH DP DW NS RS PA ,NC,Bryson City
+-83.904,35.288,Snowbird Camping,NF,828.479.6431/828.257.4200,NR ,NC,Robbinsville
+-81.61,35.597,South Mountains State Park,SP,828.433.4772,NH DW RS L$ ,NC,Morganton
+-83.532,35.075,Standing Indian,NF,/828.257.4200,NH DP DW SH RS L$ ,NC,Franklin
+-81.027,36.387,Stone Mountain State Park,SP,336.957.8185,E DP 45ft DW SH RS ,NC,Roaring Gap
+-82.942,35.375,Sunburst,NF,828.877.3265/828.257.4200,NH ND NS NR ,NC,Canton
+-83.589,35.408,Tsali,NF,828.479.6431/828.257.4200,NH DW SH NR ,NC,Bryson City
+-80.02,35.429,Uwharrie Hunt Camp,NF,910.576.6391/828.257.4200,NH ND VT NW NS NR L$ ,NC,Troy
+-83.247,35.076,Van Hook Glade,NF,/828.257.4200,NH RS PA ,NC,Highlands
+-79.994,35.428,West Morris Mtn.,NF,910.576.6391/828.257.4200,NH ND VT NW NS NR L$ ,NC,Troy
+-78.744,35.842,William B. Umstead State Park,SP,919.787.3033,NH DW SH RS ,NC,Raleigh
+-80.044,35.311,Woodrun,NF,910.576.6391/828.257.4200,NH ND NS NR ,NC,Mt.Gilead
+-94.626,35.832,Adair State Park,SP,918.696.6613,E ,OK,Stilwell
+-99.148,36.698,Alabaster Caverns State Park,SP,580.621.3381,DP DW SH ,OK,Freedom
+-95.635,35.163,Arrowhead State Park,SP,918.339.2204,,OK,Canadian
+-100.512,36.836,Beaver Dunes State Park,SP,580.625.3373,,OK,Beaver
+-94.688,34.137,Beavers Bend State Park,SP,580.494.6300,,OK,Broken Bow
+-94.714,34.941,Below the Dam - Lake Wister State Park,SP,918.655.7212,,OK,Wister
+-94.904,36.626,Bernice State Park,SP,918.786.9447,,OK,Bernice
+-94.735,34.687,Billy Creek,NF,918.567.2326/501.321.5202,NH ND VT DW NS NR L$ ,OK,Muse
+-102.882,36.84,Black Mesa State Park,SP,580.426.2222,E DP DW SH ,OK,Kenton
+-96.312,34.321,Boggy Depot State Park,SP,580.889.5625,DW SH ,OK,Atoka
+-99.304,36.454,Boiling Springs State Park,SP,580.256.7664,E DW SH ,OK,Woodward
+-94.817,35.542,Brushy Lake State Park,SP,918.775.6507,E DW SH ,OK,Sallisaw
+-97.09,34.053,Buzzards Roost - Lake Murray State Park,SP,580.223.4044,DP DW SH ,OK,Ardmore
+-97.097,34.092,Cedar Grove - Lake Murray State Park,SP,580.223.4044,DP DW SH ,OK,Ardmore
+-94.694,34.78,Cedar Lake,NF,918.567.2326/501.321.5202,WES DP DW SH RS PA L$ ,OK,Heavener
+-94.908,35.763,Cherokee Landing State Park,SP,918.457.5716,E DP DW SH ,OK,Park Hill
+-95.013,36.483,Cherokee State Park,SP,918.435.8066,E SH ,OK,Disney
+-95.306,34.54,Clayton Lake State Park,SP,918.569.7981,E DW SH ,OK,Clayton
+-98.697,35.403,Crowder Lake University State Park,SP,580.343.2443,E DP DW SH ,OK,Weatherford
+-95.587,35.399,Deep Fork - Lake Eufaula State Park,SP,918.689.5311,WES DW SH ,OK,Checotah
+-93.833,35.401,Dogwood Drive - Lake Eufaula State Park,SP,918.689.5311,SH ,OK,
+-97.111,34.108,Dukes - Lake Murray State Park,SP,580.223.4044,DP SH ,OK,Overbrook
+-97.1,34.092,Elephant Rock - Lake Murray State Park,SP,580.223.4044,DP DW SH ,OK,Ardmore
+-97.089,34.12,Field Trial Area - Lake Murray State Park,SP,580.223.4044,DP DW SH ,OK,Ardmore
+-98.476,35.177,Fort Cobb - Area 1,SP,405.643.2249,E SH ,OK,Fort Cobb
+-98.473,35.175,Fort Cobb - Area 2,SP,405.643.2249,E SH ,OK,Fort Cobb
+-98.44,35.174,Fort Cobb - Area 3,SP,405.643.2249,E SH ,OK,Fort Cobb
+-98.446,35.18,Fort Cobb - Area 4,SP,405.643.2249,E DW SH ,OK,Fort Cobb
+-98.475,35.165,Fort Cobb - Area 5,SP,405.643.2249,E SH ,OK,Fort Cobb
+-99.191,35.53,Foss State Park,SP,580.592.4433,E 45ft DW SH ,OK,Foss
+-98.969,34.746,Great Plains State Park,SP,580.569.2032,E DW SH ,OK,Mountain Park
+-98.158,36.751,Great Salt Plains State Park,SP,580.626.4731,DW SH ,OK,Jet
+-95.171,35.624,Greenleaf State Park,SP,918.487.5196,DP DW SH ,OK,Braggs
+-100.514,36.84,Hackberry Bend - Beaver Dunes State Park,SP,580.625.3373,E DP DW SH ,OK,Beaver
+-96.077,35.603,Hickory Point - Dripping Springs State Park,SP,918.756.5971,,OK,Okmulgee
+-94.741,34.177,Hochatown State Park,SP,580.494.6452,,OK,Broken Bow
+-94.783,36.575,Honey Creek State Park,SP,918.786.9447,,OK,Grove
+-95.408,34.02,Hugo Lake - Kiamichi State Park,SP,580.326.0303,,OK,Hugo
+-96.265,36.138,Keystone State Park,SP,918.865.4991,,OK,Sand Springs
+-96.638,33.997,Lake Texoma State Park,SP,580.564.2566,E DP DW SH ,OK,Kingston
+-97.248,35.232,Lake Thunderbird State Park - North,SP,405.360.3572,40ft ,OK,Norman
+-97.239,35.202,Lake Thunderbird State Park - South,SP,405.360.3572,,OK,Norman
+-98.88,36.53,Little Sahara State Park,SP,580.824.1472,,OK,Waynoka
+-97.05,34.027,Marietta Landing - Lake Murray State Park,SP,580.223.4044,DP DW SH ,OK,Ardmore
+-97.051,34.087,Martins Landing - Lake Murray State Park,SP,580.223.4044,DP DW SH ,OK,Ardmore
+-95.871,34.305,McGee Creek State Park,SP,580.889.5822,,OK,Atoka
+-94.67,36.176,Natural Falls State Park,SP,918.422.5802,,OK,Colcord
+-96.069,35.619,Okmulgee - Dripping Springs  State Park,SP,918.756.5971,E DP DW SH ,OK,Okmulgee
+-96.185,36.738,Osage Hills State Park,SP,918.336.4141,E DW SH ,OK,Pawhuska
+-100.516,36.836,Pioneer - Beaver Dunes State Park,SP,580.625.3373,E DW SH ,OK,Beaver
+-94.723,34.944,Quarry Island - Lake Wister State Park,SP,918.655.7212,DP DW SH ,OK,Wister
+-95.256,33.994,Raymond Gary State Park,SP,580.873.2307,E DW SH ,OK,Fort Towson
+-96.074,35.61,Red Oak - Dripping Springs  State Park,SP,918.756.5971,,OK,Okmulgee
+-98.359,35.456,Red Rock Canyon State Park,SP,405.542.6344,40ft DW SH ,OK,Hinton
+-95.357,34.985,Robbers Cave State Park,SP,918.465.2565,,OK,Wilburton
+-97.055,34.063,Rock Tower - Lake Murray State Park,SP,580.223.4044,DP DW SH ,OK,Ardmore
+-98.429,35.932,Roman Nose State Park,SP,580.623.4218,E DW SH ,OK,Watonga
+-99.881,35.639,Skipout,NF,580.497.2143/505.346.3804,NH ND VT DW NS NR N$ ,OK,Cheyenne
+-95.184,36.301,Snowdale State Park,SP,918.434.2651,E DW SH ,OK,Salina
+-95.055,36.387,Spavinaw State Park,SP,918.435.8066,SH ,OK,Spavinaw
+-99.839,35.773,Spring Creek,NF,580.497.2143/505.346.3804,NH ND VT DW NS NR ,OK,Cheyenne
+-94.952,34.783,Talimena State Park,SP,918.567.2052,E DW SH ,OK,Talihina
+-95.034,35.608,Tenkiller State Park,SP,918.489.5641,DW SH ,OK,Vian
+-97.094,34.079,Tipps Point - Lake Murray State Park,SP,580.223.4044,DP SH ,OK,Ardmore
+-94.757,36.803,Twin Bridges State Park,SP,918.542.6969,E DW SH ,OK,Fairland
+-94.775,34.936,Victor Area - Lake Wister State Park,SP,918.655.7212,DP DW SH ,OK,Wister
+-96.096,36.924,Wah - Sha - She State Park,SP,918.336.5635,,OK,Copan
+-96.281,36.249,Walnut Creek State Park,SP,918.865.4991,,OK,Prue
+-94.746,34.943,Wards Landing - Lake Wister State Park,SP,918.655.7212,DP DW SH ,OK,Wister
+-94.678,34.714,Winding Stair,NF,918.567.2326/501.321.5202,NH ND DW SH NR L$ ,OK,Heavener
+-81.489,33.55,Aiken State Park,SP,803.649.2857,E DP 45ft SH RS PA ,SC,Windsor
+-80.81,34.843,Andrew Jackson State Park,SP,803. 285.3344,E DP DW SH RS PA ,SC,Lancaster
+-82.357,33.889,Baker Creek State Park,SP,864.443.2457,E DP DW SH RS PA L$ ,SC,Abbeville
+-81.301,33.329,Barnwell State Park,SP,803.284.2212,WES DP DW SH RS PA ,SC,Blackville
+-81.707,34.448,Brick House,NF,803.276.4810/803.561.4000,NH ND NS NR L$ ,SC,Whitmire
+-79.561,33.039,Buckhall,NF,/803.561.4000,E DP SH RS ,SC,Mcclellanville
+-83.118,34.969,Burrells Ford,NF,864.638.9568/803.561.4000,NH ND NS NR ,SC,Mountain Rest
+-82.616,34.108,Calhoun Falls State Rec Area,SP,864.447.8267,E DP SH RS PA ,SC,Calhoun Falls
+-79.911,34.638,Cheraw State Park,SP,843.537.9656,E DP DW SH RS PA ,SC,Cheraw
+-83.088,34.942,Cherry Hill,NF,864.638.9568/803.561.4000,NH DP DW SH NR ,SC,Mountain Rest
+-81.249,34.684,Chester State Park,SP,803.385.2680,E DP 35ft DW SH RS PA ,SC,Chester
+-80.616,33.061,Colleton State Park,SP,843.538.8206,E DP 40ft DW SH RS PA ,SC,Walterboro
+-81.871,34.892,Croft State Natural Area,SP,864.585.1283,E DP 45ft DW SH RS PA ,SC,Spartanburg
+-82.115,33.849,Cyper Creek,NF, ,NH PT DW NR ,SC,Edgefield
+-82.951,34.952,Devils Fork State Park,SP,864.944.2639,E DP DW SH RS PA ,SC,Salem
+-81.404,34.085,Dreher Island State Rec Area,SP,803.364.4152,E DP DW SH RS PA ,SC,Prosperity
+-80.297,32.504,Edisto Beach State Park,SP,843.869.2756,E DP DW SH RS PA ,SC,Edisto Island
+-79.47,33.199,Elmwood,NF,/803.561.4000,NH ND VT DW NS NR N$ ,SC,Jamestown
+-80.385,33.027,Givhans Ferry State Park,SP,843.873.0692,E DP 45ft DW SH RS PA ,SC,Ridgeville
+-79.619,33.285,Guilliard Lake,NF,/803.561.4000,NH NR ,SC,Jamestown
+-79.928,34.562,H. Cooper Black,SP,843.378.1555,WE DP DW SH RS PA ,SC,Society Hill
+-82.203,33.754,Hamilton Branch State Park,SP,864.333.2223,E DP DW SH RS PA ,SC,Modoc
+-82.411,33.882,Hickory Knob State Resort Park,SP,800.491.1764,E DP DW SH RS PA ,SC,Mccormick
+-79.562,33.174,Honey Hill,NF,/803.561.4000,NH ND VT DW NS NR N$ ,SC,McClellanville
+-80.444,32.381,Hunting Island State Park,SP,843.838.2011,E DP DW SH RS PA ,SC,Saint Helena Island
+-79.069,33.503,Huntington Beach State Park,SP,843.237.4440,WES DP DW SH RS PA ,SC,Murrels Inlet
+-82.887,34.931,Keowee - Toxaway State Natural Area,SP,864.868.2605,E DP DW SH RS PA ,SC,Sunset
+-81.335,35.149,Kings Mountain State Park,SP,803.222.3209,E DP SH RS PA ,SC,Clover
+-81.951,34.195,Lake Greenwood State Park,SP,864.543.3535,E DP DW SH RS PA ,SC,Ninety Six
+-83.028,34.493,Lake Hartwell State Park,SP,864.972.3352,E DP 40ft DW SH RS PA ,SC,
+-80.87,34.431,Lake Wateree State Rec Area,SP,803.482.6401,E DP 40ft DW SH RS PA ,SC,Winnsboro
+-80.175,34.204,Lee State Natural Area,SP,803.428.5307,E 40ft DW SH RS PA ,SC,Bishopville
+-82.037,33.732,Lick Fork Lake,NF,803.637.5396/803.561.4000,NH DP NR ,SC,Edgefield
+-79.284,34.329,Little Pee Dee State Park,SP,843.774.8872,E DP 40ft FT DW SH RS PA ,SC,Dillon
+-83.187,34.898,Long Bottom Ford,NF,864.638.9568/803.561.4000,NH ND NS NR ,SC,Mountain Rest
+-78.928,33.657,Myrtle Beach State Park,SP,843.238.5325,WES DP DW SH RS PA ,SC,Myrtle Beach
+-83.103,34.868,Oconee State Park,SP,864.638.5353,E DP DW SH RS PA ,SC,Mountain Rest
+-82.365,34.925,Paris Mountain State Park,SP,864.244.5565,E DP 40ft DW SH RS PA ,SC,Greenville
+-82.362,34.109,Parsons Mountain Lake,NF,803.637.5396/803.561.4000,NH DP DW SH NR ,SC,Abbeville
+-80.534,33.801,Poinsett State Park,SP,803.494.8177,E DP DW SH RS PA ,SC,Wedgefield
+-82.817,34.421,Sadlers Creek State Park,SP,864.226.8950,E DP DW SH RS PA ,SC,Anderson
+-80.497,33.521,Santee State Park,SP,803.854.2408,E DP DW SH RS PA ,SC,Santee
+-81.737,34.632,Sedalia,NF,803.276.4810/803.561.4000,NH ND NS NR ,SC,Union
+-80.911,34.102,Sesquicentennial State Park,SP,803.788.2706,E DP 40ft DW SH RS PA ,SC,Columbia
+-82.705,35.023,Table Rock State Park,SP,864.878.9813,E DP DW SH RS PA ,SC,Pickens
+-81.452,34.701,Woods Ferry,NF,803.276.4810/803.561.4000,NH DW SH NR ,SC,Carlisle
+-83.934,35.611,Abrams Creek - Great Smoky Mountains National Park,NP,423.436.1200,NH ND 12ft NS NR ,TN,Chilhowee
+-81.814,36.594,Backbone Rock Rec Area,NF,423.735.1500/423.476.9700,NH ND NS NR ,TN,Bristol
+-84.691,36.488,Bandy Creek - Big South Fork Area,NP,423.286.8368,WE DP DW SH RS PA ,TN,Oneida
+-88.72,35.062,Big Hill Pond State Park,SP,901.645.7967,NH ND NS NR ,TN,Pocahontas
+-84.468,35.16,Big Lost Creek,NF,423.338.3300/423.476.9700,NH ND NS NR ,TN,Reliance
+-84.087,35.264,Big Oak Cove,NF,423.253.8400/423.476.9700,NH ND NS NR L$ ,TN,Tellico Plains
+-83.928,36.243,Big Ridge State Park,SP,865.992.5523,WE DP DW SH NR ,TN,Maynardville
+-86.355,36.378,Bledsoe Creek State Park,SP,615.452.3706,WE DP DW SH NR ,TN,Gallatin
+-88.025,36.518,Boswell Landing,NF,270.924.2000/270.924.2000,NH NR ,TN,Dover
+-83.777,35.604,Cades Cove  - Great Smoky Mountains National Park,NP,865.448.2472,NH DP 40ft NS RS PA ,TN,Townsend
+-82.116,36.312,Cardens Bluff,NF,423.735.1500/423.476.9700,NH NR ,TN,Hampton
+-86.336,36.094,Cedars of Lebanon State Park,SP,615.443.2769,WE DP 40ft DW SH NR ,TN,Lebanon
+-88.772,35.394,Chickasaw State Rustic Park,SP,901.989.5141,WE DW SH NR ,TN,Henderson
+-84.609,35.154,Chilhowee Rec Area,NF,423.338.3300/423.476.9700,E DP DW SH NR ,TN,Benton
+-83.21,35.752,Cosby - Great Smoky Mountains National Park,NP,865.436.1261,NH DP 25ft DW NS RS PA ,TN,Gatlinburg
+-84.211,36.309,Cove Lake State Park,SP,423.566.9701,WE DP 45ft DW SH NR ,TN,Caryville
+-84.993,35.898,Cumberland Mountain State Rustic Park,SP,931.484.6138,WE DP 40ft DW SH NR ,TN,Crossville
+-84.122,35.31,Dam Creek,NF,423.253.8400/423.476.9700,NH ND NS NR ,TN,Tellico Plains
+-87.362,35.263,David Crockett State Park,SP,931.762.9408,WE DP FT DW SH NR ,TN,
+-84.096,35.279,Davis Branch,NF,423.253.8400/423.476.9700,NH ND NS NR ,TN,Tellico Plains
+-82.657,36.21,Davy Crockett Birthplace,SP,423.257.2167,WE DP DW SH NR ,TN,Limestone
+-82.11,36.257,Dennis Cove Rec Area,NF,423.735.1500/423.476.9700,NH NR ,TN,Hampton
+-84.089,35.419,Double Camp/Citgo Creek,NF,423.253.8400/423.476.9700,NR ,TN,Vonore
+-85.832,36.08,Edgar Evins State Park,SP,931.858.2446,E NR ,TN,Silver Point
+-83.586,35.659,Elkmont - Great Smoky Mountains National Park,NP,865.436.1271,NH DP 35ft DW NS RS PA ,TN,Gatlinburg
+-85.357,35.655,Fall Creek Falls State Park,SP,800.250.8611,WE DP DW SH RS ,TN,Pikeville
+-84.509,36.123,Frozen Head State Park,SP,423.346.3318,NH ND DW SH NR ,TN,Wartburg
+-89.854,35.626,Ft. Pillow State Historic Area,SP,901.738.5581,NH DW SH NR L$ ,TN,Henning
+-87.904,36.557,Gatlin Point,NF,270.924.2000/270.924.2000,NH NR ,TN,Dover
+-84.549,35.234,Gee Creek,SP,423.263.0050,NH ND FT DW SH NR ,TN,Delano
+-85.112,35.168,Harrison Bay State Park,SP,423.344.6214,WE DP 45ft DW SH NR ,TN,Harrison
+-86.695,35.59,Henry Horton State Park,SP,931.364.2225,E 40ft NR ,TN,Chapel Hill
+-84.178,35.285,Holly Flats,NF,423.253.8400/423.476.9700,NR ,TN,Tellico Plains
+-82.657,36.109,Horse Creek Rec Area,NF,423.638.4109/423.476.9700,NH DW SH NR ,TN,Chuckey
+-82.945,35.964,Houston Valley,NF, ,NH NR ,TN,Greeneville
+-84.107,35.4,Indian Boundary Rec Area,NF,423.253.8400/423.476.9700,E DP DW SH RS PA ,TN,Tellico Plains
+-84.142,36.591,Indian Mountain State Park,SP,423.784.7958,WE DP 45ft DW SH NR ,TN,Jellico
+-82.009,36.566,Jacobs Creek Rec Area,NF,423.735.1500/423.476.9700,NH DP DW SH NR ,TN,Bristol
+-84.112,35.447,Jake Best,NF,423.253.8400/423.476.9700,NH ND NS NR ,TN,Vonore
+-82.062,36.52,Little Oak,NF,423.735.1500/423.476.9700,NH DP DW SH NR ,TN,Elizabethton
+-83.934,35.639,Look Rock - Great Smoky Mountains National Park,NP,865.436.1200,NH DP DW NS NR ,TN,Chilhowee
+-82.126,36.441,Low Gap Camp,NF,423.735.1500/423.476.9700,NH NR ,TN,Elizabethton
+-90.045,35.345,Meeman Shelby Forest State Park,SP,800.471.5293,WE DP DW SH RS ,TN,Millington
+-87.286,36.096,Montgomery Bell State Park,SP,615.797.9052,WES DP FT DW SH NR ,TN,Burns
+-88.015,35.667,Mousetail Landing State Park,SP,901.847.0841,WE DP DW SH NR ,TN,Linden
+-88.266,35.794,Natchez Trace State Park,SP,901.968.8176,WES DP 45ft FT DW SH NR ,TN,Wildersville
+-87.978,36.089,Nathan Bedford Forrest State Park,SP,731.584.6356,WE DP DW SH NR ,TN,
+-84.134,36.239,Norris Dam State Park,SP,865.426.7461,E DP SH NR ,TN,Lake City
+-84.127,35.319,North River Composite,NF,423.253.8400/423.476.9700,NH ND NS NR L$ ,TN,Tellico Plains
+-82.68,36.091,Old Forge,NF,423.638.4109/423.476.9700,NH NR ,TN,
+-86.102,35.494,Old Stone Fort State Park,SP,931.723.5073,WE DP 40ft DW SH NR ,TN,Manchester
+-82.845,35.987,Paint Creek,NF,423.638.4109/423.476.9700,NH NR ,TN,Greeneville
+-83.405,36.204,Panther Creek State Park,SP,423.587.7046,E DP DW SH NR ,TN,Morristown
+-88.086,36.438,Paris Landing State Park,SP,731.644.7359,WE DP DW SH NR ,TN,Buchanan
+-84.575,35.117,Parksville,NF,423.338.3300/423.476.9700,E DP DW SH NR ,TN,Benton
+-84.797,36.551,Pickett State Rustic Park,SP,931.879.5821,WE DP DW SH NR ,TN,Jamestown
+-88.24,35.055,Pickwick Landing State Park,SP,901.689.3129,WE DP DW SH NR ,TN,Pickwick Dam
+-84.548,35.229,Quinn Springs Rec Area,NF,423.338.3300/423.476.9700,NH DW SH NR ,TN,Benton
+-89.413,36.354,Reelfoot Lake State Park,SP,800.250.8617,E DP DW SH NR ,TN,Tiptonville
+-82.087,36.172,Roan Mountain State Park,SP,423.772.0190,WE DP DW SH NR ,TN,Roan Mountain
+-84.666,36.07,Rock Creek - Obed River,NP,423.346.6294,NH ND VT NW NS NR L$ ,TN,Wartburg
+-82.348,36.138,Rock Creek Rec Area,NF,423.638.4109/423.476.9700,E DP DW SH NR ,TN,Erwin
+-85.65,35.807,Rock Island State Park,SP,800.713.6065,WE DP DW SH RS ,TN,Rock Island
+-82.956,35.838,Round Mountain,NF,423.638.4109/423.476.9700,NR ,TN,Greeneville
+-88.05,36.669,Rushing Creek-Lake Access,NF,270.924.2000/270.924.2000,NR ,TN,Canton
+-84.113,35.304,Spivey Cove,NF,423.253.8400/423.476.9700,NH ND NS NR ,TN,Tellico Plains
+-85.413,36.476,Standing Stone State Rustic Park,SP,931.823.6347,WE DP 45ft DW SH NR ,TN,Hilham
+-84.081,35.262,State Line,NF,423.253.8400/423.476.9700,NR ,TN,Murphy
+-84.603,35.028,Sylco,NF,423.338.3300/423.476.9700,NH ND NS NR N$ ,TN,Parksville
+-90.118,35.064,T.O. Fuller State Park,SP,901.543.7581,WE DP 45ft DW SH NR ,TN,Memphis
+-84.485,35.076,Thunder Rock,NF,423.338.3300/423.476.9700,NH DW SH NR L$ ,TN,Ducktown
+-86.253,35.222,Tims Ford State Park,SP,931.962.1183,WE DP DW SH NR ,TN,Winchester
+-84.467,35.017,Tumbling Creek,NF,423.338.3300/423.476.9700,NH NR N$ ,TN,Copperhill
+-82.487,36.499,Warriors Path State Park,SP,423.239.8531,WE DP 40ft DW SH NR ,TN,Kingsport
+-100.904,29.516,277 North - Amistad National Rec Area,NP,830.775.7491,NH NW NR ,TX,Del Rio
+-99.879,32.241,Abilene State Park,SP,325.572.3204,E DP DW SH RS L$ ,TX,Tuscola
+-94.25,33.231,Atlanta State Park,SP,903.796.6476,E DP SH RS ,TX,Atlanta
+-103.787,30.946,Balmorhea State Park,SP,432.375.2370,E DP 45ft DW SH RS ,TX,Toyahvale
+-97.287,30.11,Bastrop State Park,SP,512.321.2101,E DP DW SH RS ,TX,Bastrop
+-98.383,26.173,Bentsen - Rio Grande Valley State Park,SP,512.389.8900,NH ND PT NW NS RS ,TX,Mission
+-96.635,30.309,Birch Creek - Lake Somerville State Park,SP,979.535.7763,E DP SH RS ,TX,Somerville
+-97.313,27.466,Bird Island - Padre Island National Seashore,NP,361.949.8068,NH ND NS NR ,TX,Corpus Christi
+-97.593,33.342,Black Creek Lake,NF,940.627.5475/936.639.8501,NH ND VT NW NS NR ,TX,Decatur
+-98.427,30.09,Blanco State Park,SP,830.833.4333,E DP DW SH RS ,TX,Blanco
+-101.631,35.681,Blue West - Lake Meredith National Rec Area,NP,806.857.3151,NH ND VT NW NS NR ,TX,Sanford
+-93.96,31.772,Boles Field,NF,409.787.3870/936.639.8501,E FT DW SH RS L$ ,TX,Shelbyville
+-96.146,33.547,Bonham State Park,SP,903.583.5022,E DP DW SH RS ,TX,Bonham
+-94.318,31.029,Bouton Lake,NF,936.897.1068/936.639.8501,NH ND NS NR ,TX,Zavalla
+-94.278,31.059,Boykin Spring,NF,936.897.1068/936.639.8501,NH ND DW SH RS L$ ,TX,Zavalla
+-95.632,29.371,Brazos Bend State Park,SP,972.553.5101,WE DP DW SH RS ,TX,Needville
+-97.158,30.039,Buescher State Park,SP,512.237.2241,E DP DW SH RS ,TX,Smithville
+-101.592,35.725,Bugbee - Lake Meredith National Rec Area,NP,806.857.3151,NH ND NS NR ,TX,Sanford
+-94.176,32.68,Caddo Lake State Park,SP,903.679.3351,E DP DW SH RS ,TX,Karnack
+-95.587,30.527,Cagle Rec Area,NF,936.344.6205/936.639.8501,WES DP 45ft DW SH RS PA ,TX,New Waverly
+-98.354,28.466,Calliham - Choke Canyon State Park,SP,361.786.3868,E DP SH RS ,TX,Calliham
+-94.257,31.137,Caney Creek,NF,936.897.1068/936.639.8501,NH DP VT DW NS NR L$ ,TX,Zavalla
+-101.06,34.413,Caprock Canyons State Park,SP,806.455.1492,E DP SH RS ,TX,Quitaque
+-101.565,35.693,Cedar Canyon - Lake Meredith National Rec Area,NP,806.857.3151,NH DP FT DW NS NR ,TX,
+-96.98,32.622,Cedar Hill State Park,SP,972.291.3900,WE DP 40ft DW SH RS ,TX,Cedar Hill
+-101.653,35.695,Chimney Hollow - Lake Meredith NRA,NP,806.857.3151,NH ND NS NR ,TX,Sanford
+-103.303,29.276,Chisos Basin - Big Bend National Park,NP,432.477.1121,NH 24ft RS ,TX,
+-97.55,32.252,Cleburne State Park,SP,817.645.4215,WE DP DW SH RS ,TX,Cleburne
+-95.974,33.737,Coffeemill,NF,940.627.5475/936.639.8501,NH ND VT DW NS NR L$ ,TX,Honey Grove
+-98.505,31.059,Colorado Bend State Park,SP,325.628.3240,RS ,TX,San Saba
+-99.743,34.113,Copper Breaks State Park,SP,940.839.4331,E DP SH RS ,TX,Quanah
+-103.523,29.137,Cottonwood - Big Bend National Park,NP,432.477.1121,NH RS ,TX,
+-94.691,33.013,Daingerfield State Park,SP,903.645.2921,WE DP DW SH RS L$ ,TX,Daingerfield
+-103.929,30.599,Davis Mountains State Park,SP,432.426.3337,WE DP DW SH RS L$ ,TX,Fort Davis
+-97.814,32.246,Dinosaur Valley State Park,SP,254.897.4588,E DP DW SH RS ,TX,Glen Rose
+-95.664,33.348,Doctors Creek - Cooper Lake State Park,SP,903.395.3100,E DP DW SH RS ,TX,Cooper
+-104.834,31.994,Dog Canyon  - Guadalupe Mountains National Park,NP,505.981.2418,NH NR ,TX,Pine Springs
+-95.133,30.553,Double Lake,NF,936.344.6205/936.639.8501,WES ND DW SH RS PA ,TX,Coldspring
+-100.864,35.212,East Bluff - Lake McClellan,NF,580.497.2143/505.346.3804,NR ,TX,
+-95.922,33.735,East Lake Davy Crockett,NF,940.627.5475/936.639.8501,NH NR ,TX,
+-96.6,33.81,Eisenhower State Park,SP,903.465.1956,E DP SH RS ,TX,Denison
+-98.814,30.501,Enchanted Rock State Natural Area,SP,325.247.3903,NH ND VT NW NS RS ,TX,Fredericksburg
+-96.072,31.765,Fairfield Lake State Park,SP,903.389.4514,WE DP 40ft DW SH RS ,TX,Fairfield
+-99.143,26.583,Falcon State Park,SP,956.848.5327,WES DP FT DW SH RS L$ ,TX,Falcon Heights
+-96.527,31.592,Fort Parker State Park,SP,254.562.5751,E DP DW SH RS ,TX,Mexia
+-106.498,31.905,Franklin Mt. State Park - Tom Mays Unit,SP,915.566.6441,NH ND VT NW NS RS ,TX,El Paso
+-101.593,35.683,Fritch Fortress - Lake Meredith National Rec Area,NP,806.857.3151,NH DP FT DW NS NR ,TX,Sanford
+-94.957,29.198,Galveston Island State Park,SP,409.737.1222,E 40ft SH RS ,TX,Galveston
+-99.738,29.587,Garner State Park,SP,830.232.6132,E DP SH RS ,TX,Concan
+-97.389,28.653,Goliad State Park,SP,361.645.3405,WE DP DW SH RS ,TX,Goliad
+-96.984,28.133,Goose Island State Park,SP,361.729.2858,E SH RS ,TX,Rockport
+-101.029,29.479,Governors Landing - Amistad National Rec Area,NP,830.775.7491,NH 28ft DW NR L$ ,TX,Del Rio
+-98.504,29.853,Guadalupe River State Park,SP,830.438.2656,E DP SH RS ,TX,Spring Branch
+-101.628,35.646,Harbor Bay - Lake Meredith National Rec Area,NP,806.857.3151,NH ND VT NW NS NR ,TX,Sanford
+-94.267,31.213,Harvey Creek,NF,936.897.1068/936.639.8501,NH NR ,TX,Broaddus
+-106.043,31.927,Hueco Tanks State Historic Site,SP,915.849.6684,E DP 40ft FT DW SH RS ,TX,El Paso
+-95.528,30.626,Huntsville State Park,SP,936.295.5644,E DP SH RS ,TX,Huntsville
+-93.695,31.309,Indian Mounds,NF,409.787.3870/936.639.8501,NH ND VT DW NS NR L$ ,TX,Hemphill
+-98.369,30.737,Inks Lake State Park,SP,512.793.2223,E DP DW SH RS ,TX,Burnet
+-104.041,29.481,Interior - Big Bend Ranch State Park,SP,432.358.4444,RS ,TX,Redford
+-97.013,33.366,Isle du Bois - Roberts Lake State Park,SP,940.686.2148,WE DP 40ft DW SH RS ,TX,Pilot Point
+-97.057,33.43,Johnson Branch - Roberts Lake State Park,SP,940.637.2294,WE DP DW SH RS ,TX,Valley View
+-95.662,30.511,Kellys Pond,NF,936.344.6205/936.639.8501,NR ,TX,Montgomery
+-100.432,29.613,Kickapoo Cavern State Park,SP,830.563.2342,NH ND FT DW SH RS ,TX,Bracketville
+-98.395,33.758,Lake Arrowhead State Park,SP,940.528.2211,WE DP DW SH RS ,TX,Wichita Falls
+-95.099,33.054,Lake Bob Sandlin State Park,SP,903.572.5531,E DP DW SH RS ,TX,
+-99.029,31.857,Lake Brownwood State Park,SP,325.784.5223,WE DP DW SH RS ,TX,
+-99.451,27.539,Lake Casablanca State Park,SP,956.725.3826,WE  DP FT DW SH RS ,TX,
+-100.935,32.316,Lake Colorado City State Park,SP,325.728.3931,E DP 45ft DW SH RS ,TX,Colorado City
+-97.868,28.055,Lake Corpus Christi State Park,SP,361.547.2635,E DP 40ft DW SH RS L$ ,TX,Mathis
+-95.001,30.657,Lake Livingston State Park,SP,936.365.2201,E DP SH RS L$ ,TX,Livingston
+-100.181,35.886,Lake Marvin,NF,580.497.2143/505.346.3804,NH ND VT DW NS NR L$ ,TX,Canadian
+-98.042,32.815,Lake Mineral Wells State Park,SP,940.328.1171,E DP 40ft SH RS ,TX,Mineral Wells
+-95.994,32.842,Lake Tawakoni State Park,SP,903.560.7123,WE DP DW SH RS ,TX,Wills Point
+-96.547,28.955,Lake Texana State Park,SP,361.782.5718,WE DP DW SH RS L$ ,TX,Edna
+-97.358,31.93,Lake Whitney State Park,SP,254.694.3793,WE DP 40ft DW SH RS ,TX,Whitney
+-93.679,31.262,Lakeview,NF,409.787.3870/936.639.8501,NH DP VT DW NS NR L$ ,TX,
+-97.698,29.855,Lockhart State Park,SP,512.398.3479,WE DP DW SH RS ,TX,
+-99.571,29.808,Lost Maples State Natural Area,SP,830.966.3413,E DP DW SH RS ,TX,Vanderpool
+-97.301,27.426,Malaquite - Padre Island National Seashore,NP,361.949.8068,NH DP SH NR ,TX,
+-94.566,32.278,Martin Creek Lake State Park,SP,903.836.4336,E DP DW SH RS ,TX,
+-94.172,30.853,Martin Dies State Park,SP,409.384.5231,E DP SH RS ,TX,Jasper
+-101.734,35.544,McBride Canyon/Mullinaw Creek - Lake Meredith NRA,NP,806.857.3151,NH ND VT NW NS NR ,TX,Sanford
+-100.875,35.211,McClellan - Lake McClellan,NF,580.497.2143/505.346.3804,NR ,TX,
+-100.868,35.215,McDowell - Lake McClellan,NF,580.497.2143/505.346.3804,NH ND VT DW NS NR L$ ,TX,Groom
+-97.721,30.179,McKinney Falls State Park,SP,512.243.1643,WE DP 40ft DW SH RS ,TX,Austin
+-97.702,31.891,Meridian State Park,SP,254.435.2536,E DP DW SH RS ,TX,Meridian
+-95.232,31.543,Mission Tejas State Park,SP,936.687.2394,WE DP DW SH RS ,TX,Grapeland
+-102.812,31.619,Monahans Sandhills State Park,SP,432.943.2092,E DP DW SH RS ,TX,Monahans
+-97.468,31.327,Mother Neff State Park,SP,254.853.2389,E DP DW SH RS ,TX,Moody
+-97.175,27.673,Mustang Island State Park,SP,361.749.5246,WE DP DW SH RS ,TX,Port Aransas
+-96.667,30.291,Nails Creek - Lake Somerville State Park,SP,979.289.2392,E RS ,TX,
+-97.275,27.478,North Beach - Padre Island National Seashore,NP,361.949.8068,NH ND NS NR ,TX,Corpus Christi
+-97.585,29.597,Palmetto State Park,SP,830.672.3266,WE DP 45ft DW SH RS ,TX,
+-101.702,34.985,Palo Duro Canyon State Park,SP,806.488.2227,E 45ft RS ,TX,Canyon
+-98.258,30.308,Pedernales Falls State Park,SP,830.868.7304,E DP DW SH RS ,TX,Johnson City
+-104.827,31.896,Pine Springs - Guadalupe Mountains National Park,NP,915.828.3251,NH NR ,TX,Pine Springs
+-101.75,35.612,Plum Creek - Lake Meredith National Rec Area,NP,806.857.3151,NH ND VT NW NS NR ,TX,Sanford
+-98.559,32.874,Possum Kingdom State Park,SP,940.549.1803,E DP SH RS ,TX,
+-95.994,32.354,Purtis Creek State Park,SP,903.425.2332,WE DP DW SH RS ,TX,Eustace
+-93.825,31.682,Ragtown,NF,409.787.3870/936.639.8501,NH DP DW SH NR L$ ,TX,
+-95.15,31.391,Ratcliff Lake,NF,936.655.2299/936.639.8501,WES DP DW SH RS ,TX,
+-93.833,31.474,Red Hills Lake,NF,409.787.3870/936.639.8501,E DP VT DW SH NR L$ ,TX,
+-98.157,33.206,Richardson State Park,SP,940.567.3506,E DP SH RS ,TX,Jacksboro
+-102.956,29.181,Rio Grande Village - Big Bend National Park,NP,432.477.1121,NH RS ,TX,
+-103.915,29.295,River Road - Big Bend Ranch State Park,SP,432.358.4444,NH RS ,TX,Redford
+-100.973,29.578,Rough Canyon - Amistad National Rec Area,NP,830.775.7491,NH ND NW NS NR ,TX,Del Rio
+-100.546,31.492,San Angelo State Park,SP,325.949.4757,E DP DW SH RS ,TX,
+-100.95,29.468,San Pedro - Amistad National Rec Area,NP,830.775.7491,NH NW NR ,TX,
+-94.204,31.096,Sandy Creek,NF,936.897.1068/936.639.8501,NH ND DW SH NR L$ ,TX,Zavalla
+-101.564,35.707,Sanford - Yake  - Lake Meredith National Rec Area,NP,806.857.3151,NH DP FT DW NS NR N$ ,TX,Sanford
+-101.319,29.694,Seminole Canyon State Park,SP,432.292.4464,E DP DW SH RS L$ ,TX,Comstock
+-97.313,27.391,South Beach  - Padre Island National Seashore,NP,361.949.8068,NH DP SH NR ,TX,
+-99.804,30.446,South Llano River State Park,SP,325.446.3994,E DP DW SH RS ,TX,
+-95.657,33.287,South Sulphur - Cooper Lake State Park,SP,903.945.5256,E 40ft DW SH RS ,TX,
+-101.019,29.548,Spur 406 - Amistad National Rec Area,NP,830.775.7491,NH NW NR ,TX,
+-96.108,29.812,Stephen Austin State Park,SP,979.885.3613,WE DP 45ft DW SH RS ,TX,San Felipe
+-95.638,30.56,Stubblefield Lake,NF,936.344.6205/936.639.8501,NH ND DW SH NR L$ ,TX,New Waverly
+-97.572,33.382,Tadra Point,NF,940.627.5475/936.639.8501,NH NR ,TX,Decatur
+-94.314,31.352,Townsend,NF,936.897.1068/936.639.8501,NH NR ,TX,Zavalla
+-95.281,32.482,Tyler State Park,SP,903.597.5338,E DP 40ft DW SH RS ,TX,
+-94.174,30.252,Village Creek State Park,SP,409.755.7322,WE DP DW SH RS ,TX,
+-95.929,33.737,West Lake Davy Crockett,NF,940.627.5475/936.639.8501,NH ND VT DW NS NR L$ ,TX,Honey Grove
+-93.732,31.205,Willow Oak,NF,409.787.3870/936.639.8501,NH ND VT DW NS NR L$ ,TX,
