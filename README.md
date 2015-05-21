@@ -15,6 +15,5 @@
   <tr>
     <td> <h6>us-camping</h6></td>
     <td>State and National Parks and National Forests. From us-camping.csv file.</td>
-    <td>Todo: Add marker meta-data to delienate what type of park</td>
   </tr>
 </table>
