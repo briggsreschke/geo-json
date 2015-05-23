@@ -2135,21 +2135,6 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -110.988,0 ]
-    },
-    "properties": {
-    "park_name":"Sawmill Flats",
-    "park_type":"NF",
-    "phone":"928.462.4301/602.225.5201",
-    "ammenities":"NH ND VT NS NR N$ ",
-    "state":"AZ",
-    "city":""
-    }
-  },
-  {
-    "type": "Feature",
-    "geometry": {
-       "type": "Point",
        "coordinates":  [ -111.013,33.648 ]
     },
     "properties": {
