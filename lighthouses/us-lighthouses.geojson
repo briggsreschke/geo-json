@@ -1,0 +1,9209 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 56.0014,-134.1369 ]
+    },
+    "properties": {
+    "Name":"Cape Decision Lighthouse",
+    "Location":" Kuiu Island",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 60.2383,-146.6466 ]
+    },
+    "properties": {
+    "Name":"Cape Hinchinbrook Lighthouse",
+    "Location":" Hinchinbrook Island",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.1984,-136.64 ]
+    },
+    "properties": {
+    "Name":"Cape Spencer Lighthouse",
+    "Location":" Cape Spencer",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 59.7983,-144.5983 ]
+    },
+    "properties": {
+    "Name":"Cape St. Elias Lighthouse",
+    "Location":" Kayak Island",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.9717,-135.22 ]
+    },
+    "properties": {
+    "Name":"Eldred Rock Lighthouse",
+    "Location":" Eldred Rock",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 57.2698,-133.6322 ]
+    },
+    "properties": {
+    "Name":"Five Finger Lighthouse",
+    "Location":" Five Finger Islands",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.4466,-131.8817 ]
+    },
+    "properties": {
+    "Name":"Guard Island Lighthouse",
+    "Location":" Guard Island",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.3325,-131.6594 ]
+    },
+    "properties": {
+    "Name":"Lightship Umatilla",
+    "Location":" Ketchikan",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 55.0985,-131.1836 ]
+    },
+    "properties": {
+    "Name":"Mary Island Lighthouse",
+    "Location":" Mary Island",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 60.53714,-145.76288 ]
+    },
+    "properties": {
+    "Name":"Minor Light of Alaska-Odiak Pharos",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.4087,-134.9559 ]
+    },
+    "properties": {
+    "Name":"Point Retreat Lighthouse",
+    "Location":" Admiralty Island",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.855,-135.1517 ]
+    },
+    "properties": {
+    "Name":"Point Sherman Light",
+    "Location":" Point Sherman",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 58.546152,-134.922605 ]
+    },
+    "properties": {
+    "Name":"Sentinel Island Lighthouse",
+    "Location":" Sentinel Island",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 54.8032,-130.933 ]
+    },
+    "properties": {
+    "Name":"Tree Point Lighthouse",
+    "Location":" Misty Fjords National Monument",
+    "State":" AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.43745,-88.01165 ]
+    },
+    "properties": {
+    "Name":"Mobile Bay Lighthouse",
+    "Location":" Mobile Bay",
+    "State":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.2278,-88.0239 ]
+    },
+    "properties": {
+    "Name":"Mobile Point Light",
+    "Location":" Fort Morgan",
+    "State":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.1966,-88.0534 ]
+    },
+    "properties": {
+    "Name":"Sand Island Lighthouse",
+    "Location":" Sand Island",
+    "State":" AL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3196,-72.067 ]
+    },
+    "properties": {
+    "Name":"Avery Point Lighthouse",
+    "Location":" Groton",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2117,-72.6533 ]
+    },
+    "properties": {
+    "Name":"Faulkner's Island Lighthouse",
+    "Location":" Faulkner's Island",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.1424,-73.2167 ]
+    },
+    "properties": {
+    "Name":"Fayerweather Island Lighthouse",
+    "Location":" Fayerweather Island",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2483,-72.9039 ]
+    },
+    "properties": {
+    "Name":"Five Mile Point Lighthouse",
+    "Location":" New Haven",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.9825,-73.6235 ]
+    },
+    "properties": {
+    "Name":"Great Captain Island Lighthouse",
+    "Location":" Great Captain Island",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.0417,-73.4434 ]
+    },
+    "properties": {
+    "Name":"Greens Ledge Lighthouse",
+    "Location":" Greens Ledge",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.271373,-72.343254 ]
+    },
+    "properties": {
+    "Name":"Lynde Point lighthouse",
+    "Location":" Saybrook",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3167,-71.9894 ]
+    },
+    "properties": {
+    "Name":"Morgan Point Lighthouse",
+    "Location":" Mystic Harbor",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3614,-71.9664 ]
+    },
+    "properties": {
+    "Name":"Mystic Seaport Lighthouse",
+    "Location":" Mystic",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.31666,-72.08997 ]
+    },
+    "properties": {
+    "Name":"New London Harbor Lighthouse",
+    "Location":" New London",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.306121000000005,-72.077286 ]
+    },
+    "properties": {
+    "Name":"New London Ledge Lighthouse",
+    "Location":" New London",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.0783,-73.3683 ]
+    },
+    "properties": {
+    "Name":"Peck Ledge Lighthouse",
+    "Location":" Norwalk Harbor",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.1163,-73.2218 ]
+    },
+    "properties": {
+    "Name":"Penfield Reef Lighthouse",
+    "Location":" Fairfield",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2632,-72.34276 ]
+    },
+    "properties": {
+    "Name":"Saybrook Breakwater Lighthouse",
+    "Location":" Old Saybrook",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.0526,-73.4144 ]
+    },
+    "properties": {
+    "Name":"Sheffield Island Lighthouse",
+    "Location":" Sheffield Island",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.235,-72.9116 ]
+    },
+    "properties": {
+    "Name":"Southwest Ledge Lighthouse",
+    "Location":" New Haven",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.0133,-73.5433 ]
+    },
+    "properties": {
+    "Name":"Stamford Harbor Ledge Lighthouse",
+    "Location":" Stamford",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3276,-71.9056 ]
+    },
+    "properties": {
+    "Name":"Stonington Harbor Lighthouse",
+    "Location":" Stonington",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.1517,-73.1033 ]
+    },
+    "properties": {
+    "Name":"Stratford Point Lighthouse",
+    "Location":" Stratford Point",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.06,-73.1016 ]
+    },
+    "properties": {
+    "Name":"Stratford Shoal Lighthouse",
+    "Location":" Stratford Shoal",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.1687,-73.1803 ]
+    },
+    "properties": {
+    "Name":"Tongue Point Lighthouse",
+    "Location":" Bridgeport",
+    "State":" CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5416,-75.5701 ]
+    },
+    "properties": {
+    "Name":"Baker Rear Range Light",
+    "Location":" Port Penn",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7201,-75.5181 ]
+    },
+    "properties": {
+    "Name":"Bellevue Rear Range Light",
+    "Location":" Wilmington",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.76207,-75.48973000000001 ]
+    },
+    "properties": {
+    "Name":"Cherry Island Range Light",
+    "Location":" Cherry Island",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7972,-75.1003 ]
+    },
+    "properties": {
+    "Name":"Delaware Breakwater Lighthouse",
+    "Location":" Cape Henlopen State Park",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7896,-75.169 ]
+    },
+    "properties": {
+    "Name":"Delaware Breakwater Rear Range(Green Hill)Light",
+    "Location":" Lewes",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.4514,-75.0548 ]
+    },
+    "properties": {
+    "Name":"Fenwick Island Lighthouse",
+    "Location":" Fenwick Island",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.048159999999996,-75.18356 ]
+    },
+    "properties": {
+    "Name":"Fourteen Foot Bank Lighthouse",
+    "Location":" Delaware Bay",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.8147,-75.09361 ]
+    },
+    "properties": {
+    "Name":"Harbor of Refuge Lighthouse",
+    "Location":" Lewes",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.779,-75.14699999999999 ]
+    },
+    "properties": {
+    "Name":"Lightship Overfalls",
+    "Location":" Lewes",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4829,-75.592 ]
+    },
+    "properties": {
+    "Name":"Liston Front Range Lighthouse",
+    "Location":" Fort Penn",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5239,-75.639 ]
+    },
+    "properties": {
+    "Name":"Liston Rear Range Light",
+    "Location":" Biddle's Corner",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.76212,-75.5031 ]
+    },
+    "properties": {
+    "Name":"Marcus Hook Rear Range Lighthouse",
+    "Location":" Gordon Heights",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.9472,-75.3149 ]
+    },
+    "properties": {
+    "Name":"Mispillion Lighthouse",
+    "Location":" Slaughter Beach",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6423,-75.5954 ]
+    },
+    "properties": {
+    "Name":"New Castle Range Light",
+    "Location":" New Castle",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4064,-75.5898 ]
+    },
+    "properties": {
+    "Name":"Reedy Island Rear Range Light",
+    "Location":" Taylor's Bridge",
+    "State":" DE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.851670000000002,-80.6183 ]
+    },
+    "properties": {
+    "Name":"Alligator Reef Lighthouse",
+    "Location":" Alligator Reef",
+    "State":"  FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.673000000000002,-81.442 ]
+    },
+    "properties": {
+    "Name":"Amelia Island Lighthouse",
+    "Location":" Fernandina Beach",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.525,-81.52 ]
+    },
+    "properties": {
+    "Name":"American Shoal Lighthouse",
+    "Location":" American Shoals",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.168000000000003,-82.8458 ]
+    },
+    "properties": {
+    "Name":"Anclote Key Lighthouse",
+    "Location":" Anclote Key",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.7419,-82.2635 ]
+    },
+    "properties": {
+    "Name":"Boca Grande Entrance Rear Range Light",
+    "Location":" Gasparilla Island",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.6666,-80.156 ]
+    },
+    "properties": {
+    "Name":"Cape Florida Lighthouse",
+    "Location":" Key Biscayne",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.4602,-80.5435 ]
+    },
+    "properties": {
+    "Name":"Cape Canaveral Lighthouse",
+    "Location":" Cape Canaveral",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.671,-85.3564 ]
+    },
+    "properties": {
+    "Name":"Cape San Blas Lighthouse",
+    "Location":" Cape San Blas",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.5878,-85.04685 ]
+    },
+    "properties": {
+    "Name":"Cape St. George Lighthouse",
+    "Location":" Little St.George Island",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.663159999999998,-84.86284 ]
+    },
+    "properties": {
+    "Name":"Cape St. George Lighthouse",
+    "Location":"  St.George Island",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.22167,-80.21167 ]
+    },
+    "properties": {
+    "Name":"Carysfort Reef Lighthouse",
+    "Location":" Carysfort Reef",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.09648,-83.06533 ]
+    },
+    "properties": {
+    "Name":"Cedar Keys(Seahorse Key) Lighthouse",
+    "Location":" Seahorse Key",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.8272,-84.7013 ]
+    },
+    "properties": {
+    "Name":"Crooked River Light",
+    "Location":" Carabelle Beach",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.6305,-82.9209 ]
+    },
+    "properties": {
+    "Name":"Dry Tortugas(Loggerhead Key) Lighthouse",
+    "Location":" Loggerhead Key",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.6003,-82.7607 ]
+    },
+    "properties": {
+    "Name":"Egmont Key Lighthouse",
+    "Location":" Egmont Key",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.5899,-80.0965 ]
+    },
+    "properties": {
+    "Name":"Fowery Rocks Lighthouse",
+    "Location":" Fowery Rocks",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.6279,-82.8729 ]
+    },
+    "properties": {
+    "Name":"Garden Key (Ft. Jefferson) Lighthouse",
+    "Location":" Fort Jefferson",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.2591,-80.0808 ]
+    },
+    "properties": {
+    "Name":"Hillsboro Inlet Lighthouse",
+    "Location":" Pompano Beach",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.9484,-80.0817 ]
+    },
+    "properties": {
+    "Name":"Jupiter Inlet Lighthouse",
+    "Location":" Jupiter",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 25.0872,-80.4349 ]
+    },
+    "properties": {
+    "Name":"Key Largo Lighthouse",
+    "Location":" Key Largo",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.5506,-81.8007 ]
+    },
+    "properties": {
+    "Name":"Key West Lighthouse",
+    "Location":" Key West",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.3458,-87.3084 ]
+    },
+    "properties": {
+    "Name":"Pensacola Lighthouse",
+    "Location":" Pensacola",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.0803,-80.9281 ]
+    },
+    "properties": {
+    "Name":"Ponce de Leon Inlet Lighthouse",
+    "Location":"Ponce Inlet",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.7173,-82.2608 ]
+    },
+    "properties": {
+    "Name":"Port Boca Grande(Gasparilla Island) Lighthouse",
+    "Location":" Port Boca Grande",
+    "State":"  FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.4534,-81.8755 ]
+    },
+    "properties": {
+    "Name":"Sand Key Lighthouse",
+    "Location":" Sand Key",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.452709999999996,-82.0141 ]
+    },
+    "properties": {
+    "Name":"Sanibel Island Lighthouse",
+    "Location":" Sanibel Island",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 24.6278,-81.111 ]
+    },
+    "properties": {
+    "Name":"Sombrero Key Lighthouse",
+    "Location":" Sombrero Key",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.885479999999998,-81.28877 ]
+    },
+    "properties": {
+    "Name":"St. Augustine Lighthouse",
+    "Location":" St. Augustine Beach",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.3861,-81.3981 ]
+    },
+    "properties": {
+    "Name":"St. Johns Lighthouse",
+    "Location":" Mayport",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.3935,-81.4259 ]
+    },
+    "properties": {
+    "Name":"St. Johns River Lighthouse",
+    "Location":" Mayport",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.7603,-85.303 ]
+    },
+    "properties": {
+    "Name":"St. Joseph Point Lighthouse",
+    "Location":" Port St. Joe",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.0739,-84.179 ]
+    },
+    "properties": {
+    "Name":"St. Marks Lighthouse",
+    "Location":" St Marks",
+    "State":" FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.022681,-80.880052 ]
+    },
+    "properties": {
+    "Name":"Cockspur Island Lighthouse",
+    "Location":" Cockspur Island",
+    "State":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.974,-81.4168 ]
+    },
+    "properties": {
+    "Name":"Little Cumberland Island Lighthouse",
+    "Location":" Little Cumberland Island",
+    "State":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.1334,-81.3933 ]
+    },
+    "properties": {
+    "Name":"Saint Simons Lighthouse",
+    "Location":" Saint Simons Island",
+    "State":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.3895,-81.2773 ]
+    },
+    "properties": {
+    "Name":"Sapelo Island Front Range Light",
+    "Location":" Sapelo Island",
+    "State":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 31.392,-81.2852 ]
+    },
+    "properties": {
+    "Name":"Sapelo Island Lighthouse",
+    "Location":" Sapelo Island",
+    "State":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.0794,-81.0845 ]
+    },
+    "properties": {
+    "Name":"Savannah Harbor Light Savannah",
+    "Location":" GA",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.0273,-80.8509 ]
+    },
+    "properties": {
+    "Name":"Tybee Island Lighthouse",
+    "Location":" Tybee Island",
+    "State":" GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.2995,-158.1082 ]
+    },
+    "properties": {
+    "Name":"Barbers Point Lighthouse",
+    "Location":" Barbers Point",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.5195,-154.8135 ]
+    },
+    "properties": {
+    "Name":"Cape Kumukahi Light",
+    "Location":" Cape Kumukahi",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.2585,-157.8107 ]
+    },
+    "properties": {
+    "Name":"Diamond Head Lighthouse",
+    "Location":" Diamond Head",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.249000000000002,-155.7734 ]
+    },
+    "properties": {
+    "Name":"Kauhola Point Lighthouse",
+    "Location":" Kauhola Point",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.2355,-159.4049 ]
+    },
+    "properties": {
+    "Name":"Kilauea Lighthouse",
+    "Location":" Kilauea Point",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.875,-156.6813 ]
+    },
+    "properties": {
+    "Name":"Lahaina Lighthouse",
+    "Location":" Lahaina Harbor",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.3125,-157.6522 ]
+    },
+    "properties": {
+    "Name":"Makapu'u Lighthouse",
+    "Location":" Makapu'u Head",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.2091,-156.9699 ]
+    },
+    "properties": {
+    "Name":"Moloka'I Lighthouse",
+    "Location":" Kalaupapa Peninsula",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.9558,-159.3361 ]
+    },
+    "properties": {
+    "Name":"Nawiliwili Lighthouse",
+    "Location":" Lihue",
+    "State":" HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.63784,-156.00107 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Kailua Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.04145,-155.83286999999999 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Kawaihae Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.72794,-156.06125 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Keahole Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.12793,-155.556 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Kukuihaele Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.99379,-155.24051 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Laupahoehoe Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.18034,-155.90151 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Mahukona Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.76224,-155.0899 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Pauka'a Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.84729,-155.0828 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Pepe'ekeo Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.72689,-155.08621000000002 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Coconut Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 18.91224,-155.68191000000002 ]
+    },
+    "properties": {
+    "Name":"Minor light of Hawai'i - Ka Lae Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 19.47917,-155.93601 ]
+    },
+    "properties": {
+    "Name":"Minor Light of Hawai'i - Napo'opo'o Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.5019,-156.6664 ]
+    },
+    "properties": {
+    "Name":"Minor light of Kaho'olawe - Kaho'olawe Southwest Point Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.89293,-159.60432 ]
+    },
+    "properties": {
+    "Name":"Minor light of Kaua'i - Hanapepe Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 22.14684,-159.29556000000002 ]
+    },
+    "properties": {
+    "Name":"Minor light of Kaua'i - Kahala Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.95658,-159.34791 ]
+    },
+    "properties": {
+    "Name":"Minor light of Kaua'i - Kuki'i Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.86891,-159.44421 ]
+    },
+    "properties": {
+    "Name":"Minor light of Kaua'i - Makahu'ena Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.7833,-156.99161999999998 ]
+    },
+    "properties": {
+    "Name":"Minor light of Lana'i - Kaumalapau Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.7417,-156.8866 ]
+    },
+    "properties": {
+    "Name":"Minor light of Lana'i - Manele Bay Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.73239,-156.96496000000002 ]
+    },
+    "properties": {
+    "Name":"Minor light of Lana'i - Palaoa Point Lighthouse",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.92907,-156.98768 ]
+    },
+    "properties": {
+    "Name":"Minor light of Lana'i - Pohakuloa Point Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.5836,-156.4117 ]
+    },
+    "properties": {
+    "Name":"Minor light of Maui - Hanamanioa Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.004,-156.66621999999998 ]
+    },
+    "properties": {
+    "Name":"Minor light of Maui - Hawea Point Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.89,-156.4717 ]
+    },
+    "properties": {
+    "Name":"Minor light of Maui - Kahului Harbor Range Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.757260000000002,-155.97901000000002 ]
+    },
+    "properties": {
+    "Name":"Minor light of Maui - Ka'uiki Head Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.7767,-156.5233 ]
+    },
+    "properties": {
+    "Name":"Minor light of Maui - McGregor Point Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.630770000000002,-156.49732 ]
+    },
+    "properties": {
+    "Name":"Minor light of Maui - Molokini Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.0284,-156.5899 ]
+    },
+    "properties": {
+    "Name":"Minor light of Maui - Nakalele Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 20.94599,-156.32143 ]
+    },
+    "properties": {
+    "Name":"Minor light of Maui - Pa'uwela Point Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.30708,-157.866 ]
+    },
+    "properties": {
+    "Name":"Minor light of Oahu - Aloha Tower Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.574289999999998,-158.2794 ]
+    },
+    "properties": {
+    "Name":"Minor light of Oahu - Ka'ena Point Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 21.46226,-157.76353999999998 ]
+    },
+    "properties": {
+    "Name":"Minor light of Oahu - Pyramid Rock Lighthouse ",
+    "Location":"",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.786,-87.531 ]
+    },
+    "properties": {
+    "Name":"68th Street Crib(Dunne Crib) Light",
+    "Location":" Chicago",
+    "State":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.8906,-87.5878 ]
+    },
+    "properties": {
+    "Name":"Chicago Harbor Lighthouse",
+    "Location":" Chicago",
+    "State":"  IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.8882,-87.6017 ]
+    },
+    "properties": {
+    "Name":"Chicago Harbor Southeast Guidewall Light",
+    "Location":" Chicago",
+    "State":"  IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.8734,-87.545 ]
+    },
+    "properties": {
+    "Name":"Four Mile Crib Lighthouse",
+    "Location":" Chicago",
+    "State":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0639,-87.6758 ]
+    },
+    "properties": {
+    "Name":"Grosse Point Lighthouse",
+    "Location":" Evanston",
+    "State":"  IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.36,-87.8133 ]
+    },
+    "properties": {
+    "Name":"Northern Waukegan Harbor Light",
+    "Location":" Waukegan",
+    "State":"  IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.9167,-87.5717 ]
+    },
+    "properties": {
+    "Name":"William E. Denver Crib Light",
+    "Location":" Chicago",
+    "State":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.9667,-87.5917 ]
+    },
+    "properties": {
+    "Name":"Wilson Avenue Crib Light",
+    "Location":" Montrose Harbor",
+    "State":" IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.64624,-87.40942 ]
+    },
+    "properties": {
+    "Name":"Buffington Harbor Breakwater Light",
+    "Location":" Buffington Harbor",
+    "State":"IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7267,-87.4933 ]
+    },
+    "properties": {
+    "Name":"Calumet Harbor Light",
+    "Location":" Calumet Harbor",
+    "State":"IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.63136,-87.32018000000001 ]
+    },
+    "properties": {
+    "Name":"Gary Harbor Breakwater Light",
+    "Location":" Gary",
+    "State":"IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6814,-87.4414 ]
+    },
+    "properties": {
+    "Name":"Indiana Harbor East Breakwater Light",
+    "Location":" Indiana Harbor",
+    "State":"IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.728978999999995,-86.91169000000001 ]
+    },
+    "properties": {
+    "Name":"Michigan City East Pierhead Light",
+    "Location":" Michigan City",
+    "State":"IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.722801000000004,-86.905997 ]
+    },
+    "properties": {
+    "Name":"Old Michigan City Lighthouse",
+    "Location":" Michigan City",
+    "State":"IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.72987,-86.91397099999999 ]
+    },
+    "properties": {
+    "Name":"Breakwater Light West Pierhead",
+    "Location":"Michigan City",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.0483,-88.8718 ]
+    },
+    "properties": {
+    "Name":"Chandeleur Island Light",
+    "Location":" Chandeleur Islands",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.0268,-90.1133 ]
+    },
+    "properties": {
+    "Name":"New Canal Lighthouse",
+    "Location":" Lake Pontchartrain",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.190140000000003,-89.03706 ]
+    },
+    "properties": {
+    "Name":"Pass A L'Outre Light",
+    "Location":" Mississippi River Delta",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.2967,-90.2982 ]
+    },
+    "properties": {
+    "Name":"Pass Manchac Light",
+    "Location":" Lake Pontchartrain",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.0318,-90.0624 ]
+    },
+    "properties": {
+    "Name":"Port Pontchartrain Lighthouse",
+    "Location":" New Orleans",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.7166,-93.8502 ]
+    },
+    "properties": {
+    "Name":"Sabine Pass Light",
+    "Location":" Sabine Pass",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.9167,-91.0667 ]
+    },
+    "properties": {
+    "Name":"Ship Shoal Lighthouse",
+    "Location":" Gulf of Mexico",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.0152,-89.167 ]
+    },
+    "properties": {
+    "Name":"South Pass Lighthouse",
+    "Location":" South Pass",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.985,-89.391 ]
+    },
+    "properties": {
+    "Name":"Southwest Pass (1839) Light",
+    "Location":" Mississippi River Delta",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.971,-89.389 ]
+    },
+    "properties": {
+    "Name":"Southwest Pass (1871) Light",
+    "Location":" Mississippi River Delta",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.906999999999996,-89.435 ]
+    },
+    "properties": {
+    "Name":"Southwest Pass Entrance Lighthouse",
+    "Location":" Mississippi River Delta",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.69412,-91.21619 ]
+    },
+    "properties": {
+    "Name":"Southwest Reef Lighthouse",
+    "Location":" Berwick",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.3799,-90.1692 ]
+    },
+    "properties": {
+    "Name":"Tchefunte River Light",
+    "Location":" Madisonville",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.1745,-89.7432 ]
+    },
+    "properties": {
+    "Name":"West Rigolets Lighthouse",
+    "Location":" Lake Pontchartrain",
+    "State":"  LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.6616,-70.6817 ]
+    },
+    "properties": {
+    "Name":"Annisquam Lighthouse",
+    "Location":" Annisquam Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5364,-70.7861 ]
+    },
+    "properties": {
+    "Name":"Bakers Island Lighthouse",
+    "Location":" Bakers Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.652,-70.169 ]
+    },
+    "properties": {
+    "Name":"Bass River(West Dennis) Lighthouse",
+    "Location":" West Dennis",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6694,-70.7172 ]
+    },
+    "properties": {
+    "Name":"Bird Island Lighthouse",
+    "Location":" Bird Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6003,-70.218 ]
+    },
+    "properties": {
+    "Name":"Bishop & Clerks Light",
+    "Location":" Point Gammon",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.705,-71.175 ]
+    },
+    "properties": {
+    "Name":"Borden Flats Lighthouse",
+    "Location":" Fall River",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.3281,-70.89 ]
+    },
+    "properties": {
+    "Name":"Boston Harbor Lighthouse",
+    "Location":" Boston Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2896,-70.0922 ]
+    },
+    "properties": {
+    "Name":"Brant Point (Old) Lighthouse",
+    "Location":" Nantucket Harbor Coast Guard Base",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.28971,-70.09028 ]
+    },
+    "properties": {
+    "Name":"Brant Point Light",
+    "Location":" Nantucket Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6033,-70.895 ]
+    },
+    "properties": {
+    "Name":"Butler Flats Lighthouse",
+    "Location":" New Bedford Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.6372,-70.5752 ]
+    },
+    "properties": {
+    "Name":"Cape Ann(Thatcher Island) Lighthouse",
+    "Location":" Thatcher Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0394,-70.0605 ]
+    },
+    "properties": {
+    "Name":"Cape Cod (Highland) Lighthouse",
+    "Location":" Truro",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4202,-70.4523 ]
+    },
+    "properties": {
+    "Name":"Cape Poge Light",
+    "Location":"  Chappaquiddick Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6717,-69.95 ]
+    },
+    "properties": {
+    "Name":"Chatham Lighthouse",
+    "Location":" Chatham",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.5928,-70.90071 ]
+    },
+    "properties": {
+    "Name":"Clark's Point Lighthouse",
+    "Location":" New Bedford Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6317,-70.695 ]
+    },
+    "properties": {
+    "Name":"Cleveland Ledge Lighthouse",
+    "Location":" Buzzards Bay",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4133,-70.95 ]
+    },
+    "properties": {
+    "Name":"Cuttyhunk Light",
+    "Location":" Cuttyhunk Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.3397,-70.9544 ]
+    },
+    "properties": {
+    "Name":"Deer Island Light",
+    "Location":" Deer Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5168,-70.8836 ]
+    },
+    "properties": {
+    "Name":"Derby Wharf Light",
+    "Location":" Salem",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.583,-70.6723 ]
+    },
+    "properties": {
+    "Name":"Dog Bar Breakwater Light",
+    "Location":" Gloucester",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.9878,-70.6486 ]
+    },
+    "properties": {
+    "Name":"Duxbury Pier Light",
+    "Location":" Plymouth Bay",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4702,-70.5675 ]
+    },
+    "properties": {
+    "Name":"East Chop Lighthouse",
+    "Location":" Martha's Vineyard",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5805,-70.6642 ]
+    },
+    "properties": {
+    "Name":"Eastern Point Lighthouse",
+    "Location":" Gloucester",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3904,-70.5032 ]
+    },
+    "properties": {
+    "Name":"Edgartown Harbor Light",
+    "Location":" Martha's Vineyard",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5267,-70.8666 ]
+    },
+    "properties": {
+    "Name":"Fort Pickering(Winter Island) Light",
+    "Location":" Winter Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3483,-70.835 ]
+    },
+    "properties": {
+    "Name":"Gay Head Lighthouse",
+    "Location":" Martha's Vineyard",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.3646,-70.8695 ]
+    },
+    "properties": {
+    "Name":"Graves Light",
+    "Location":" Boston Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3903,-70.0481 ]
+    },
+    "properties": {
+    "Name":"Great Point Lighthouse",
+    "Location":" Nantucket",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5463,-70.8564 ]
+    },
+    "properties": {
+    "Name":"Hospital Point Range Front Light",
+    "Location":" Beverly Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5487,-70.8782 ]
+    },
+    "properties": {
+    "Name":"Hospital Point Range Rear Light",
+    "Location":" Beverly",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.636070000000004,-70.28833 ]
+    },
+    "properties": {
+    "Name":"Hyannis Lighthouse",
+    "Location":" Hyannis Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.33,-70.9575 ]
+    },
+    "properties": {
+    "Name":"Long Island Head Lighthouse",
+    "Location":" Boston Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.033,-70.16873000000001 ]
+    },
+    "properties": {
+    "Name":"Long Point Lighthouse",
+    "Location":" Provincetown",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5052,-70.8335 ]
+    },
+    "properties": {
+    "Name":"Marblehead Light",
+    "Location":" Marblehead Neck",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.9305,-70.0323 ]
+    },
+    "properties": {
+    "Name":"Mayo Beach Lighthouse",
+    "Location":" Mayo Beach",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.27,-70.7583 ]
+    },
+    "properties": {
+    "Name":"Minot's Ledge Lighthouse",
+    "Location":" Minot",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.5592,-69.993 ]
+    },
+    "properties": {
+    "Name":"Monomoy Point Lighthouse",
+    "Location":" South Monomoy Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2937,-70.1063 ]
+    },
+    "properties": {
+    "Name":"Nantucket Cliff Range Light",
+    "Location":" Nantucket",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7562,-70.7124 ]
+    },
+    "properties": {
+    "Name":"Nantucket II Lightship",
+    "Location":" Wareham",
+    "State":"   MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.635740000000006,-70.91929 ]
+    },
+    "properties": {
+    "Name":"Nantucket Lightship",
+    "Location":" Nantucket or Boston",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.8602,-69.953 ]
+    },
+    "properties": {
+    "Name":"Nauset Lighthouse",
+    "Location":" North Eastham",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6352,-70.9184 ]
+    },
+    "properties": {
+    "Name":"New Bedford Lightship",
+    "Location":" New Bedford",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.65109,-70.79535 ]
+    },
+    "properties": {
+    "Name":"Ned's Point Light",
+    "Location":" Mattapoisett",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.815,-70.8183 ]
+    },
+    "properties": {
+    "Name":"Newburyport Harbor (Plum Island) Light",
+    "Location":" Plum Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8105,-70.86299 ]
+    },
+    "properties": {
+    "Name":"Newburyport Harbor Range Front Light",
+    "Location":" Newburyport",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.81100000000001,-70.8657 ]
+    },
+    "properties": {
+    "Name":"Newburyport Harbor Range Rear Light",
+    "Location":" Newburyport",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.516000000000005,-70.655 ]
+    },
+    "properties": {
+    "Name":"Nobska Point Lighthouse",
+    "Location":" Woods Hole",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.62637,-70.90948 ]
+    },
+    "properties": {
+    "Name":"Palmer Island Light",
+    "Location":" New Bedford",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0036,-70.59978000000001 ]
+    },
+    "properties": {
+    "Name":"Plymouth (Gurnet) Lighthouse",
+    "Location":" Gurnet Peninsula",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.610209999999995,-70.26529000000001 ]
+    },
+    "properties": {
+    "Name":"Point Gammon Light",
+    "Location":" Hyannis Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0623,-70.2433 ]
+    },
+    "properties": {
+    "Name":"Race Point Lighthouse",
+    "Location":" Race Point Beach",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7246,-70.2748 ]
+    },
+    "properties": {
+    "Name":"Sandy Neck Lighthouse",
+    "Location":" Sandy Neck",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2832,-69.9651 ]
+    },
+    "properties": {
+    "Name":"Sankaty Head Lighthouse",
+    "Location":" Nantucket",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.2049,-70.7155 ]
+    },
+    "properties": {
+    "Name":"Scituate Lighthouse",
+    "Location":" Scituate Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6584,-69.985 ]
+    },
+    "properties": {
+    "Name":"Stage Harbor Lighthouse",
+    "Location":" Stage Harbor",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.662,-70.5881 ]
+    },
+    "properties": {
+    "Name":"Straitsmouth Island Lighthouse",
+    "Location":" Straitsmouth Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4691,-70.7584 ]
+    },
+    "properties": {
+    "Name":"Tarpaulin Cove Light",
+    "Location":" Naushon Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.6018,-70.6653 ]
+    },
+    "properties": {
+    "Name":"Ten Pound Island Light",
+    "Location":" Ten Pound Island",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.858999999999995,-69.95775 ]
+    },
+    "properties": {
+    "Name":"Three Sisters Light",
+    "Location":" North Eastham",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4808,-70.6 ]
+    },
+    "properties": {
+    "Name":"West Chop Lighthouse",
+    "Location":" Vineyard Haven",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6829,-70.6593 ]
+    },
+    "properties": {
+    "Name":"Wings Neck Lighthouse",
+    "Location":" Buzzards Bay",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0217,-70.1933 ]
+    },
+    "properties": {
+    "Name":"Wood End Lighthouse",
+    "Location":" Provincetown",
+    "State":"  MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.0592,-76.399 ]
+    },
+    "properties": {
+    "Name":"Baltimore Harbor Light",
+    "Location":" Chesapeake Bay",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5273,-75.8095 ]
+    },
+    "properties": {
+    "Name":"Bethel Bridge Light",
+    "Location":" Chesapeake City",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.208833,-76.742886 ]
+    },
+    "properties": {
+    "Name":"Blackistone Lighthouse",
+    "Location":" St Clement's Island",
+    "State":" MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.8332,-76.3914 ]
+    },
+    "properties": {
+    "Name":"Bloody Point Bar Light",
+    "Location":" Kent Island",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2857,-76.6086 ]
+    },
+    "properties": {
+    "Name":"Chesapeake Lightship",
+    "Location":" Baltimore's Inner Harbor",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.5408,-76.0847 ]
+    },
+    "properties": {
+    "Name":"Concord Point Light",
+    "Location":" Havre de Grace",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.3861,-76.3818 ]
+    },
+    "properties": {
+    "Name":"Cove Point Lighthouse",
+    "Location":" Cove Point",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2032,-76.3822 ]
+    },
+    "properties": {
+    "Name":"Craighill Channel Lower Front Lighthouse",
+    "Location":" North Point State Park",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2291,-76.3942 ]
+    },
+    "properties": {
+    "Name":"Craighill Channel Lower Rear Light",
+    "Location":" Ramona Beach",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.1972,-76.4482 ]
+    },
+    "properties": {
+    "Name":"Craighill Channel Upper Front Light",
+    "Location":" Fort Howard",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2163,-76.4628 ]
+    },
+    "properties": {
+    "Name":"Craighill Channel Upper Rear Light",
+    "Location":" Bay Front Road",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.330999999999996,-76.4634 ]
+    },
+    "properties": {
+    "Name":"Drum Point Lighthouse",
+    "Location":" Solomons",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4945,-76.083 ]
+    },
+    "properties": {
+    "Name":"Fishing Battery Lighthouse",
+    "Location":" Fishing Battery Island",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2147,-76.5195 ]
+    },
+    "properties": {
+    "Name":"Fort Carroll Light",
+    "Location":" Patapsco River",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7123,-77.0368 ]
+    },
+    "properties": {
+    "Name":"Fort Washington Light",
+    "Location":" Fort Washington",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.2564,-76.2499 ]
+    },
+    "properties": {
+    "Name":"Hooper Island Light",
+    "Location":" Chesapeake Bay",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.788000000000004,-76.2186 ]
+    },
+    "properties": {
+    "Name":"Hooper Strait Lighthouse",
+    "Location":" St. Michaels",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.262,-76.5715 ]
+    },
+    "properties": {
+    "Name":"Lazaretto Point Light",
+    "Location":" Fort McHenry",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.1354,-76.5296 ]
+    },
+    "properties": {
+    "Name":"Piney Point Light",
+    "Location":" Piney Point",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.0381,-76.3224 ]
+    },
+    "properties": {
+    "Name":"Point Lookout Lighthouse",
+    "Location":" Point Lookout State Park",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.1283,-76.29 ]
+    },
+    "properties": {
+    "Name":"Point No Point Lighthouse",
+    "Location":" Chesapeake Bay",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2792,-76.2699 ]
+    },
+    "properties": {
+    "Name":"Poole's Island Light",
+    "Location":" Pooles Island",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.0167,-76.385 ]
+    },
+    "properties": {
+    "Name":"Sandy Point Shoals Lighthouse",
+    "Location":" Chesapeake Bay",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.2836,-76.6054 ]
+    },
+    "properties": {
+    "Name":"Seven Foot Knoll Lighthouse",
+    "Location":" Baltimore's Inner Harbor",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.6382,-76.3749 ]
+    },
+    "properties": {
+    "Name":"Sharps Island Light",
+    "Location":" Tilghman Island",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.0484,-76.0151 ]
+    },
+    "properties": {
+    "Name":"Solomon's Lump Light",
+    "Location":" Charter boat out of Wenona",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.8991,-76.436 ]
+    },
+    "properties": {
+    "Name":"Thomas Point Shoals Lighthouse",
+    "Location":" Thomas Point",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.4498,-76.0085 ]
+    },
+    "properties": {
+    "Name":"Turkey Point Light",
+    "Location":" Elk Neck State Park",
+    "State":"  MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2415,-68.199 ]
+    },
+    "properties": {
+    "Name":"Baker Island Lighthouse",
+    "Location":" Baker Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2221,-68.3372 ]
+    },
+    "properties": {
+    "Name":"Bass Harbor Lighthouse",
+    "Location":" Bass Harbor",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2836,-68.2699 ]
+    },
+    "properties": {
+    "Name":"Bear Island Lighthouse",
+    "Location":" Bear Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2488,-68.4985 ]
+    },
+    "properties": {
+    "Name":"Blue Hill Bay Lighthouse",
+    "Location":" Green Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.117,-70.48 ]
+    },
+    "properties": {
+    "Name":"Boon Island Lighthouse",
+    "Location":" Boon Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1116,-68.9099 ]
+    },
+    "properties": {
+    "Name":"Browns Head Lighthouse",
+    "Location":" Vinalhaven Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1343,-68.4472 ]
+    },
+    "properties": {
+    "Name":"Burnt Coat Habor(Hockamock Head)Lighthouse",
+    "Location":" Swans Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.825,-69.64 ]
+    },
+    "properties": {
+    "Name":"Burnt Island Lighthouse",
+    "Location":" Boothbay Harbor",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.5666,-70.2 ]
+    },
+    "properties": {
+    "Name":"Cape Elizabeth Lighthouse",
+    "Location":" Cape Elizabeth",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.165,-70.5913 ]
+    },
+    "properties": {
+    "Name":"Cape Neddick(Nubble) Lighthouse",
+    "Location":" York Beach",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.7798,-69.65 ]
+    },
+    "properties": {
+    "Name":"Cuckolds Light",
+    "Location":" Southport Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2016,-69.04899999999999 ]
+    },
+    "properties": {
+    "Name":"Curtis Island Lighthouse",
+    "Location":" Camden",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.38313,-68.81848000000001 ]
+    },
+    "properties": {
+    "Name":"Dice Head Lighthouse",
+    "Location":" Castine",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8833,-69.807 ]
+    },
+    "properties": {
+    "Name":"Doubling Point Light",
+    "Location":" Arrowsic Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2183,-68.7683 ]
+    },
+    "properties": {
+    "Name":"Eagle Island Lighthouse",
+    "Location":" Eagle Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.3541,-68.138 ]
+    },
+    "properties": {
+    "Name":"Egg Rock Lighthouse",
+    "Location":" Rock Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4675,-68.8118 ]
+    },
+    "properties": {
+    "Name":"Fort Point Lighthouse",
+    "Location":" Fort Point State Park",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8917,-69.375 ]
+    },
+    "properties": {
+    "Name":"Franklin Island Light",
+    "Location":" Franklin Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3583,-70.4249 ]
+    },
+    "properties": {
+    "Name":"Goat Island Lighthouse",
+    "Location":" Goat Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1353,-68.8316 ]
+    },
+    "properties": {
+    "Name":"Goose Rocks Light",
+    "Location":" Fox Islands Thorofare",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1423,-68.24600000000001 ]
+    },
+    "properties": {
+    "Name":"Great Duck Island Lighthouse",
+    "Location":" Great Duck Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2817,-68.9433 ]
+    },
+    "properties": {
+    "Name":"Grindle Point Lighthouse",
+    "Location":" Islesboro Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6558,-70.0369 ]
+    },
+    "properties": {
+    "Name":"Halfway Rock Light",
+    "Location":" Middle of Casco Bay",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8234,-69.69 ]
+    },
+    "properties": {
+    "Name":"Hendricks Head Lighthouse",
+    "Location":" Southport Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.025,-68.8616 ]
+    },
+    "properties": {
+    "Name":"Heron Neck Lighthouse",
+    "Location":" Green Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1658,-69.0604 ]
+    },
+    "properties": {
+    "Name":"Indian Island Lighthouse",
+    "Location":" Indian Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.065,-68.6517 ]
+    },
+    "properties": {
+    "Name":"Isle au Haut Light",
+    "Location":" Isle au Haut",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8833,-69.7949 ]
+    },
+    "properties": {
+    "Name":"Kennebec River (Doubling Point) Range Light",
+    "Location":" Arrowsic Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.303999999999995,-69.8965 ]
+    },
+    "properties": {
+    "Name":"Ladies Delight Light",
+    "Location":" in Lake Cobbosseecontee",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.5684,-67.3666 ]
+    },
+    "properties": {
+    "Name":"Libby Island Light",
+    "Location":" Libby Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6511,-67.1926 ]
+    },
+    "properties": {
+    "Name":"Little River Lighthouse",
+    "Location":" Little River Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.8414,-66.9768 ]
+    },
+    "properties": {
+    "Name":"Lubec Channel Light",
+    "Location":" Lubec Channel",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.5017,-67.1017 ]
+    },
+    "properties": {
+    "Name":"Machias Seal Island Lighthouse",
+    "Location":" Machias Seal Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.13397,-68.7032 ]
+    },
+    "properties": {
+    "Name":"Mark Island (Deer Island Thorofare)Light",
+    "Location":" Mark Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.91806,-69.26111 ]
+    },
+    "properties": {
+    "Name":"Marshall Point Light",
+    "Location":" Port Clyde",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.7841,-68.8549 ]
+    },
+    "properties": {
+    "Name":"Matinicus Rock Lighthouse",
+    "Location":" Matinicus Rock",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.765,-69.315 ]
+    },
+    "properties": {
+    "Name":"Monhegan Island Lighthouse",
+    "Location":" Monhegan Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4745,-67.5331 ]
+    },
+    "properties": {
+    "Name":"Moose Peak(Mistake Island) Light",
+    "Location":" Mistake Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.96849,-68.12819 ]
+    },
+    "properties": {
+    "Name":"Mount Desert Rock Lighthouse",
+    "Location":" Mount Desert Rock",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4554,-67.8332 ]
+    },
+    "properties": {
+    "Name":"Narraguagus(Pond Island) Lighthouse",
+    "Location":" Pond Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4638,-67.7457 ]
+    },
+    "properties": {
+    "Name":"Nash Island Light",
+    "Location":" Nash Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.0921,-69.0441 ]
+    },
+    "properties": {
+    "Name":"Owls Head Light",
+    "Location":" Rockland Harbor",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8366,-69.5066 ]
+    },
+    "properties": {
+    "Name":"Pemaquid Point Lighthouse",
+    "Location":" Pemaquid Point",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.7867,-69.7852 ]
+    },
+    "properties": {
+    "Name":"Perkins Island Light",
+    "Location":" Perkins Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.3684,-67.865 ]
+    },
+    "properties": {
+    "Name":"Petit Manan Light Petit Manan Island",
+    "Location":"  ME",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.74,-69.77 ]
+    },
+    "properties": {
+    "Name":"Pond Island Light",
+    "Location":" Popham Beach",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6555,-70.2349 ]
+    },
+    "properties": {
+    "Name":"Portland Breakwater Light",
+    "Location":" South Portland",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6233,-70.2078 ]
+    },
+    "properties": {
+    "Name":"Portland Head Lighthouse",
+    "Location":" Portland",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4034,-68.0128 ]
+    },
+    "properties": {
+    "Name":"Prospect Harbor Lighthouse",
+    "Location":" Prospect Harbor",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.3092,-68.7432 ]
+    },
+    "properties": {
+    "Name":"Pumpkin Island Lighthouse",
+    "Location":" Pumpkin Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8034,-69.6 ]
+    },
+    "properties": {
+    "Name":"Ram Island Light",
+    "Location":" Boothbay Harbor",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6317,-70.1867 ]
+    },
+    "properties": {
+    "Name":"Ram Island Ledge Light",
+    "Location":" Ram Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1033,-69.0783 ]
+    },
+    "properties": {
+    "Name":"Rockland Breakwater Lighthouse",
+    "Location":" Rockland",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.0856,-69.0913 ]
+    },
+    "properties": {
+    "Name":"Rockland Harbor Southwest Lighthouse",
+    "Location":" Rockland Harbor",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.015,-68.7266 ]
+    },
+    "properties": {
+    "Name":"Saddleback Ledge Light",
+    "Location":" Rock Ledge near Vinalhaven Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.7083,-69.7583 ]
+    },
+    "properties": {
+    "Name":"Seguin Island Lighthouse",
+    "Location":" Popham Beach",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6519,-70.2241 ]
+    },
+    "properties": {
+    "Name":"Spring Point Ledge Light",
+    "Location":" Portland Harbor",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8166,-69.8016 ]
+    },
+    "properties": {
+    "Name":"Squirrel Point Light",
+    "Location":" Arrowsic Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.9611,-69.1848 ]
+    },
+    "properties": {
+    "Name":"Tenants Harbor Lighthouse",
+    "Location":" Southern Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.9643,-69.0738 ]
+    },
+    "properties": {
+    "Name":"Two Bush Lighthouse",
+    "Location":" Two Bush Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.815,-66.9505 ]
+    },
+    "properties": {
+    "Name":"West Quoddy Head Lighthouse",
+    "Location":" West Quoddy State Park",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.0583,-70.6967 ]
+    },
+    "properties": {
+    "Name":"Whaleback Ledge Light",
+    "Location":" Mouth of Piscataqua River",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.9784,-69.125 ]
+    },
+    "properties": {
+    "Name":"Whitehead Lighthouse",
+    "Location":" Whitehead Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.1625,-67.2275 ]
+    },
+    "properties": {
+    "Name":"Whitlocks Mill Light",
+    "Location":" Calais",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.3616,-68.0878 ]
+    },
+    "properties": {
+    "Name":"Winter Harbor Lighthouse",
+    "Location":" Mark Island",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.4567,-70.3292 ]
+    },
+    "properties": {
+    "Name":"Wood Island Lighthouse",
+    "Location":" Biddeford Pool",
+    "State":"  ME"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0601,-83.4232 ]
+    },
+    "properties": {
+    "Name":"Alpena Harbor Light",
+    "Location":" Alpena",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.673140000000004,-86.1391 ]
+    },
+    "properties": {
+    "Name":"Au Sable Point Light-Au Sable Point",
+    "Location":" Pictured Rocks National Lakeshore",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.5773,-85.5763 ]
+    },
+    "properties": {
+    "Name":"Beaver Head Lighthouse",
+    "Location":" Beaver Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.7425,-85.5088 ]
+    },
+    "properties": {
+    "Name":"Beaver Island Harbor (St. James)Light",
+    "Location":" Beaver Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.3742,-87.9669 ]
+    },
+    "properties": {
+    "Name":"Bete Grise (Mendota) Light",
+    "Location":" Bete Grise",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.8417,-87.68 ]
+    },
+    "properties": {
+    "Name":"Big Bay Point Lighthouse",
+    "Location":" Big Bay",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.057625,-86.514486 ]
+    },
+    "properties": {
+    "Name":"Big Sable Point Lighthouse",
+    "Location":" Ludington",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.8111,-84.4208 ]
+    },
+    "properties": {
+    "Name":"Bois Blanc Island Lighthouse",
+    "Location":" Bois Blanc Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.4086,-87.3538 ]
+    },
+    "properties": {
+    "Name":"Cedar River Lighthouse",
+    "Location":" Cedar River",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.03745,-83.44109 ]
+    },
+    "properties": {
+    "Name":"Charity Island Lighthouse",
+    "Location":" Charity Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.319911,-85.264551 ]
+    },
+    "properties": {
+    "Name":"Charlevoix South Pier Light",
+    "Location":" Charlevoix",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.657728999999996,-84.464087 ]
+    },
+    "properties": {
+    "Name":"Cheboygan Crib Light",
+    "Location":" Cheboygan",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.6473,-84.4728 ]
+    },
+    "properties": {
+    "Name":"Cheboygan River Front Range Light",
+    "Location":" Cheboygan",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.656197,-84.46554499999999 ]
+    },
+    "properties": {
+    "Name":"Cheboygan River Lighthouse",
+    "Location":" Cheboygan",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.6684,-84.4151 ]
+    },
+    "properties": {
+    "Name":"Cheboygan Ruins Lighthouse",
+    "Location":" Cheboygan State Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.4367,-86.6913 ]
+    },
+    "properties": {
+    "Name":"Christmas (End of the Road) Range Light",
+    "Location":" Christmas",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.4744,-87.8602 ]
+    },
+    "properties": {
+    "Name":"Copper Harbor(Gull Rock) Lighthouse",
+    "Location":" Copper Harbor",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.4678,-87.8667 ]
+    },
+    "properties": {
+    "Name":"Copper Harbor Range Lights",
+    "Location":" Copper Harbor",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7528,-85.2572 ]
+    },
+    "properties": {
+    "Name":"Crisp Point Light",
+    "Location":" Crisp Point",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.9483,-83.9033 ]
+    },
+    "properties": {
+    "Name":"DeTour Reef Lighthouse",
+    "Location":" Lake Huron at St Mary's River",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.000885,-83.14121800000001 ]
+    },
+    "properties": {
+    "Name":"Detroit River Light",
+    "Location":" Lake Erie and Detroit River",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.4597,-88.1596 ]
+    },
+    "properties": {
+    "Name":"Eagle Harbor Lighthouse",
+    "Location":" Eagle Harbor",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.4555,-88.1543 ]
+    },
+    "properties": {
+    "Name":"Eagle Harbor Range Light",
+    "Location":" Eagle Harbor",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.4138,-88.2994 ]
+    },
+    "properties": {
+    "Name":"Eagle River Lighthouse",
+    "Location":" Eagle River",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.006318,-82.42241 ]
+    },
+    "properties": {
+    "Name":"Fort Gratiot Light",
+    "Location":" Port Huron",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.486096999999994,-83.913682 ]
+    },
+    "properties": {
+    "Name":"Forty Mile Point Lighthouse",
+    "Location":" Rogers City",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.6798,-84.4347 ]
+    },
+    "properties": {
+    "Name":"Fourteen Foot Shoal Lighthouse",
+    "Location":" Cheboygan",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.9919,-89.1202 ]
+    },
+    "properties": {
+    "Name":"Fourteen Mile Point Lighthouse-12.5 miles northeast",
+    "Location":" Ontonagon",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.630839,-86.25225400000001 ]
+    },
+    "properties": {
+    "Name":"Frankfort North Breakwater Lighthouse",
+    "Location":" Frankfort",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.629442,-86.25235500000001 ]
+    },
+    "properties": {
+    "Name":"Frankfort South Breakwater Light",
+    "Location":" Frankfort",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.5001,-84.3411 ]
+    },
+    "properties": {
+    "Name":"Frying Pan Island Light",
+    "Location":" DeTour Village",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.056948999999996,-86.255907 ]
+    },
+    "properties": {
+    "Name":"Grand Haven Lighthouse",
+    "Location":" Grand Haven",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.057237,-86.253819 ]
+    },
+    "properties": {
+    "Name":"Grand Haven Inner Lighthouse",
+    "Location":" Grand Haven",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.058203000000006,-86.255957 ]
+    },
+    "properties": {
+    "Name":"Grand Haven North Breakwater Light",
+    "Location":" Grand Haven",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.4577,-86.6207 ]
+    },
+    "properties": {
+    "Name":"Grand Island East Channel Light",
+    "Location":" Grand Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.4604,-86.68 ]
+    },
+    "properties": {
+    "Name":"Grand Island North Lighthouse",
+    "Location":" Grand Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.6767,-85.9715 ]
+    },
+    "properties": {
+    "Name":"Grand Marais Light",
+    "Location":" Grand Marais",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.210224,-85.549912 ]
+    },
+    "properties": {
+    "Name":"Grand Traverse Lighthouse",
+    "Location":" Leelanau State Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7208,-87.4114 ]
+    },
+    "properties": {
+    "Name":"Granite Island Lighthouse",
+    "Location":" Granite Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.0184,-83.537 ]
+    },
+    "properties": {
+    "Name":"Gravelly Shoal Light",
+    "Location":" Saginaw Bay",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.7656,-85.1542 ]
+    },
+    "properties": {
+    "Name":"Grays Reef Ligh-4 miles west",
+    "Location":" Waugoshance Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.1683,-83.1419 ]
+    },
+    "properties": {
+    "Name":"Grosse Ile Light",
+    "Location":" Grosse Ile Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.4169,-87.6639 ]
+    },
+    "properties": {
+    "Name":"Gull Rock Lighthouse",
+    "Location":" Gull Rock",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8458,-82.6323 ]
+    },
+    "properties": {
+    "Name":"Harbor Beach Light",
+    "Location":" Harbor Beach",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5504,-82.6518 ]
+    },
+    "properties": {
+    "Name":"Harsens Island Rear Range Light",
+    "Location":" Harsens Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.772673,-86.212407 ]
+    },
+    "properties": {
+    "Name":"Holland Harbor Lighthouse",
+    "Location":" Holland",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.773467,-86.215799 ]
+    },
+    "properties": {
+    "Name":"Holland Harbor North Breakwater Light",
+    "Location":" Holland",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.772552000000005,-86.21579399999999 ]
+    },
+    "properties": {
+    "Name":"Holland Harbor South Breakwater Light",
+    "Location":" Holland",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.9633,-87.9983 ]
+    },
+    "properties": {
+    "Name":"Huron Island Lighthouse",
+    "Location":" Huron Islands National Wildlife Refuge",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.94846,-88.76198000000001 ]
+    },
+    "properties": {
+    "Name":"Isle Royale (Menagerie Island)Light",
+    "Location":" Menagerie Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.97844,-88.4129 ]
+    },
+    "properties": {
+    "Name":"Jacobsville (Portage River) Lighthouse",
+    "Location":" Jacobsville",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.2343,-88.6305 ]
+    },
+    "properties": {
+    "Name":"Keweenaw Waterway Upper Entrance Light",
+    "Location":" Keweenaw Waterway",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.465,-82.755 ]
+    },
+    "properties": {
+    "Name":"Lake St. Clair Light-middle of Lake",
+    "Location":" Lake St Clair",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.9034,-85.5616 ]
+    },
+    "properties": {
+    "Name":"Lansing Shoal Lighthouse-12 miles north",
+    "Location":" Beaver Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.989514,-82.42661 ]
+    },
+    "properties": {
+    "Name":"Lightship Huron",
+    "Location":" Port Huron",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.651387,-86.539567 ]
+    },
+    "properties": {
+    "Name":"Little Sable Point Light",
+    "Location":" Silver Lake State Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.4188,-84.9782 ]
+    },
+    "properties": {
+    "Name":"Little Traverse Lighthouse",
+    "Location":" Harbor Springs",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.953672999999995,-86.469381 ]
+    },
+    "properties": {
+    "Name":"Ludington North Pierhead Lighthouse",
+    "Location":" Ludington",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.951961,-86.46918199999999 ]
+    },
+    "properties": {
+    "Name":"Ludington South Pierhead Light",
+    "Location":" Ludington",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.787422,-84.72918299999999 ]
+    },
+    "properties": {
+    "Name":"Mackinac Point Lighthouse",
+    "Location":" Mackinaw City",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.251791,-86.346965 ]
+    },
+    "properties": {
+    "Name":"Manistee North Pierhead Light",
+    "Location":" Manistee",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.251439000000005,-86.349953 ]
+    },
+    "properties": {
+    "Name":"Manistee South Pierhead Light",
+    "Location":" Manistee",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.945,-86.2466 ]
+    },
+    "properties": {
+    "Name":"Manistique East Breakwater Light",
+    "Location":" Manistique",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.4194,-87.5878 ]
+    },
+    "properties": {
+    "Name":"Manitou Island Light",
+    "Location":" Manitou Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.5348,-87.3743 ]
+    },
+    "properties": {
+    "Name":"Marquette Breakwater Light",
+    "Location":" Marquette",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.5467,-87.3762 ]
+    },
+    "properties": {
+    "Name":"Marquette Harbor Lighthouse",
+    "Location":" Marquette",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.9132,-84.1484 ]
+    },
+    "properties": {
+    "Name":"Martin Reef  Light-7 miles offshore",
+    "Location":" Port Dolomite",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.78672,-84.77301999999999 ]
+    },
+    "properties": {
+    "Name":"McGulpin's Point Lighthouse-2 miles west of Mackinac Point Lighthouse",
+    "Location":" Mackinac",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0969,-87.5856 ]
+    },
+    "properties": {
+    "Name":"Menominee North Pier Light",
+    "Location":" Menominee",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.1933,-83.32151 ]
+    },
+    "properties": {
+    "Name":"Middle Island Lighthouse-2.5 miles offshore-10 miles north",
+    "Location":" Alpena",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.32497,-84.17665 ]
+    },
+    "properties": {
+    "Name":"Middle Neebish (Lower Nicolet) Range Light",
+    "Location":" Neebish Island in St Mary's River",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.5349,-87.0097 ]
+    },
+    "properties": {
+    "Name":"Minneapolis Shoal Light-offshore entrance",
+    "Location":" Little Bay De Noc",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.415,-86.6616 ]
+    },
+    "properties": {
+    "Name":"Munising Range Lights",
+    "Location":" Munising",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.226679,-86.341461 ]
+    },
+    "properties": {
+    "Name":"Muskegon South Pier Light",
+    "Location":" Muskegon",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.227606,-86.342026 ]
+    },
+    "properties": {
+    "Name":"Muskegon North Pier Light",
+    "Location":" Muskegon",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.224084999999995,-86.347092 ]
+    },
+    "properties": {
+    "Name":"Muskegon South Breakwater Light",
+    "Location":" Muskegon",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.22555,-86.348242 ]
+    },
+    "properties": {
+    "Name":"Muskegon North Breakwater Light",
+    "Location":" Muskegon",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.800987,-86.748111 ]
+    },
+    "properties": {
+    "Name":"New Buffalo Lighthouse (replica)",
+    "Location":" New Buffalo",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0199,-85.9563 ]
+    },
+    "properties": {
+    "Name":"North Manitou Shoal Light-offshore",
+    "Location":" Manitou Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.479504,-85.479504 ]
+    },
+    "properties": {
+    "Name":"Old Mission Point Lighthouse",
+    "Location":" Penisula Township Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.876000000000005,-89.3281 ]
+    },
+    "properties": {
+    "Name":"Ontonagon Lighthouse",
+    "Location":" Ontonagon",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.8789,-89.3295 ]
+    },
+    "properties": {
+    "Name":"Ontonagon West Pierhead Light",
+    "Location":" Ontonagon",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.2234,-88.3666 ]
+    },
+    "properties": {
+    "Name":"Passage Island Light",
+    "Location":" Isle Royale National Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.716347999999996,-82.49176999999999 ]
+    },
+    "properties": {
+    "Name":"Peche Island Light",
+    "Location":" Marine City",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.6683,-86.9666 ]
+    },
+    "properties": {
+    "Name":"Peninsula Point Light",
+    "Location":" between Little Bay De Noc and Big Bay De Noc",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.782346000000004,-86.44362 ]
+    },
+    "properties": {
+    "Name":"Pentwater North Pier Light",
+    "Location":" Pentwater",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.781969000000004,-86.44413399999999 ]
+    },
+    "properties": {
+    "Name":"Pentwater South Pier Light",
+    "Location":" Pentwater",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.38,-84.9616 ]
+    },
+    "properties": {
+    "Name":"Petoskey Pierhead Light",
+    "Location":" Petoskey",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.0167,-83.9 ]
+    },
+    "properties": {
+    "Name":"Pipe Island Lighthouse",
+    "Location":" Pipe Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.6949,-84.36200000000001 ]
+    },
+    "properties": {
+    "Name":"Poe Reef  Lighthouse-offshore",
+    "Location":" Bois Blanc Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.691241,-86.255253 ]
+    },
+    "properties": {
+    "Name":"Point Betsie Lighthouse",
+    "Location":" Point Betsie",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.4843,-84.63213499999999 ]
+    },
+    "properties": {
+    "Name":"Point Iraquois Lighthouse",
+    "Location":" Point Iraquios",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.022826,-82.793338 ]
+    },
+    "properties": {
+    "Name":"Pointe Aux Barques Lighthouse",
+    "Location":" Lighthouse County Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.082064,-82.982473 ]
+    },
+    "properties": {
+    "Name":"Port Austin Reef Lighthouse-2.5 miles offshore",
+    "Location":" Port Austin",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.42876,-82.53992 ]
+    },
+    "properties": {
+    "Name":"Port Sanilac Lighthouse",
+    "Location":" Port Sanilac",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.968779,-88.431125 ]
+    },
+    "properties": {
+    "Name":"Portage River Entry Light",
+    "Location":" Jacobsville",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.5212,-86.663 ]
+    },
+    "properties": {
+    "Name":"Poverty Island Light",
+    "Location":" Poverty Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.356497999999995,-83.49212800000001 ]
+    },
+    "properties": {
+    "Name":"Presque Isle Lighthouse(New)",
+    "Location":" Presque Isle Peninsula",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.342008,-83.478078 ]
+    },
+    "properties": {
+    "Name":"Presque Isle Light (Old)",
+    "Location":" Presque Isle Peninsula",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.575,-87.375 ]
+    },
+    "properties": {
+    "Name":"Presque Isle Harbor Breakwater Light",
+    "Location":" Presque Isle",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.3435,-83.4843 ]
+    },
+    "properties": {
+    "Name":"Presque Isle Range Lights",
+    "Location":" Presque Isle",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.813320000000004,-86.06748 ]
+    },
+    "properties": {
+    "Name":"Robert H. Manning Memorial Light",
+    "Location":" Village Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.0897,-88.58059 ]
+    },
+    "properties": {
+    "Name":"Rock Harbor Lighthouse",
+    "Location":" Isle Royale National Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.8667,-89.3133 ]
+    },
+    "properties": {
+    "Name":"Rock Of Ages Lighthouse",
+    "Location":" Isle Royale National Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.8295,-84.6002 ]
+    },
+    "properties": {
+    "Name":"Round Island Lighthouse",
+    "Location":" near Mackinac Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.1088,-84.0196 ]
+    },
+    "properties": {
+    "Name":"Round Island (St. Mary's River) Lighthouse",
+    "Location":" Round Island in St Mary's River",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.84337,-84.61498 ]
+    },
+    "properties": {
+    "Name":"Round Island Passage Light",
+    "Location":" near Mackinac Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6366,-83.8534 ]
+    },
+    "properties": {
+    "Name":"Saginaw River Rear Range Lighthouse",
+    "Location":" Bay City",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.3919,-88.3703 ]
+    },
+    "properties": {
+    "Name":"Sand Hills Lighthouse-8 miles north",
+    "Location":" Ahmeek",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7836,-88.4672 ]
+    },
+    "properties": {
+    "Name":"Sand Point (Baraga) Lighthouse",
+    "Location":" Baraga",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.7448,-87.0447 ]
+    },
+    "properties": {
+    "Name":"Sand Point (Escanaba) Lighthouse",
+    "Location":" Escanaba",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.9216,-85.9116 ]
+    },
+    "properties": {
+    "Name":"Seul Choix Point Lighthouse",
+    "Location":" Seul Choix Point",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.6772,-85.1716 ]
+    },
+    "properties": {
+    "Name":"Skillagalee Island (Iie Aux Galets) Light-7 miles offshore",
+    "Location":" Cross Village",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.3798,-85.8361 ]
+    },
+    "properties": {
+    "Name":"South Fox Island Lighthouse",
+    "Location":" South Fox Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.401418,-86.28796 ]
+    },
+    "properties": {
+    "Name":"South Haven South Pier Light",
+    "Location":" South Haven",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.401973999999996,-86.288201 ]
+    },
+    "properties": {
+    "Name":"South Haven North Pier Light",
+    "Location":" South Haven",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.00783,-86.093787 ]
+    },
+    "properties": {
+    "Name":"South Manitou Island Lighthouse",
+    "Location":" South Manitou Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.7732,-84.1367 ]
+    },
+    "properties": {
+    "Name":"Spectacle Reef Lighthouse-10 miles offshore",
+    "Location":" Bois Blanc Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.8393,-85.588 ]
+    },
+    "properties": {
+    "Name":"Squaw Island Lighthouse",
+    "Location":" Squaw Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.53759,-82.68985 ]
+    },
+    "properties": {
+    "Name":"St.Clair Flats Old Channel Range Light",
+    "Location":" Lake St Clair",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.855,-84.8645 ]
+    },
+    "properties": {
+    "Name":"St.Helena Island Light",
+    "Location":" St Helena Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.865943,-84.715427 ]
+    },
+    "properties": {
+    "Name":"St.Ignace Light (replica)",
+    "Location":" St Ignace",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.116083,-86.493576 ]
+    },
+    "properties": {
+    "Name":"St.Joseph's North Pier Lighthouse",
+    "Location":" St Joseph's",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.116333000000004,-86.494648 ]
+    },
+    "properties": {
+    "Name":"St Joseph's North Pier Outer Light",
+    "Location":" St Joseph's",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.115248,-86.49436700000001 ]
+    },
+    "properties": {
+    "Name":"St Joseph's South Pier Beacon",
+    "Location":" St Joseph's",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.5049,-86.7586 ]
+    },
+    "properties": {
+    "Name":"St. Martin Island Light",
+    "Location":" St Martin Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.1834,-87.225 ]
+    },
+    "properties": {
+    "Name":"Stannard Rock Lighthouse-way offshore",
+    "Location":" Lake Superior",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.712703000000005,-83.272678 ]
+    },
+    "properties": {
+    "Name":"Sturgeon Point Lighthouse",
+    "Location":" Harrisville",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.253794,-83.44953100000001 ]
+    },
+    "properties": {
+    "Name":"Tawas Point Lighthouse",
+    "Location":" Tawas Point State Park",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0369,-83.1943 ]
+    },
+    "properties": {
+    "Name":"Thunder Bay Lighthouse",
+    "Location":" Thunder Bay Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.8101,-85.1324 ]
+    },
+    "properties": {
+    "Name":"Waugoshance Shoal Light",
+    "Location":" offshore from Waugoshance Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.374806,-86.423924 ]
+    },
+    "properties": {
+    "Name":"White River Lighthouse",
+    "Location":" White River to Lake Michigan",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.37553,-86.429057 ]
+    },
+    "properties": {
+    "Name":"White River North Pier Light",
+    "Location":" White River to Lake Michiga",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.374938,-86.429564 ]
+    },
+    "properties": {
+    "Name":"White River South Pier Light",
+    "Location":" White River to Lake Michigan",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.8417,-85.1349 ]
+    },
+    "properties": {
+    "Name":"White Shoal Lighthouse",
+    "Location":" 20 miles offshore of Mackinac Bridge",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.771118,-84.957436 ]
+    },
+    "properties": {
+    "Name":"Whitefish Point Lighthouse",
+    "Location":" Whitefish Point",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.347,-82.9542 ]
+    },
+    "properties": {
+    "Name":"William Livingstone Memorial Light",
+    "Location":" Belle Isle Island",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.35812,-82.92983000000001 ]
+    },
+    "properties": {
+    "Name":"Windmill Point Light",
+    "Location":" Detroit",
+    "State":"MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7806,-92.088 ]
+    },
+    "properties": {
+    "Name":"Duluth Harbor North Breakwater Light",
+    "Location":" Duluth",
+    "State":"  MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7782,-92.0919 ]
+    },
+    "properties": {
+    "Name":"Duluth Harbor South Breakwater Inner Light",
+    "Location":" Duluth",
+    "State":"  MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7795,-92.0869 ]
+    },
+    "properties": {
+    "Name":"Duluth Harbor South Breakwater Lighthouse",
+    "Location":" Duluth",
+    "State":"  Outer MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.745,-90.3383 ]
+    },
+    "properties": {
+    "Name":"Grand Marais Harbor Light",
+    "Location":" Grand Maraie",
+    "State":"   MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.744396,-90.340305 ]
+    },
+    "properties": {
+    "Name":"Grand Marais Breakwater Light",
+    "Location":" Grand Marais",
+    "State":"  MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7094,-92.0227 ]
+    },
+    "properties": {
+    "Name":"Minnesota Point Light(Ruins)",
+    "Location":" Duluth",
+    "State":"  MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.19985,-91.3671 ]
+    },
+    "properties": {
+    "Name":"Split Rock Lighthouse",
+    "Location":" Split Rock State Park",
+    "State":"  MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.01038,-91.6695 ]
+    },
+    "properties": {
+    "Name":"Two Harbors Breakwater Light",
+    "Location":" Two Harbors",
+    "State":"  MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.0138,-91.6637 ]
+    },
+    "properties": {
+    "Name":"Two Harbors Lighthouse",
+    "Location":" Two Harbors",
+    "State":"  MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.3946,-88.9015 ]
+    },
+    "properties": {
+    "Name":"Biloxi Lighthouse",
+    "Location":" Biloxi",
+    "State":"  MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.2919,-88.5867 ]
+    },
+    "properties": {
+    "Name":"Round Island Lighthouse",
+    "Location":" Round Island",
+    "State":"  MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 30.2116,-88.9667 ]
+    },
+    "properties": {
+    "Name":"Ship Island Lighthouse",
+    "Location":" Ship Island",
+    "State":"  MS"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.8736,-78.0004 ]
+    },
+    "properties": {
+    "Name":"Bald Head Lighthouse",
+    "Location":" Bald Head Island",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.8185,-75.5633 ]
+    },
+    "properties": {
+    "Name":"Bodie Island Lighthouse",
+    "Location":"  Cape Hatteras National Seashore",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.8459,-77.9677 ]
+    },
+    "properties": {
+    "Name":"Cape Fear Lighthouse",
+    "Location":" Smith Island",
+    "State":" NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.2501,-75.5295 ]
+    },
+    "properties": {
+    "Name":"Cape Hatteras Lighthouse",
+    "Location":" Buxton",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.6226,-76.5247 ]
+    },
+    "properties": {
+    "Name":"Cape Lookout Lighthouse",
+    "Location":" Harkers Island",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.3767,-75.83 ]
+    },
+    "properties": {
+    "Name":"Currituck Beach Lighthouse",
+    "Location":" Corolla",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.8929,-78.0351 ]
+    },
+    "properties": {
+    "Name":"Oak Island Lighthouse",
+    "Location":" Oak Island Coast Guard Station",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.109,-75.986 ]
+    },
+    "properties": {
+    "Name":"Ocracoke Lighthouse",
+    "Location":" Ocracoke Village",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.936,-77.9896 ]
+    },
+    "properties": {
+    "Name":"Price's Creek Light",
+    "Location":" Price creek enters Cape Fear River",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.90813,-75.66819 ]
+    },
+    "properties": {
+    "Name":"Roanoke Marshes (Replica) Lighthouse",
+    "Location":" Manteo",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.056779999999996,-76.61098 ]
+    },
+    "properties": {
+    "Name":"Roanoke River Lighthouse",
+    "Location":" Edenton",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 35.86606,-76.75353 ]
+    },
+    "properties": {
+    "Name":"Roanoke River (Replica)Lighthouse",
+    "Location":" Plymouth",
+    "State":"  NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.37222,-72.0686 ]
+    },
+    "properties": {
+    "Name":"Burkehaven Light",
+    "Location":" Lake Sunapee",
+    "State":"  NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.411,-72.0421 ]
+    },
+    "properties": {
+    "Name":"Herrick Cove Light",
+    "Location":" Lake Sunapee",
+    "State":"  NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.9676,-70.6237 ]
+    },
+    "properties": {
+    "Name":"Isles of Shoals (White Island) Light",
+    "Location":" White Island",
+    "State":"  NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3919,-72.0598 ]
+    },
+    "properties": {
+    "Name":"Loon Island Light",
+    "Location":" Lake Sunapee",
+    "State":"  NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.0708,-70.7083 ]
+    },
+    "properties": {
+    "Name":"Portsmouth Harbor Lighthouse",
+    "Location":" New Castle Island",
+    "State":"  NH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.36647,-74.41413 ]
+    },
+    "properties": {
+    "Name":"Absecon Lighthouse",
+    "Location":" Atlantic City",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.7643,-74.10600000000001 ]
+    },
+    "properties": {
+    "Name":"Barnegat Lighthouse",
+    "Location":" Barnegat Island State Park",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.9573,-75.1124 ]
+    },
+    "properties": {
+    "Name":"Barnegat Lightship",
+    "Location":" Camden",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.98636,-75.11353000000001 ]
+    },
+    "properties": {
+    "Name":"Brandywine Shoal Lighthouse",
+    "Location":" offshore in Delaware Bay",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.933332,-74.95997 ]
+    },
+    "properties": {
+    "Name":"Cape May Lighthouse",
+    "Location":" Cape May State Park",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.3983,-74.0588 ]
+    },
+    "properties": {
+    "Name":"Chapel Hill Rear Range Lighthouse",
+    "Location":" 1.5miles south of Conover Beacon",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.421395000000004,-74.05561999999999 ]
+    },
+    "properties": {
+    "Name":"Conover Beacon Light",
+    "Location":" Leonardo",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.203959999999995,-75.23074 ]
+    },
+    "properties": {
+    "Name":"Cross Ledge Light",
+    "Location":" Delaware Bay",
+    "State":" 4 miles offshore from Fortescue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.1957,-75.02709 ]
+    },
+    "properties": {
+    "Name":"East Point Lighthouse",
+    "Location":" Heislerville",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.18162,-75.26828 ]
+    },
+    "properties": {
+    "Name":"Elbow of Cross Ledge Light",
+    "Location":" Delaware Bay",
+    "State":" 5 miles offshore from Fortescue"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.617175,-75.53389 ]
+    },
+    "properties": {
+    "Name":"Finns Point Range Light",
+    "Location":" Pennsville",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.4867,-74.2532 ]
+    },
+    "properties": {
+    "Name":"Great Beds Light",
+    "Location":" offshore of South Amboy",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.0067,-74.79166 ]
+    },
+    "properties": {
+    "Name":"Hereford Inlet Lighthouse",
+    "Location":" North Wildwood",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.7097,-74.0403 ]
+    },
+    "properties": {
+    "Name":"Liberty(Winter Quarter) Lightship",
+    "Location":" Liberty State Park",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.1597,-74.688 ]
+    },
+    "properties": {
+    "Name":"Ludlum Beach Light",
+    "Location":" Sea Isle City",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.12643,-75.20966 ]
+    },
+    "properties": {
+    "Name":"Miah Maull Shoal Lighthouse",
+    "Location":" center of Delaware Bay",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.39587,-73.98562 ]
+    },
+    "properties": {
+    "Name":"Navesink(Twin lights) Lighthouse",
+    "Location":" Highlands",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.6574,-74.065 ]
+    },
+    "properties": {
+    "Name":"Robbins Reef Lighthouse",
+    "Location":" New York Harbor off Staten Island",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5126,-74.0135 ]
+    },
+    "properties": {
+    "Name":"Romer Shoal Lighthouse",
+    "Location":" offshore of Sandy Hook",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.4617,-74.00166999999999 ]
+    },
+    "properties": {
+    "Name":"Sandy Hook Lighthouse",
+    "Location":" Sandy Hook",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.13666,-74.02745999999999 ]
+    },
+    "properties": {
+    "Name":"Sea Girt Lighthouse",
+    "Location":" Sea Girt",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.304959999999994,-75.37651 ]
+    },
+    "properties": {
+    "Name":"Ship John Shoal Light",
+    "Location":" 2.8 miles south of Cohansey River",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.847433,-75.23956 ]
+    },
+    "properties": {
+    "Name":"Tinicum Rear Range Light",
+    "Location":" Billingsport",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.6018,-74.3424 ]
+    },
+    "properties": {
+    "Name":"Tucker's Beach Lighthouse",
+    "Location":" Tuckerton",
+    "State":"  NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.7056,-74.0029 ]
+    },
+    "properties": {
+    "Name":"Ambrose Lightship",
+    "Location":" Lower Manhatten",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1526,-73.4052 ]
+    },
+    "properties": {
+    "Name":"Barber's Point Lighthouse",
+    "Location":" Westport",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.3411,-79.5948 ]
+    },
+    "properties": {
+    "Name":"Barcelona (Portland Harbor) Light",
+    "Location":" Barcelona",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.7718,-73.9408 ]
+    },
+    "properties": {
+    "Name":"Blackwell Island Light",
+    "Location":" Roosevelt Island in the East River",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6231,-73.4304 ]
+    },
+    "properties": {
+    "Name":"Bluff Point (Valcour Island) Lighthouse",
+    "Location":" Valcour Island in Lake Champlain",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3408,-77.762 ]
+    },
+    "properties": {
+    "Name":"Braddock Point Lighthouse",
+    "Location":" west of Rochester",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.241170000000004,-76.14464 ]
+    },
+    "properties": {
+    "Name":"Brewerton Range Rear",
+    "Location":" Brewerton",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.870670000000004,-78.90238000000001 ]
+    },
+    "properties": {
+    "Name":"Buffalo Harbor Lighthouse",
+    "Location":" Buffalo",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8818,-78.9107 ]
+    },
+    "properties": {
+    "Name":"Buffalo Intake Crib Light",
+    "Location":" offshore from Buffalo",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8774,-78.89 ]
+    },
+    "properties": {
+    "Name":"Buffalo Main Lighthouse",
+    "Location":" Buffalo",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8773,-78.8906 ]
+    },
+    "properties": {
+    "Name":"Buffalo North Breakwater Light",
+    "Location":" Buffalo",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.49317,-79.35341 ]
+    },
+    "properties": {
+    "Name":"Buffalo South Entrance North Side",
+    "Location":" Buffalo",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.833690000000004,-78.86744 ]
+    },
+    "properties": {
+    "Name":"Buffalo South Entrance South Side",
+    "Location":" Buffalo",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1191,-76.3317 ]
+    },
+    "properties": {
+    "Name":"Cape Vincent Breakwater Light",
+    "Location":" Cape Vincent",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.464311,-76.515652 ]
+    },
+    "properties": {
+    "Name":"Cayuga Inlet Lighthouse( near Ithaca",
+    "Location":"NY)",
+    "State":" Cayuga Inlet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.462568,-76.514303 ]
+    },
+    "properties": {
+    "Name":"Cayuga Inlet Breakwater Light(near Ithaca",
+    "Location":"NY)",
+    "State":" Cayuga Inlet"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.0408,-72.26100000000001 ]
+    },
+    "properties": {
+    "Name":"Cedar Island Lighthouse",
+    "Location":" 4 miles northeast of Sag Harbor",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.253,-77.6108 ]
+    },
+    "properties": {
+    "Name":"Charlotte-Genesse Lighthouse",
+    "Location":" Rochester",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.9143,-73.4931 ]
+    },
+    "properties": {
+    "Name":"Cold Spring Harbor Light",
+    "Location":" near Cold Spring Harbor",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5765,-74.01185 ]
+    },
+    "properties": {
+    "Name":"Coney Island Light",
+    "Location":" Seagate in Brooklyn",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4974,-75.7821 ]
+    },
+    "properties": {
+    "Name":"Crossover Island Light- Crossover Island",
+    "Location":" St Lawrence River",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.0299,-73.4214 ]
+    },
+    "properties": {
+    "Name":"Crown Point Light",
+    "Location":" Crown Point State Historic Site",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6908,-73.3862 ]
+    },
+    "properties": {
+    "Name":"Cumberland Head Lighthouse",
+    "Location":" east of Plattsburg",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.4936,-79.3537 ]
+    },
+    "properties": {
+    "Name":"Dunkirt(Point Gratiot) Lighthouse",
+    "Location":" Dunkirk",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.9912,-76.5422 ]
+    },
+    "properties": {
+    "Name":"East Charity Shoal Light",
+    "Location":" offshore near Galloo Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.9533,-73.3949 ]
+    },
+    "properties": {
+    "Name":"Eaton's Neck Lighthouse",
+    "Location":" Eaton's Neck",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.564,-74.0952 ]
+    },
+    "properties": {
+    "Name":"Elm Tree Light",
+    "Location":" Staten Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.8851,-73.9484 ]
+    },
+    "properties": {
+    "Name":"Esopus Meadows Lighthouse",
+    "Location":" in middle of Hudson River near Esopus",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.878040000000006,-73.7373 ]
+    },
+    "properties": {
+    "Name":"Execution Rocks Lighthouse",
+    "Location":" offshore of Long Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.63167,-73.21789 ]
+    },
+    "properties": {
+    "Name":"Fire Island Lighthouse",
+    "Location":" Fire Island National Seashore",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.2617,-79.0633 ]
+    },
+    "properties": {
+    "Name":"Fort Niagara Lighthouse",
+    "Location":" Fort Niagara State Park",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.6041,-74.0539 ]
+    },
+    "properties": {
+    "Name":"Fort Wadsworth Light",
+    "Location":" Fort Wadsworth",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.7501,-74.01 ]
+    },
+    "properties": {
+    "Name":"Frying Pan Lightship",
+    "Location":" Hudson River in Manhattan",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8883,-76.4449 ]
+    },
+    "properties": {
+    "Name":"Galloo Island Light",
+    "Location":" Galloo Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.9761,-78.9474 ]
+    },
+    "properties": {
+    "Name":"Grand Island Front Range Light",
+    "Location":" Grand Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.9429,-76.1427 ]
+    },
+    "properties": {
+    "Name":"Horse Island Lighthouse",
+    "Location":" Horse Island near Sackets Harbor",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8866,-78.9125 ]
+    },
+    "properties": {
+    "Name":"Horseshoe Reef  Light",
+    "Location":" offshore in Lake Erie and Niagara River",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.085,-72.44668 ]
+    },
+    "properties": {
+    "Name":"Horton Point Lighthouse",
+    "Location":" Horton Point",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.2517,-73.81 ]
+    },
+    "properties": {
+    "Name":"Hudson-Athens Lighthouse",
+    "Location":" Hudson River between Athens and Hudson",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.910779999999995,-73.4311 ]
+    },
+    "properties": {
+    "Name":"Huntington Harbor (Lloyd Harbor) Lighthouse",
+    "Location":" offshore on Lloyd's Harbor",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.85015,-73.94641 ]
+    },
+    "properties": {
+    "Name":"Jeffrey's Hook Light",
+    "Location":" under George Washingtion Bridge",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3045,-71.9335 ]
+    },
+    "properties": {
+    "Name":"Latimer Reef Light",
+    "Location":" offshore of Fisher's Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.206109999999995,-72.1067 ]
+    },
+    "properties": {
+    "Name":"Little Gull Island Light",
+    "Location":" offshore of Palm Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.11,-72.3066 ]
+    },
+    "properties": {
+    "Name":"Long Beach Bar Lighthouse",
+    "Location":" offshore of Long Beach",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.0717,-71.85677 ]
+    },
+    "properties": {
+    "Name":"Montauk Point Lighthouse",
+    "Location":" Montauk Point State Park on Long Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.07,-71.9333 ]
+    },
+    "properties": {
+    "Name":"Montauk Yacht Club Lighthouse",
+    "Location":" Montauk Lake",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.6424,-74.0713 ]
+    },
+    "properties": {
+    "Name":"Nantucket Lightship Oyster Bay on Long Island",
+    "Location":" Long Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.58077,-74.1201 ]
+    },
+    "properties": {
+    "Name":"New Dorp Lighthouse",
+    "Location":" Staten Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.7993,-73.8996 ]
+    },
+    "properties": {
+    "Name":"North Brother Island Light",
+    "Location":" East River near Rikers Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2881,-72.0195 ]
+    },
+    "properties": {
+    "Name":"North Dumpling Lighthouse",
+    "Location":" North Dumpling Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6978,-75.5036 ]
+    },
+    "properties": {
+    "Name":"Ogdensburg Harbor Lighthouse",
+    "Location":" Ogdensburg",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.33874,-78.71512 ]
+    },
+    "properties": {
+    "Name":"Olcott (Replica)",
+    "Location":" Olcott",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.9767,-73.1183 ]
+    },
+    "properties": {
+    "Name":"Old Field Point Lighthouse",
+    "Location":" Old Field",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5117,-74.1 ]
+    },
+    "properties": {
+    "Name":"Old Orchard Shoal Light",
+    "Location":" offshore in Lower New York Bay",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.1634,-72.2234 ]
+    },
+    "properties": {
+    "Name":"Orient Point Light",
+    "Location":" offshore of Plum Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.4736,-76.5169 ]
+    },
+    "properties": {
+    "Name":"Oswego West Pierhead Lighthouse",
+    "Location":" Oswego",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.1736,-72.2114 ]
+    },
+    "properties": {
+    "Name":"Plum Island Lighthouse",
+    "Location":" Plum Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.7994,-73.3601 ]
+    },
+    "properties": {
+    "Name":"Point Au Roche Light",
+    "Location":" Lake Champlain",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5076,-74.2133 ]
+    },
+    "properties": {
+    "Name":"Princes Bay Lighthouse",
+    "Location":" Staten Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2434,-72.0466 ]
+    },
+    "properties": {
+    "Name":"Race Rock Lighthouse",
+    "Location":" offshore in Long Island Sound",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.26388,-77.59897 ]
+    },
+    "properties": {
+    "Name":"Rochester Harbor",
+    "Location":" Rochester",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2802,-76.0166 ]
+    },
+    "properties": {
+    "Name":"Rock Island Lighthouse",
+    "Location":" offshore in St Lawrence River near Fishers Landing",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.9217,-73.9633 ]
+    },
+    "properties": {
+    "Name":"Rondout Creek Lighthouse",
+    "Location":" in Hudson River near Kingston",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.8659,-73.7294 ]
+    },
+    "properties": {
+    "Name":"Sands Point Lighthouse",
+    "Location":" on Long Island near Port Washington",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.0716,-73.93 ]
+    },
+    "properties": {
+    "Name":"Saugerties Lighthouse",
+    "Location":" in Hudson River near Esopus Creek",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.5742,-76.2019 ]
+    },
+    "properties": {
+    "Name":"Selkirk Lighthouse",
+    "Location":" Selkirk",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.8505,-72.5041 ]
+    },
+    "properties": {
+    "Name":"Shinnecock Lighthouse",
+    "Location":" Shinnecock Bay",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.413999999999994,-75.8446 ]
+    },
+    "properties": {
+    "Name":"Sisters Island Lighthouse",
+    "Location":" Sister Island in St Lawrence River",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.2772,-76.9741 ]
+    },
+    "properties": {
+    "Name":"Sodus Outer Light",
+    "Location":" Sodus Bay",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.27259,-76.98608 ]
+    },
+    "properties": {
+    "Name":"Sodus Point Lighthouse",
+    "Location":" Sodus Point",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2676,-73.3226 ]
+    },
+    "properties": {
+    "Name":"Split Rock Lighthouse",
+    "Location":" Lake Champlain",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5761,-74.1413 ]
+    },
+    "properties": {
+    "Name":"Staten Island Range Light",
+    "Location":" Staten Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.6897,-74.0446 ]
+    },
+    "properties": {
+    "Name":"Statue of Liberty Light",
+    "Location":" Liberty Island in New York Harbor",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.8247,-73.7748 ]
+    },
+    "properties": {
+    "Name":"Stepping Stones Lighthouse",
+    "Location":" offshore of Long Island",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8391,-76.2985 ]
+    },
+    "properties": {
+    "Name":"Stony Point Lighthouse",
+    "Location":" Stony Point",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.2416,-73.97 ]
+    },
+    "properties": {
+    "Name":"Stony Point (Hudson River) Light",
+    "Location":" Stony Point State Park",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.3458,-75.911 ]
+    },
+    "properties": {
+    "Name":"Sunken Rock Lighthouse",
+    "Location":" in St Lawrence River",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.08468,-73.87481 ]
+    },
+    "properties": {
+    "Name":"Tarrytown Light",
+    "Location":" north of Tappan Zee Bridge on Hudson River",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3747,-78.4861 ]
+    },
+    "properties": {
+    "Name":"Thirty Mile Point Lighthouse",
+    "Location":" Golden Hill State Park",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.805,-73.7916 ]
+    },
+    "properties": {
+    "Name":"Throgs Neck Light",
+    "Location":" on Campus of SUNY Maritine College",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1005,-76.37 ]
+    },
+    "properties": {
+    "Name":"Tibbets Point Light",
+    "Location":" near Cape Vincent",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.7074,-74.0042 ]
+    },
+    "properties": {
+    "Name":"Titanic Memorial Light",
+    "Location":" Lower Manhattan",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.1894,-75.7317 ]
+    },
+    "properties": {
+    "Name":"Verona Beach Light",
+    "Location":" Verona Beach",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5384,-74.0433 ]
+    },
+    "properties": {
+    "Name":"West Bank Light",
+    "Location":" offshore in Lower New York Bay",
+    "State":"NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.9183,-80.7966 ]
+    },
+    "properties": {
+    "Name":"Ashtabula Harbor Lighthouse",
+    "Location":" Ashtabula Harbor",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5102,-84.47399999999999 ]
+    },
+    "properties": {
+    "Name":"Behm's (Grimm Memorial)",
+    "Location":" OH",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4882,-82.69378 ]
+    },
+    "properties": {
+    "Name":"Cedar Point Lighthouse",
+    "Location":" near Sandusky",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5441,-84.5706 ]
+    },
+    "properties": {
+    "Name":"Celina Light",
+    "Location":" Celina",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.54316,-81.6516 ]
+    },
+    "properties": {
+    "Name":"Cleveland East Entrance Light",
+    "Location":" Cleveland Harbor",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.5102,-81.7155 ]
+    },
+    "properties": {
+    "Name":"Cleveland Harbor East Pierhead Light",
+    "Location":" Cleveland Harbor",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.5089,-81.7176 ]
+    },
+    "properties": {
+    "Name":"Cleveland Harbor West Pierhead Lighthouse",
+    "Location":" Cleveland Harbor",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.9794,-80.5584 ]
+    },
+    "properties": {
+    "Name":"Conneaut West Breakwater Light",
+    "Location":" Conneaut",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.757,-81.2773 ]
+    },
+    "properties": {
+    "Name":"Fairport Harbor Lighthouse",
+    "Location":" Fairport",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7679,-81.2811 ]
+    },
+    "properties": {
+    "Name":"Fairport Harbor West Breakwater Lighthouse",
+    "Location":" Fairport",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.645,-82.8683 ]
+    },
+    "properties": {
+    "Name":"Green Island Light",
+    "Location":" South Bass Island",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.398999999999994,-82.5465 ]
+    },
+    "properties": {
+    "Name":"Huron Harbor Light",
+    "Location":" Huron River and Lake Erie",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4766,-82.19 ]
+    },
+    "properties": {
+    "Name":"Loraine Lighthouse",
+    "Location":" Loraine",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.677,-83.4982 ]
+    },
+    "properties": {
+    "Name":"Manhattan Range Lights",
+    "Location":" Toledo",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.5364,-82.7115 ]
+    },
+    "properties": {
+    "Name":"Marblehead Lighthouse",
+    "Location":" Marblehead Lighthouse State Park",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 40.5437,-84.4815 ]
+    },
+    "properties": {
+    "Name":"Northwood Light",
+    "Location":" Northwood",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6542,-82.81251 ]
+    },
+    "properties": {
+    "Name":"Perry Memorial Light",
+    "Location":" South Bass Island",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.5162,-82.9477 ]
+    },
+    "properties": {
+    "Name":"Port Clinton Portage River Light",
+    "Location":" Port Clinton",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4999,-82.6743 ]
+    },
+    "properties": {
+    "Name":"Sandusky Harbor Breakwater Light",
+    "Location":" Sandusky",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6386,-82.8417 ]
+    },
+    "properties": {
+    "Name":"South Bass Island Lighthouse",
+    "Location":" South Bass Island",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7618,-83.3286 ]
+    },
+    "properties": {
+    "Name":"Toledo Harbor Lighthouse",
+    "Location":" 8 miles offshore",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7525,-83.391 ]
+    },
+    "properties": {
+    "Name":"Turtle Island Light",
+    "Location":" Turtle Island in Lake Erie",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.4245,-82.3666 ]
+    },
+    "properties": {
+    "Name":"Vermillion Light",
+    "Location":" Vermillion",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7364,-83.1102 ]
+    },
+    "properties": {
+    "Name":"West Sister Island Light",
+    "Location":" West Sister Island",
+    "State":"  OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3415,-124.3754 ]
+    },
+    "properties": {
+    "Name":"Cape Arago Lighthouse",
+    "Location":" Chief's Island",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.8373,-124.5628 ]
+    },
+    "properties": {
+    "Name":"Cape Blanco Lighthouse",
+    "Location":" Port Orford",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.4864,-123.9781 ]
+    },
+    "properties": {
+    "Name":"Cape Mears Light ",
+    "Location":" Cape Meares State Scenic Viewpoint",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2816,-124.1119 ]
+    },
+    "properties": {
+    "Name":"Cleft of the Rock (Cape Perpetual) Light",
+    "Location":" Yachats",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.1222,-124.4234 ]
+    },
+    "properties": {
+    "Name":"Coquille River (Bandon) Lighthouse",
+    "Location":" Bandon",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1373,-124.1284 ]
+    },
+    "properties": {
+    "Name":"Heceta Head Lighthouse",
+    "Location":" Heceta Head Lighthouse State Scenic Viewpoint",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.1904,-123.8242 ]
+    },
+    "properties": {
+    "Name":"Lightship Columbia",
+    "Location":" Astoria",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.9375,-124.01933000000001 ]
+    },
+    "properties": {
+    "Name":"Tillamook Head Lighthouse",
+    "Location":" Tillamook Rock",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.6615,-124.1984 ]
+    },
+    "properties": {
+    "Name":"Umpqua River Lighthouse",
+    "Location":" Umpqua River State Park",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.8484,-122.7884 ]
+    },
+    "properties": {
+    "Name":"Warrior Rock Light",
+    "Location":" Sauvie Island",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.623999999999995,-124.06299999999999 ]
+    },
+    "properties": {
+    "Name":"Yaquina Bay Lighthouse",
+    "Location":" Newport",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6767,-124.08 ]
+    },
+    "properties": {
+    "Name":"Yaquina Head Lighthouse",
+    "Location":" Agate Beach",
+    "State":"  OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.1442,-80.0621 ]
+    },
+    "properties": {
+    "Name":"Erie Land Lighthouse",
+    "Location":" Erie",
+    "State":"  PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.1654,-80.1152 ]
+    },
+    "properties": {
+    "Name":"Presque Isle Lighthouse",
+    "Location":" Presque Isle Peninsula",
+    "State":"  PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.1567,-80.0716 ]
+    },
+    "properties": {
+    "Name":"Presque Isle North Pierhead Light",
+    "Location":" Presque Isle State Park",
+    "State":"  PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 39.97,-75.1898 ]
+    },
+    "properties": {
+    "Name":"Turtle Rock Lighthouse",
+    "Location":" Philadelphia",
+    "State":" PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.44944,-71.39894 ]
+    },
+    "properties": {
+    "Name":"Beavertail Lighthouse",
+    "Location":" Beavertail State Park",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.227509999999995,-71.57606 ]
+    },
+    "properties": {
+    "Name":"Block Island North Lighthouse",
+    "Location":" Block Island",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.15247,-71.55198 ]
+    },
+    "properties": {
+    "Name":"Block Island Southeast Lighthouse",
+    "Location":" Block Island",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.64287,-71.2603 ]
+    },
+    "properties": {
+    "Name":"Bristol Ferry Lighthouse",
+    "Location":" under the Mount Hope Bridge",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.462109999999996,-71.36294000000001 ]
+    },
+    "properties": {
+    "Name":"Castle Hill Light",
+    "Location":" Castle Hill Point",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.5733,-71.37144 ]
+    },
+    "properties": {
+    "Name":"Conanicu Lighthouse",
+    "Location":" Conanicut Island",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.71646,-71.34521 ]
+    },
+    "properties": {
+    "Name":"Conimicut Point Light",
+    "Location":" offshore at entrance to Providence River",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.49722,-71.40433 ]
+    },
+    "properties": {
+    "Name":"Dutch Island Light",
+    "Location":" Dutch Island",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.63166,-71.27329 ]
+    },
+    "properties": {
+    "Name":"Hog Island Shoal Light",
+    "Location":" offshore south of Hog Island",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.47777,-71.32582 ]
+    },
+    "properties": {
+    "Name":"Ida Lewis Rock Lighthouse",
+    "Location":" Newport Harbor",
+    "State":" RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.72535,-71.33869 ]
+    },
+    "properties": {
+    "Name":"Nayatt Point Lighthouse",
+    "Location":" Barrington",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.49307,-71.32719 ]
+    },
+    "properties": {
+    "Name":"Newport Harbor(Goat Island) Light",
+    "Location":" Newport Harbor",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.53035,-71.40529000000001 ]
+    },
+    "properties": {
+    "Name":"Plum Beach Light",
+    "Location":" offshore in Narraganset Bay",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.36095,-71.481476 ]
+    },
+    "properties": {
+    "Name":"Point Judith Lighthouse",
+    "Location":" Point Judith",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.7773,-71.3673 ]
+    },
+    "properties": {
+    "Name":"Pomham Rocks Lighthouse",
+    "Location":" offshore in Providence River",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.5711,-71.4393 ]
+    },
+    "properties": {
+    "Name":"Poplar Point Lighthouse",
+    "Location":" Poplar Point",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6059,-71.3037 ]
+    },
+    "properties": {
+    "Name":"Prudence Island Light",
+    "Location":" Prudence Island",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.49585,-71.34213000000001 ]
+    },
+    "properties": {
+    "Name":"Rose Island Lighthouse",
+    "Location":" offshore on Rose Island",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.45323,-71.2026 ]
+    },
+    "properties": {
+    "Name":"Sakonnet Lighthouse",
+    "Location":" offshore from Sakonnet",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.6672,-71.3784 ]
+    },
+    "properties": {
+    "Name":"Warwick Lighthouse",
+    "Location":" south of Warwick",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 41.3034,-71.8583 ]
+    },
+    "properties": {
+    "Name":"Watch Hill Lighthouse",
+    "Location":" Watch Hill Point",
+    "State":"  RI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.0968,-80.8723 ]
+    },
+    "properties": {
+    "Name":"Bloody Point Front Range Light",
+    "Location":" Dafuskie Island",
+    "State":"  SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.01872,-79.3739 ]
+    },
+    "properties": {
+    "Name":"Cape Romain Lighthouse",
+    "Location":" Cape Romain National Wildlife Refuge",
+    "State":"  SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 33.2233,-79.185 ]
+    },
+    "properties": {
+    "Name":"Georgetown Lighthouse",
+    "Location":" North Island",
+    "State":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.145,-80.8366 ]
+    },
+    "properties": {
+    "Name":"Haig Point(Daufuskie Island) Lighthouse",
+    "Location":" Daufuskie Island",
+    "State":"  SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.13898,-80.81238 ]
+    },
+    "properties": {
+    "Name":"Harbour Town Light",
+    "Location":" Hilton Head Island",
+    "State":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.1644,-80.7398 ]
+    },
+    "properties": {
+    "Name":"Hilton Head Rear Range Light",
+    "Location":" Hilton Head Island",
+    "State":"  SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.374990000000004,-80.43829000000001 ]
+    },
+    "properties": {
+    "Name":"Hunting Island Lighthouse",
+    "Location":" Hunting Island State Park",
+    "State":"  SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.6895,-79.883 ]
+    },
+    "properties": {
+    "Name":"Morris Island Lighthouse",
+    "Location":" Folley Island",
+    "State":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.3129,-80.6774 ]
+    },
+    "properties": {
+    "Name":"Parris Island Light",
+    "Location":" Marine Corps Recruit Depot",
+    "State":" Parris Island"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 32.7578,-79.8429 ]
+    },
+    "properties": {
+    "Name":"Sullivans Island Lighthouse",
+    "Location":" Sullivan's Island",
+    "State":" SC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 27.8639,-97.0565 ]
+    },
+    "properties": {
+    "Name":"Aransas Pass (Lydia Ann) Light",
+    "Location":" Port Aransas",
+    "State":"  TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.366609999999998,-94.76718000000001 ]
+    },
+    "properties": {
+    "Name":"Bolivar Point Lighthouse",
+    "Location":" Port Bolivar",
+    "State":"  TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.3278,-94.6925 ]
+    },
+    "properties": {
+    "Name":"Galveston Jetty Light",
+    "Location":" Galveston Bay",
+    "State":"  TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.6374,-96.6154 ]
+    },
+    "properties": {
+    "Name":"Halfmoon Reef Lighthouse",
+    "Location":" Port Lavaca",
+    "State":"  TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 28.3379,-96.4237 ]
+    },
+    "properties": {
+    "Name":"Matagorda Island Lighthouse",
+    "Location":" Matagorda Island",
+    "State":"  TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 26.0777,-97.2075 ]
+    },
+    "properties": {
+    "Name":"Point (Port) Isabel Lighthouse",
+    "Location":" Port Isabel",
+    "State":"  TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 29.7345,-93.8934 ]
+    },
+    "properties": {
+    "Name":"Sabine Bank Light",
+    "Location":" Sabine Pass",
+    "State":"  TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.9117,-75.3567 ]
+    },
+    "properties": {
+    "Name":"Assateaque Lighthouse",
+    "Location":" Chincoteague National Wildlife Refuge",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.1133,-75.9067 ]
+    },
+    "properties": {
+    "Name":"Cape Charles Light",
+    "Location":" Smith Island",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9265,-76.0074 ]
+    },
+    "properties": {
+    "Name":"Cape Henry Lighthouse",
+    "Location":" Fort Story",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9258,-76.0083 ]
+    },
+    "properties": {
+    "Name":"Cape Henry(Old) Lighthouse",
+    "Location":" Fort Story",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.001695,-76.3064 ]
+    },
+    "properties": {
+    "Name":"Old Point Comfort Lighthouse",
+    "Location":" Fort Monroe",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 38.7904,-77.0408 ]
+    },
+    "properties": {
+    "Name":"Jones Point Lighthouse",
+    "Location":" Jones Point Park",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3054,-76.2782 ]
+    },
+    "properties": {
+    "Name":"New Point Comfort Lighthouse",
+    "Location":" tiny island at Mobjack Bay",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.9452,-76.3919 ]
+    },
+    "properties": {
+    "Name":"Newport News Middle Ground Light",
+    "Location":" Chesapeake Bay",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 36.836999999999996,-76.2967 ]
+    },
+    "properties": {
+    "Name":"Portsmouth Lightship",
+    "Location":" Portsmouth",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.8802,-76.1833 ]
+    },
+    "properties": {
+    "Name":"Smith Point Light",
+    "Location":" Chesapeake Bay near entrance to Potomac River",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.0145,-76.2404 ]
+    },
+    "properties": {
+    "Name":"Thimble Shoals Light Chesapeake Bay",
+    "Location":"  VA",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 37.3904,-76.1897 ]
+    },
+    "properties": {
+    "Name":"Wolf Trap Light",
+    "Location":" Chesapeake Bay",
+    "State":"  VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4802,-73.2298 ]
+    },
+    "properties": {
+    "Name":"Burlington Breakwater North Light",
+    "Location":" Burlington",
+    "State":"  VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4694,-73.2258 ]
+    },
+    "properties": {
+    "Name":"Burlington Breakwater South light",
+    "Location":" Burlington",
+    "State":"  VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.3733,-73.2306 ]
+    },
+    "properties": {
+    "Name":"Colchester Reef Lighthouse",
+    "Location":" Shelburne",
+    "State":"  VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.90657,-73.34328000000001 ]
+    },
+    "properties": {
+    "Name":"Isle La Motte Light",
+    "Location":" Isle La Motte",
+    "State":"  VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4502,-73.2762 ]
+    },
+    "properties": {
+    "Name":"Juniper Island Lighthouse",
+    "Location":" Juniper Island",
+    "State":"  VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.98361,-73.34058 ]
+    },
+    "properties": {
+    "Name":"Windmill Point Lighthouse",
+    "Location":" Alburgh",
+    "State":"  VT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.15702,-122.67943000000001 ]
+    },
+    "properties": {
+    "Name":"Admiralty Head Lighthouse",
+    "Location":" Fort Casey State Park near Coupeville",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.5762,-122.4206 ]
+    },
+    "properties": {
+    "Name":"Alki Point Lighthouse",
+    "Location":" Alki Peninsula near Seattle",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.3059,-122.444 ]
+    },
+    "properties": {
+    "Name":"Browns Point Light",
+    "Location":" Browns Point Lighthouse Park",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.4781,-122.7134 ]
+    },
+    "properties": {
+    "Name":"Burrows Island Lighthouse",
+    "Location":" Burrows Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.0309,-122.6071 ]
+    },
+    "properties": {
+    "Name":"Bush Point Light",
+    "Location":" Whidbey",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.2756,-124.0518 ]
+    },
+    "properties": {
+    "Name":"Cape Disappointment Light",
+    "Location":" Fort Camby State Park",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.3917,-124.7366 ]
+    },
+    "properties": {
+    "Name":"Cape Flattery Lighthouse",
+    "Location":" Tatoosh Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.4504,-122.9634 ]
+    },
+    "properties": {
+    "Name":"Cattle Point Light",
+    "Location":" San Juan Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.6752,-124.4868 ]
+    },
+    "properties": {
+    "Name":"Destruction Island Lighthouse",
+    "Location":" Destruction Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.1404,-122.90700000000001 ]
+    },
+    "properties": {
+    "Name":"Dofflemeyer Point Light",
+    "Location":" Boston Harbor near Olympia",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.11274,-123.42693 ]
+    },
+    "properties": {
+    "Name":"Ediz Hook Light",
+    "Location":" Port Angeles",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.3266,-122.5748 ]
+    },
+    "properties": {
+    "Name":"Gig Harbor Light",
+    "Location":" Gig Harbor",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.8884,-124.1167 ]
+    },
+    "properties": {
+    "Name":"Grays Harbor (Westport) Lighthouse",
+    "Location":" Westport",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.6275,-122.3383 ]
+    },
+    "properties": {
+    "Name":"Lightship Swiftsure",
+    "Location":" Union Lake in Seattle",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.5159,-123.1524 ]
+    },
+    "properties": {
+    "Name":"Lime Kiln Lighthouse",
+    "Location":" San Juan Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.1018,-122.6879 ]
+    },
+    "properties": {
+    "Name":"Marrowstone Point Light",
+    "Location":" Marrowstone Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.9487,-122.306321 ]
+    },
+    "properties": {
+    "Name":"Mukilteo Lighthouse",
+    "Location":" Mukilteo",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.18274,-123.10961999999999 ]
+    },
+    "properties": {
+    "Name":"New Dungeness Lighthouse",
+    "Location":" on Sandspit near Sequim",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.299,-124.0785 ]
+    },
+    "properties": {
+    "Name":"North Head Lighthouse",
+    "Location":" near Ilwaco",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.788999999999994,-122.9715 ]
+    },
+    "properties": {
+    "Name":"Patos Island Lighthouse",
+    "Location":" Patos Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.9123,-122.5267 ]
+    },
+    "properties": {
+    "Name":"Point No Point Light",
+    "Location":" Hansville",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.3881,-122.3746 ]
+    },
+    "properties": {
+    "Name":"Point Robinson Lighthouse",
+    "Location":" Maury Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.1442,-122.7551 ]
+    },
+    "properties": {
+    "Name":"Point Wilson Lighthouse",
+    "Location":" Port Townsend",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.92,-122.5696 ]
+    },
+    "properties": {
+    "Name":"Skunk Bay Lighthouse",
+    "Location":" Hansville",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.2645,-124.251 ]
+    },
+    "properties": {
+    "Name":"Slip Point Lighthouse",
+    "Location":" Clallam Bay",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 48.6887,-123.2372 ]
+    },
+    "properties": {
+    "Name":"Turn Point Lighthouse",
+    "Location":" Stuart Island",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.6619,-122.4355 ]
+    },
+    "properties": {
+    "Name":"West Point Light",
+    "Location":" Discovery Park near Seattle",
+    "State":"  WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6074,-87.4292 ]
+    },
+    "properties": {
+    "Name":"Algoma Pierhead Front Light",
+    "Location":" Algoma",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.6285,-90.8697 ]
+    },
+    "properties": {
+    "Name":"Ashland Breakwater Light",
+    "Location":" Ashland",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.0626,-88.5159 ]
+    },
+    "properties": {
+    "Name":"Asylum Point Light",
+    "Location":" Oshkosh",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0513,-87.0955 ]
+    },
+    "properties": {
+    "Name":"Baileys Harbor Light",
+    "Location":" Lighthouse Island in Baileys Harbor",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.07,-87.12 ]
+    },
+    "properties": {
+    "Name":"Baileys Harbor Range Lights",
+    "Location":" Baileys Harbor",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.42,-86.9364 ]
+    },
+    "properties": {
+    "Name":"Boyer Bluff Light",
+    "Location":" Washington Island",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.0075,-88.52 ]
+    },
+    "properties": {
+    "Name":"Bray's Point Light",
+    "Location":" Oshkosh",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.9147,-88.3322 ]
+    },
+    "properties": {
+    "Name":"Calumet Harbor Light",
+    "Location":" Columbia Park on Lake Winnebago",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.0883,-87.0466 ]
+    },
+    "properties": {
+    "Name":"Cana Island Lighthouse",
+    "Location":" 5 miles from Baileys Harbor",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.2025,-87.3647 ]
+    },
+    "properties": {
+    "Name":"Chambers Island Lighthouse",
+    "Location":" Chambers Island",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7283,-90.8093 ]
+    },
+    "properties": {
+    "Name":"Chequamegon Point Lighthouse(Ashland Breakwater) Light",
+    "Location":" Apostle Islands National Lakeshore",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.08,-90.7283 ]
+    },
+    "properties": {
+    "Name":"Devils Island Light",
+    "Location":" Devils Island Apostle Islands National Lakeshore",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.8321,-87.3727 ]
+    },
+    "properties": {
+    "Name":"Dunlap Reef Rear Range Light",
+    "Location":" Sturgeon Bay",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.1683,-87.2367 ]
+    },
+    "properties": {
+    "Name":"Eagle Bluff Lighthouse",
+    "Location":" Peninsula State Park",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.8737,-88.3617 ]
+    },
+    "properties": {
+    "Name":"Fisherman's Road Light",
+    "Location":" Lake Winnebago near Pipe",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.7977,-88.4372 ]
+    },
+    "properties": {
+    "Name":"Fond du Lac Light",
+    "Location":" Fond du Lac",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.5366,-88.0029 ]
+    },
+    "properties": {
+    "Name":"Grassy Island Range Light",
+    "Location":" Green Bay",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.6533,-87.9016 ]
+    },
+    "properties": {
+    "Name":"Green Bay Harbor Entrance Light",
+    "Location":" offshore in Green Bay",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.056999999999995,-87.4937 ]
+    },
+    "properties": {
+    "Name":"Green Island Light",
+    "Location":" Green Island",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.9066,-90.4433 ]
+    },
+    "properties": {
+    "Name":"Gull Island Light",
+    "Location":" offshore on Gull Island",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5895,-87.8157 ]
+    },
+    "properties": {
+    "Name":"Kenosha Lighthouse",
+    "Location":" Simmons Island in Kenosha",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.5888,-87.8086 ]
+    },
+    "properties": {
+    "Name":"Kenosha Pierhead Light",
+    "Location":" Kenosha",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3233,-87.8883 ]
+    },
+    "properties": {
+    "Name":"Kevich Lighhouse",
+    "Location":" Ulao",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.4567,-87.4926 ]
+    },
+    "properties": {
+    "Name":"Kewaunee Pierhead Light",
+    "Location":" Kewaunee River",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.7289,-90.7851 ]
+    },
+    "properties": {
+    "Name":"LaPointe Light",
+    "Location":" Long Island Apostle Island National Lakeshore",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.596990000000005,-87.9828 ]
+    },
+    "properties": {
+    "Name":"Long Tail Point Light",
+    "Location":" Green Bay",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.0921,-87.6426 ]
+    },
+    "properties": {
+    "Name":"Manitowoc Breakwater Light",
+    "Location":" Manitowoc",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.8714,-90.49700000000001 ]
+    },
+    "properties": {
+    "Name":"Michigan Island (New) Light",
+    "Location":" Michigan Island Apostle Island National Lakeshore",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.8714,-90.49700000000001 ]
+    },
+    "properties": {
+    "Name":"Michigan Island (Old) Lighthouse",
+    "Location":" Michigan Island Apostle Island National Lakeshore",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.0267,-87.8816 ]
+    },
+    "properties": {
+    "Name":"Milwaukee Breakwater Lighthouse",
+    "Location":" Milwaukee",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.026,-87.895 ]
+    },
+    "properties": {
+    "Name":"Milwaukee Pierhead Light",
+    "Location":" Milwaukee",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1853,-88.4425 ]
+    },
+    "properties": {
+    "Name":"Neenah (Kimberly Point) Light",
+    "Location":" Neenah",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.0656,-87.8711 ]
+    },
+    "properties": {
+    "Name":"North Point Light",
+    "Location":" Milwaukee",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.0764,-90.4168 ]
+    },
+    "properties": {
+    "Name":"Outer Island Lighthouse",
+    "Location":" Outer Island Apostle Island National Lakeshore",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.9538,-87.579 ]
+    },
+    "properties": {
+    "Name":"Peshtigo Reef Light",
+    "Location":" offshore of Green Bay",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.2841,-86.9178 ]
+    },
+    "properties": {
+    "Name":"Pilot Island Lighthouse",
+    "Location":" offshore on Pilot Island",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.3078,-86.9577 ]
+    },
+    "properties": {
+    "Name":"Plum Island Rear Range Lights",
+    "Location":" offshore on Plum Island",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.391000000000005,-87.8677 ]
+    },
+    "properties": {
+    "Name":"Port Washington Lighthouse",
+    "Location":" Port Washington",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.3853,-87.8596 ]
+    },
+    "properties": {
+    "Name":"Port Washington Breakwater Light",
+    "Location":" Port Washington",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 45.4278,-86.8286 ]
+    },
+    "properties": {
+    "Name":"Potawatomie (Rock Island) Lighthouse",
+    "Location":" Rock Island State Park",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.7346,-87.7719 ]
+    },
+    "properties": {
+    "Name":"Racine Breakwater Light",
+    "Location":" Racine",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.7341,-87.7782 ]
+    },
+    "properties": {
+    "Name":"Racine Harbor (Root River) Lighthouse",
+    "Location":" Racine",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.9717,-90.805 ]
+    },
+    "properties": {
+    "Name":"Raspberry Island Lighthouse",
+    "Location":" Apostle Island National Lakeshore",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.2116,-87.5083 ]
+    },
+    "properties": {
+    "Name":"Rawley Point Light",
+    "Location":" Two Rivers",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 47.0024,-90.9374 ]
+    },
+    "properties": {
+    "Name":"Sand Island Lighthouse",
+    "Location":" Apostle Island National Lakeshore",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 43.75,-87.6917 ]
+    },
+    "properties": {
+    "Name":"Sheboygan Breakwater Light",
+    "Location":" Sheboygan",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.8922,-87.4334 ]
+    },
+    "properties": {
+    "Name":"Sherwood Point Lighthouse",
+    "Location":" Sturgeon Bay and Green Bay",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.795,-87.3133 ]
+    },
+    "properties": {
+    "Name":"Sturgeon Bay Ship Canal",
+    "Location":" Sturgeon Ship Canal",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.792,-87.3089 ]
+    },
+    "properties": {
+    "Name":"Sturgeon Bay Ship Canal Pierhead Light",
+    "Location":"  WI",
+    "State":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 44.1529,-87.5621 ]
+    },
+    "properties": {
+    "Name":"Two Rivers Light",
+    "Location":" Two Rivers",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 42.7813,-87.7585 ]
+    },
+    "properties": {
+    "Name":"Wind Point Lighthouse",
+    "Location":" Racine",
+    "State":"  WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 46.71,-92.0066 ]
+    },
+    "properties": {
+    "Name":"Wisconsin Point (Superior Entry Breakwater) Light",
+    "Location":" Superior Bay",
+    "State":"  WI"
+    }
+  }
+]
+}
