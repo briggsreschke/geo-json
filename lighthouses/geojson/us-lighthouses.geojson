@@ -4757,7 +4757,7 @@
     "type": "Feature",
     "geometry": {
        "type": "Point",
-       "coordinates":  [ -85.479504,-85.479504 ]
+       "coordinates":  [ -85.479472,44.991306 ]
     },
     "properties": {
     "Name":"Old Mission Point Lighthouse",
