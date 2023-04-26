@@ -1,5 +1,5 @@
 ### geojson and csv formats
 
 
-#### National (NP), State (SP), and National Forest (NF) campgrounds. 
+### National (NP), State (SP), and National Forest (NF) campgrounds. 
 #### Lighthouses by state
