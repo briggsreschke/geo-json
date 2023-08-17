@@ -3,4 +3,6 @@
 
 - National (NP), State (SP), and National Forest (NF) campgrounds. 
 - Lighthouses by state
-- Poets in the United States
+- Poets from the United States
+
+All data in familiar csv, json and geojson formats
