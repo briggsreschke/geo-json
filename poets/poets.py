@@ -1,3 +1,4 @@
+# Also a kind of poetry, like a solution to a puzzle
 import requests
 import json
 from bs4 import BeautifulSoup
