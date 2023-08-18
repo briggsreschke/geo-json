@@ -25,7 +25,6 @@ for tag in items:
 
         poets.append(poet)
 
-
 for poet in poets:
     url2 = poet['href']
     page = requests.get(url2)
@@ -38,7 +37,6 @@ for poet in poets:
 
         poet['birthplace'] = birthplace
         print('birthplace: ', birthplace)
-
     except:
         poet['birthplace'] = ""
         pass
