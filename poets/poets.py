@@ -21,8 +21,6 @@ for tag in items:
 
         poets.append(poet)
 
-foo = []
-
 for poet in poets:
     url2 = poet['href']
     page = requests.get(url2)
@@ -50,8 +48,6 @@ for poet in poets:
         poet['deathplace'] = ""
         pass
 
-    foo.append(poet)
-
 
 with open("poets.json", 'w') as outfile:
-    json.dump(foo, outfile)
+    json.dump(poets, outfile)
