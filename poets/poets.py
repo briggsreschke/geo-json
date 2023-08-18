@@ -2,6 +2,7 @@ import csv
 import requests
 import json
 from bs4 import BeautifulSoup
+from geopandas.tools import geocode
 
 # ----------------------------------------------------------------------------
 # Scrape wiki pages and collect data
