@@ -35,7 +35,6 @@ for poet in poets:
 
         poet['birthplace'] = birthplace
         print('birthplace: ', birthplace)
-
     except:
         poet['birthplace'] = ""
         pass
