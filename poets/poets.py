@@ -22,7 +22,6 @@ for tag in items:
         poet['name'] = row['title']
         if poet['name'][0].isnumeric():
             continue
-
         poets.append(poet)
 
 for poet in poets:
