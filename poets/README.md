@@ -2,4 +2,5 @@
 
 
 This is birthplace without taking into account time.
-![image](https://github.com/briggsreschke/gis-data/assets/16325768/01acb072-01b4-4eb4-868f-da453c59df17)
+![image](https://github.com/briggsreschke/gis-data/assets/16325768/82485e3e-019a-46a0-96b9-ea809f1eb2cc)
+
