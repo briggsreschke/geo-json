@@ -3,7 +3,5 @@
 ![image](https://github.com/briggsreschke/gis-data/assets/16325768/571378f9-fec7-4daf-b4d7-a4859e453246)
 
 
-
-
-
-
+This is birthplace without taking into account time.
+![image](https://github.com/briggsreschke/gis-data/assets/16325768/01acb072-01b4-4eb4-868f-da453c59df17)
