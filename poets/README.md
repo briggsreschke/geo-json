@@ -2,4 +2,4 @@
 
 
 This is birthplace without taking into account time:
-![poets-birthplace](https://github.com/briggsreschke/gis-data/assets/16325768/9bbf37bd-f80f-4e36-95fb-7573827dda4c)
+![poets-birthplace](https://github.com/briggsreschke/gis-data/assets/16325768/a90975e5-404b-4ca8-9da9-1c51496dc531)
