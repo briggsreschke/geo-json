@@ -4,4 +4,4 @@
 - Lighthouses by state
 - Poets from the United States
 
-All data in familiar csv, json and geojson formats
+data in familiar csv, json and geojson formats
