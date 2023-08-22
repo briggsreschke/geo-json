@@ -65,7 +65,7 @@ for poet in data:
     if poet['birthplace'] != '':
         try:
             df = geocode(poet['birthplace'], provider="nominatim",
-                         user_agent="pythongis_book", timeout=10)
+                         user_agent="poetsgis", timeout=10)
             poet['birth_lon'] = df['geometry'][0].x
             poet['birth_lat'] = df['geometry'][0].y
         except:
@@ -77,7 +77,7 @@ for poet in data:
     if poet['deathplace'] != '':
         try:
             df = geocode(poet['deathplace'], provider="nominatim",
-                         user_agent="pythongis_book", timeout=10)
+                         user_agent="poetsgis", timeout=10)
             poet['death_lon'] = df['geometry'][0].x
             poet['death_lat'] = df['geometry'][0].y
         except:
