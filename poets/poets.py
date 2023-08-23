@@ -1,19 +1,20 @@
-import csv
 import requests
+import csv
 import json
 from bs4 import BeautifulSoup
 from geopandas.tools import geocode
 
-# ----------------------------------------------------------------------------
-# Scrape wiki pages and collect data
-
 url1 = "https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States"
 poets = []
+
+# ------------------------------------------------------------------
+# Open directory of poets and collect names and url for thier pages
 
 page = requests.get(url1)
 soup = BeautifulSoup(page.content, 'html.parser')
 object = soup.find(id="mw-content-text")
 items = object.find_all(class_="div-col")
+print(items) 
 
 for tag in items:
     for row in tag.findAll('a'):
@@ -23,7 +24,17 @@ for tag in items:
         poet['name'] = row['title']
         if poet['name'][0].isnumeric():
             continue
+
         poets.append(poet)
+
+for div in items:
+    for row in div.findAll('li'):
+        print(row.text)
+
+
+# -----------------------------------------------------------------
+# Get birthplace and death place from wiki infobox
+# -----------------------------------------------------------------
 
 for poet in poets:
     url2 = poet['href']
@@ -37,6 +48,7 @@ for poet in poets:
 
         poet['birthplace'] = birthplace
         print('birthplace: ', birthplace)
+
     except:
         poet['birthplace'] = ""
         pass
@@ -52,7 +64,60 @@ for poet in poets:
         poet['deathplace'] = ""
         pass
 
+
 with open("poets.json", 'w') as outfile:
+    json.dump(poets, outfile)
+
+#--------------------------------------------------------------------------
+# Get locations from old styles infoboxes that are <tables> vs <divs>
+# -------------------------------------------------------------------------
+
+with open("poets.json") as infile:
+    poets = json.load(infile)
+
+
+for poet in poets: 
+    if poet['birthplace'] or poet['deathplace']:
+        continue
+
+    url2 = poet['href']
+    page = requests.get(url2)
+    soup = BeautifulSoup(page.content, 'html.parser')
+
+    try:
+        infobox = soup.find('table', {'class': 'infobox'})
+        #print(infobox)
+        third_tr = infobox.find_all('tr')[2]
+        #print(third_tr)
+        bod = third_tr.find('th').text
+        first_a = third_tr.find('a')['title']
+
+        print(poet['name'], " ", bod, first_a)
+        if bod == "Born":
+            poet['birthplace'] = first_a
+        elif bod == "Died":
+            poet['deathplace'] = first_a
+        else:
+            pass
+    except:
+        pass
+    
+    try:
+        fourth_tr = infobox.find_all('tr')[3]
+        bod = fourth_tr.find('th').text
+        first_a = fourth_tr.find('a')['title']
+        
+        print(poet['name'], " ", bod, first_a) 
+        if bod == "Born":
+            poet['birthplace'] = first_a
+        elif bod == "Died":
+            poet['deathplace'] = first_a
+        else:
+            pass
+    except:
+        pass
+
+with open("poets.json.tmp", 'w') as outfile:
     json.dump(poets, outfile)
 
 # ----------------------------------------------------------------------------
@@ -89,9 +154,9 @@ for poet in data:
 with open("poets.json.tmp", "w") as ofile:
     json.dump(data, ofile)
 
+
 # ----------------------------------------------------------------------------
 # Write to CSV
-
 
 with open("poets.json.tmp") as infile:
     data = json.load(infile)
