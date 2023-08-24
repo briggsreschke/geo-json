@@ -18,7 +18,14 @@ poet = {}
 poets = []
 poets_dates = []
 
+# -----------------------------------------------------------------------
+# Scrape wiki pages 
+
 for tag in items:
+   
+    # -------------------------------------------------------------------
+    # get basic info (href to poet page and poet name)
+    
     for row in tag.findAll('a'):
         poet = {}
         poet['href'] = 'https://en.wikipedia.org' + row['href']
@@ -29,6 +36,56 @@ for tag in items:
 
         poets.append(poet)
 
+    # --------------------------------------------------------------------
+    # parse out years of birth and death
+
+    for row in tag.findAll('li'):
+        poet = {}
+        poet['name'] = row.find('a')['title']
+
+        years = row.text
+        years = years[years.find("(")+1:years.find(")")]
+        
+        try:
+            foo = years.split("–")
+            poet['born'] = foo[0]
+            poet['died'] = foo[1]
+        except:
+            pass
+  
+        try:               
+            foo = years.split(" ")
+            if foo[0] == "born":
+                poet['born'] = foo[1]
+                poet['died'] = ""   
+        except:
+            pass
+
+        poets_dates.append(poet)
+
+#---------------------------------------------------------------------------
+# append dates for each poet 
+
+npoets = len(poets)
+i = 0
+while (npoets):
+    born = poets_dates[i]['born']
+    try:
+        died = poets_dates[i]['died']
+    except:
+        died = ""
+
+    poets[i]['born'] = born
+    poets[i]['died'] = died
+
+    i += 1
+    npoets -= 1
+
+with open("poets.json", "w") as ofile:
+    json.dump(poets, ofile)
+
+
+#---------------------------------------------------------------------------
 # Get birthplace and deathplace
 
 for poet in poets:
@@ -64,7 +121,6 @@ with open("poets.json", 'w') as outfile:
 
 #--------------------------------------------------------------------------
 # Get locations from old style? infoboxes that are <table>s
-# -------------------------------------------------------------------------
 
 with open("poets.json") as infile:
     poets = json.load(infile)
@@ -113,7 +169,7 @@ for poet in poets:
 
 with open("poets.json.tmp", 'w') as outfile:
     json.dump(poets, outfile)
-    
+
 # ----------------------------------------------------------------------------
 # Geocode data (lon/lat of birthplace and deathplace)
 
