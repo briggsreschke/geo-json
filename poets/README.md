@@ -4,6 +4,6 @@
 Static birthplace:
 ![poets-birthplace](https://github.com/briggsreschke/gis-data/assets/16325768/0de6bd9c-8174-4013-9cd2-001cb3e55cf1)
 
-![poet-birth-death](https://github.com/briggsreschke/gis-data/assets/16325768/ce510926-56fc-4fff-90f3-391c70762cb6)
+
 
 
