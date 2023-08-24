@@ -13,11 +13,6 @@ object = soup.find(id="mw-content-text")
 items = object.find_all(class_="div-col")
 born = died = 0
 
-# print(items)
-poet = {}
-poets = []
-poets_dates = []
-
 # -----------------------------------------------------------------------
 # Scrape wiki pages 
 
