@@ -33,7 +33,6 @@ for tags in divs:
         print(poet)
 
     poets.append(poet)
-    i += 1
 
     # --------------------------------------------------------------------
     # parse out years of birth and death
