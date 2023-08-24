@@ -2,7 +2,7 @@ import requests
 import csv
 import json
 from bs4 import BeautifulSoup
-from geopandas.tools import geocode
+# from geopandas.tools import geocode
 
 # -----------------------------------------------------------------------
 # Scrape wiki pages and populate array of dicts for each poet
@@ -14,14 +14,15 @@ poets_dates = []
 page = requests.get(url1)
 soup = BeautifulSoup(page.content, 'html.parser')
 object = soup.find(id="mw-content-text")
-items = object.find_all(class_="div-col")
+divs = object.find_all(class_="div-col")
 
-for tag in items:
+i=0
+for tags in divs:
 
     # -------------------------------------------------------------------
     # get basic info (href to poet page and poet name)
 
-    data = tag.findAll('a')
+    data = tags.findAll('a')
     for row in data:
         poet = {}
         poet['href'] = 'https://en.wikipedia.org' + row['href']
@@ -32,12 +33,12 @@ for tag in items:
         print(poet)
 
     poets.append(poet)
-
+    i += 1
 
     # --------------------------------------------------------------------
     # parse out years of birth and death
 
-    for row in tag.findAll('li'):
+    for row in tags.findAll('li'):
         poet = {}
         poet['name'] = row.find('a')['title']
 
@@ -118,11 +119,10 @@ with open("poets.json", 'w') as outfile:
 
 
 # --------------------------------------------------------------------------
-# Get locations from old style? infoboxes that are <table>s
+# Get locations from old style? infoboxes that are <table>
 
 with open("poets.json") as infile:
     poets = json.load(infile)
-
 
 for poet in poets:
     if poet['birthplace'] or poet['deathplace']:
@@ -204,7 +204,6 @@ with open("poets.json.tmp", "w") as ofile:
 
 # ----------------------------------------------------------------------------
 # Write to CSV
-
 
 with open("poets.json.tmp") as infile:
     data = json.load(infile)
