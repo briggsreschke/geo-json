@@ -2,7 +2,7 @@ import requests
 import csv
 import json
 from bs4 import BeautifulSoup
-# from geopandas.tools import geocode
+from geopandas.tools import geocode
 
 # -----------------------------------------------------------------------
 # Scrape wiki pages and populate array of dicts for each poet
