@@ -61,7 +61,7 @@ for tags in divs:
         poets_dates.append(poet)
 
 # ---------------------------------------------------------------------------
-# append matching dates to poet dicts
+# mashup dates with poet data
 
 npoets = len(poets)
 i = 0
