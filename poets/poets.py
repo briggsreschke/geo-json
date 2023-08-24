@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 from geopandas.tools import geocode
 
 # -----------------------------------------------------------------------
-# Scrape wiki pages and populate array of dicts for each poet
+# Scrape wiki pages and populate array of dicts containng poet data
 
 url1 = "https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States"
 poets = []
