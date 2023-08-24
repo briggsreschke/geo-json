@@ -66,7 +66,7 @@ for tags in divs:
 
 npoets = len(poets)
 i = 0
-while (npoets):
+while (i < npoets):
     born = poets_dates[i]['born']
     try:
         died = poets_dates[i]['died']
@@ -77,7 +77,6 @@ while (npoets):
     poets[i]['died'] = died
 
     i += 1
-    npoets -= 1
 
 with open("poets.json", "w") as ofile:
     json.dump(poets, ofile)
