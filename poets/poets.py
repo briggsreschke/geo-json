@@ -4,32 +4,35 @@ import json
 from bs4 import BeautifulSoup
 from geopandas.tools import geocode
 
+# -----------------------------------------------------------------------
+# Scrape wiki pages and populate array of dicts for each poet
+
 url1 = "https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States"
 poets = []
+poets_dates = []
 
 page = requests.get(url1)
 soup = BeautifulSoup(page.content, 'html.parser')
 object = soup.find(id="mw-content-text")
 items = object.find_all(class_="div-col")
-born = died = 0
-
-# -----------------------------------------------------------------------
-# Scrape wiki pages 
 
 for tag in items:
-   
+
     # -------------------------------------------------------------------
     # get basic info (href to poet page and poet name)
-    
-    for row in tag.findAll('a'):
+
+    data = tag.findAll('a')
+    for row in data:
         poet = {}
         poet['href'] = 'https://en.wikipedia.org' + row['href']
-
+    
         poet['name'] = row['title']
         if poet['name'][0].isnumeric():
             continue
+        print(poet)
 
-        poets.append(poet)
+    poets.append(poet)
+
 
     # --------------------------------------------------------------------
     # parse out years of birth and death
@@ -58,8 +61,9 @@ for tag in items:
 
         poets_dates.append(poet)
 
-#---------------------------------------------------------------------------
-# append dates for each poet 
+exit(0)
+# ---------------------------------------------------------------------------
+# append dates for each poet
 
 npoets = len(poets)
 i = 0
@@ -80,7 +84,7 @@ with open("poets.json", "w") as ofile:
     json.dump(poets, ofile)
 
 
-#---------------------------------------------------------------------------
+# ---------------------------------------------------------------------------
 # Get birthplace and deathplace
 
 for poet in poets:
@@ -114,14 +118,14 @@ with open("poets.json", 'w') as outfile:
     json.dump(poets, outfile)
 
 
-#--------------------------------------------------------------------------
+# --------------------------------------------------------------------------
 # Get locations from old style? infoboxes that are <table>s
 
 with open("poets.json") as infile:
     poets = json.load(infile)
 
 
-for poet in poets: 
+for poet in poets:
     if poet['birthplace'] or poet['deathplace']:
         continue
 
@@ -131,9 +135,9 @@ for poet in poets:
 
     try:
         infobox = soup.find('table', {'class': 'infobox'})
-        #print(infobox)
+        # print(infobox)
         third_tr = infobox.find_all('tr')[2]
-        #print(third_tr)
+        # print(third_tr)
         bod = third_tr.find('th').text
         first_a = third_tr.find('a')['title']
 
@@ -146,13 +150,13 @@ for poet in poets:
             pass
     except:
         pass
-    
+
     try:
         fourth_tr = infobox.find_all('tr')[3]
         bod = fourth_tr.find('th').text
         first_a = fourth_tr.find('a')['title']
-        
-        print(poet['name'], " ", bod, first_a) 
+
+        print(poet['name'], " ", bod, first_a)
         if bod == "Born":
             poet['birthplace'] = first_a
         elif bod == "Died":
