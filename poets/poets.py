@@ -1,8 +1,8 @@
-
 import requests
+import csv
 import json
 from bs4 import BeautifulSoup
-import re
+from geopandas.tools import geocode
 
 url1 = "https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States"
 poets = []
@@ -28,48 +28,6 @@ for tag in items:
             continue
 
         poets.append(poet)
-
-    # parse out dates of birth and death years and add them to poet{}
-
-    for row in tag.findAll('li'):
-        poet = {}
-        poet['name'] = row.find('a')['title']
-
-        years = row.text
-        years = years[years.find("(")+1:years.find(")")]
-    
-        try:
-            foo = years.split("–")
-            poet['born'] = foo[0]
-            poet['died'] = foo[1]
-        except:
-            pass
-  
-        try:               
-            foo = years.split(" ")
-            if foo[0] == "born":
-                poet['born'] = foo[1]
-                poet['died'] = ""
-        except:
-            pass
-
-        poets_dates.append(poet)
-
-npoets = len(poets)
-i = 0
-while (npoets):
-    born = poets_dates[i]['born']
-    try:
-        died = poets_dates[i]['died']
-    except:
-        died = ""
-
-    poets[i]['born'] = born
-    poets[i]['died'] = died
-
-    i += 1
-    npoets -= 1
-
 
 # Get birthplace and deathplace
 
