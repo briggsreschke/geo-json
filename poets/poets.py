@@ -61,7 +61,6 @@ for tag in items:
 
         poets_dates.append(poet)
 
-exit(0)
 # ---------------------------------------------------------------------------
 # append dates for each poet
 
