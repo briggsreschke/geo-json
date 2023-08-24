@@ -1,20 +1,22 @@
+
 import requests
-import csv
 import json
 from bs4 import BeautifulSoup
-from geopandas.tools import geocode
+import re
 
 url1 = "https://en.wikipedia.org/wiki/List_of_poets_from_the_United_States"
 poets = []
-
-# ------------------------------------------------------------------
-# Open directory of poets and collect names and url for thier pages
 
 page = requests.get(url1)
 soup = BeautifulSoup(page.content, 'html.parser')
 object = soup.find(id="mw-content-text")
 items = object.find_all(class_="div-col")
-print(items) 
+born = died = 0
+
+# print(items)
+poet = {}
+poets = []
+poets_dates = []
 
 for tag in items:
     for row in tag.findAll('a'):
@@ -27,14 +29,49 @@ for tag in items:
 
         poets.append(poet)
 
-for div in items:
-    for row in div.findAll('li'):
-        print(row.text)
+    # parse out dates of birth and death years and add them to poet{}
+
+    for row in tag.findAll('li'):
+        poet = {}
+        poet['name'] = row.find('a')['title']
+
+        years = row.text
+        years = years[years.find("(")+1:years.find(")")]
+    
+        try:
+            foo = years.split("–")
+            poet['born'] = foo[0]
+            poet['died'] = foo[1]
+        except:
+            pass
+  
+        try:               
+            foo = years.split(" ")
+            if foo[0] == "born":
+                poet['born'] = foo[1]
+                poet['died'] = ""
+        except:
+            pass
+
+        poets_dates.append(poet)
+
+npoets = len(poets)
+i = 0
+while (npoets):
+    born = poets_dates[i]['born']
+    try:
+        died = poets_dates[i]['died']
+    except:
+        died = ""
+
+    poets[i]['born'] = born
+    poets[i]['died'] = died
+
+    i += 1
+    npoets -= 1
 
 
-# -----------------------------------------------------------------
-# Get birthplace and death place from wiki infobox
-# -----------------------------------------------------------------
+# Get birthplace and deathplace
 
 for poet in poets:
     url2 = poet['href']
@@ -48,7 +85,6 @@ for poet in poets:
 
         poet['birthplace'] = birthplace
         print('birthplace: ', birthplace)
-
     except:
         poet['birthplace'] = ""
         pass
@@ -64,12 +100,12 @@ for poet in poets:
         poet['deathplace'] = ""
         pass
 
-
 with open("poets.json", 'w') as outfile:
     json.dump(poets, outfile)
 
+
 #--------------------------------------------------------------------------
-# Get locations from old styles infoboxes that are <tables> vs <divs>
+# Get locations from old style? infoboxes that are <table>s
 # -------------------------------------------------------------------------
 
 with open("poets.json") as infile:
@@ -119,7 +155,7 @@ for poet in poets:
 
 with open("poets.json.tmp", 'w') as outfile:
     json.dump(poets, outfile)
-
+    
 # ----------------------------------------------------------------------------
 # Geocode data (lon/lat of birthplace and deathplace)
 
@@ -154,9 +190,9 @@ for poet in data:
 with open("poets.json.tmp", "w") as ofile:
     json.dump(data, ofile)
 
-
 # ----------------------------------------------------------------------------
 # Write to CSV
+
 
 with open("poets.json.tmp") as infile:
     data = json.load(infile)
