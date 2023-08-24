@@ -16,7 +16,6 @@ soup = BeautifulSoup(page.content, 'html.parser')
 object = soup.find(id="mw-content-text")
 divs = object.find_all(class_="div-col")
 
-i=0
 for tags in divs:
 
     # -------------------------------------------------------------------
