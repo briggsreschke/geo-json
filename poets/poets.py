@@ -62,7 +62,7 @@ for tags in divs:
         poets_dates.append(poet)
 
 # ---------------------------------------------------------------------------
-# append dates for each poet
+# append matching dates to poet dicts
 
 npoets = len(poets)
 i = 0
@@ -117,7 +117,7 @@ with open("poets.json", 'w') as outfile:
 
 
 # --------------------------------------------------------------------------
-# Get locations from old style? infoboxes that are <table>
+# Get birth/death places from old style? infobox (<table>)
 
 with open("poets.json") as infile:
     poets = json.load(infile)
