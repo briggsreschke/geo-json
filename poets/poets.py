@@ -30,8 +30,7 @@ for tags in divs:
         if poet['name'][0].isnumeric():
             continue
         print(poet)
-
-    poets.append(poet)
+        poets.append(poet)
 
     # --------------------------------------------------------------------
     # parse out years of birth and death
